@@ -1,0 +1,142 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+Enter agent name and effects for agent 18:
+Enter agent name and effects for agent 19:
+Enter agent name and effects for agent 20:
+Enter agent name and effects for agent 21:
+Enter agent name and effects for agent 22:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Basil    │ NHC │
+│ Quebec   │ UFT │
+│ Clover   │ OHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Quebec
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1122 │ 123456 │ Quebec   │ UFT │ X  │ 1122 │ ●○--  │ ------ │ Tossed all cards. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Lima     │ OHP │
+│ Golf     │ NFH │
+│ Yankee   │ OHR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2413 214365 Lima 1
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                 │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                            │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Quebec   │ UFT │ X  │ 1122 │ ○●--  │ ------ │ Tossed all cards.                │
+│2 │ 2413 │ 214365 │ Lima     │ OHP │ 1  │ 1324 │ ○○-○  │ XXXXXX │ Crack on round 1 is now ordered. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Golf     │ NFH │
+│ Yankee   │ OHR │
+│ Aspen    │ NHT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4232 214365 Golf 2
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Quebec   │ UFT │ X  │ 1122 │ ○●--  │ ------ │ Tossed all cards.                   │
+│2 │ 2413 │ 214365 │ Lima     │ OHP │ 1  │ 1324 │ ○○-○  │ 21---- │ Crack on round 1 is now ordered.    │
+│3 │ 4232 │ 214365 │ Golf     │ NFH │ 2  │ 3141 │ XXXX  │ 21---- │ Reveal on round 2 has been exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ OHR │
+│ Aspen    │ NHT │
+│ Alpha    │ OFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5262 215634 Alpha
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Quebec   │ UFT │ X  │ 1122 │ ○●--  │ ------ │ Tossed all cards.                   │
+│2 │ 2413 │ 214365 │ Lima     │ OHP │ 1  │ 1324 │ ○○-○  │ 21---- │ Crack on round 1 is now ordered.    │
+│3 │ 4232 │ 214365 │ Golf     │ NFH │ 2  │ 3141 │ XXXX  │ 21---- │ Reveal on round 2 has been exposed. │
+│4 │ 5262 │ 215634 │ Alpha    │ OFE │ X  │ 3141 │ ○●○●  │ 2156-- │ Added extra guess.                  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ OHR │
+│ Aspen    │ NHT │
+│ Oscar    │ OFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5262 215643 Yankee
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Quebec   │ UFT │ X  │ 1122 │ ○●--  │ ------ │ Tossed all cards.                   │
+│2 │ 2413 │ 214365 │ Lima     │ OHP │ 1  │ 1324 │ ○○-○  │ 21---- │ Crack on round 1 is now ordered.    │
+│3 │ 4232 │ 214365 │ Golf     │ NFH │ 2  │ 3141 │ XXXX  │ 21---- │ Reveal on round 2 has been exposed. │
+│4 │ 5262 │ 215634 │ Alpha    │ OFE │ X  │ 3141 │ ○●○●  │ 2156-- │ Added extra guess.                  │
+│5 │ 5262 │ 215643 │ Yankee   │ OHR │ X  │ 4131 │ ●●●●  │ XXXXXX │ Replay: Added extra guess.          │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+Congratulations! You solved the cipherlock.

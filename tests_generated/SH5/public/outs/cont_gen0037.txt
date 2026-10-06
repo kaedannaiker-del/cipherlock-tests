@@ -1,0 +1,270 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+Enter agent name and effects for agent 18:
+Enter agent name and effects for agent 19:
+Enter agent name and effects for agent 20:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Aspen    │ UFC │
+│ Sorrel   │ UFC │
+│ Laurel   │ UHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6214 │ 564231 │ Aspen    │ UFC │ 1  │ 1652 │ ●---  │ ------ │ 1 appears 1 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sorrel   │ UFC │
+│ Laurel   │ UHC │
+│ Rowan    │ OFR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6214 │ 564231 │ Aspen    │ UFC │ 1  │ 1652 │ ●---  │ ------ │ 1 appears 1 times. │
+│2 │ 4145 │ 134652 │ Sorrel   │ UFC │ 4  │ 6165 │ ○---  │ -3-6-2 │ 4 appears 2 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Laurel   │ UHC │
+│ Rowan    │ OFR │
+│ Kilo     │ UHT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6214 │ 564231 │ Aspen    │ UFC │ 1  │ 1652 │ ●---  │ ------ │ 1 appears 1 times. │
+│2 │ 4145 │ 134652 │ Sorrel   │ UFC │ 4  │ 6165 │ ○---  │ -3-6-2 │ 4 appears 2 times. │
+│3 │ 1664 │ 561243 │ Laurel   │ UHC │ 6  │ 5332 │ ○---  │ XXXXXX │ 6 appears 0 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ OFR │
+│ Kilo     │ UHT │
+│ Dahlia   │ UHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6214 │ 564231 │ Aspen    │ UFC │ 1  │ 1652 │ ●---  │ ------ │ 1 appears 1 times. │
+│2 │ 4145 │ 134652 │ Sorrel   │ UFC │ 4  │ 6165 │ ○---  │ -3-6-2 │ 4 appears 2 times. │
+│3 │ 1664 │ 561243 │ Laurel   │ UHC │ 6  │ 5332 │ ○---  │ XXXXXX │ 6 appears 0 times. │
+│4 │ 2111 │ 546132 │ DEFAULT  │ UFN │ X  │ 4555 │ ○---  │ -----2 │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ OFR │
+│ Kilo     │ UHT │
+│ Dahlia   │ UHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6214 │ 564231 │ Aspen    │ UFC │ 1  │ 1652 │ ●---  │ ------ │ 1 appears 1 times. │
+│2 │ 4145 │ 134652 │ Sorrel   │ UFC │ 4  │ 6165 │ ○---  │ -3-6-2 │ 4 appears 2 times. │
+│3 │ 1664 │ 561243 │ Laurel   │ UHC │ 6  │ 5332 │ ○---  │ XXXXXX │ 6 appears 0 times. │
+│4 │ 2111 │ 546132 │ DEFAULT  │ UFN │ X  │ 4555 │ ○---  │ -----2 │ No bonus applied.  │
+│5 │ 6113 │ 146235 │ DEFAULT  │ UFN │ X  │ 5116 │ ○---  │ ------ │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ OFR │
+│ Kilo     │ UHT │
+│ Dahlia   │ UHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6214 │ 564231 │ Aspen    │ UFC │ 1  │ 1652 │ ●---  │ ------ │ 1 appears 1 times. │
+│2 │ 4145 │ 134652 │ Sorrel   │ UFC │ 4  │ 6165 │ ○---  │ -3-6-2 │ 4 appears 2 times. │
+│3 │ 1664 │ 561243 │ Laurel   │ UHC │ 6  │ 5332 │ ○---  │ XXXXXX │ 6 appears 0 times. │
+│4 │ 2111 │ 546132 │ DEFAULT  │ UFN │ X  │ 4555 │ ○---  │ -----2 │ No bonus applied.  │
+│5 │ 6113 │ 146235 │ DEFAULT  │ UFN │ X  │ 5116 │ ○---  │ ------ │ No bonus applied.  │
+│6 │ 6223 │ 546231 │ DEFAULT  │ UFN │ X  │ 1446 │ ●●●-  │ ------ │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ OFR │
+│ Kilo     │ UHT │
+│ Dahlia   │ UHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6214 │ 564231 │ Aspen    │ UFC │ 1  │ 1652 │ ●---  │ ------ │ 1 appears 1 times. │
+│2 │ 4145 │ 134652 │ Sorrel   │ UFC │ 4  │ 6165 │ ○---  │ -3-6-2 │ 4 appears 2 times. │
+│3 │ 1664 │ 561243 │ Laurel   │ UHC │ 6  │ 5332 │ ○---  │ XXXXXX │ 6 appears 0 times. │
+│4 │ 2111 │ 546132 │ DEFAULT  │ UFN │ X  │ 4555 │ ○---  │ -----2 │ No bonus applied.  │
+│5 │ 6113 │ 146235 │ DEFAULT  │ UFN │ X  │ 5116 │ ○---  │ ------ │ No bonus applied.  │
+│6 │ 6223 │ 546231 │ DEFAULT  │ UFN │ X  │ 1446 │ ●●●-  │ ------ │ No bonus applied.  │
+│7 │ 6513 │ 542136 │ DEFAULT  │ UFN │ X  │ 6352 │ ○---  │ ------ │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (3 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ OFR │
+│ Kilo     │ UHT │
+│ Dahlia   │ UHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6214 │ 564231 │ Aspen    │ UFC │ 1  │ 1652 │ ●---  │ ------ │ 1 appears 1 times. │
+│2 │ 4145 │ 134652 │ Sorrel   │ UFC │ 4  │ 6165 │ ○---  │ -3-6-2 │ 4 appears 2 times. │
+│3 │ 1664 │ 561243 │ Laurel   │ UHC │ 6  │ 5332 │ ○---  │ XXXXXX │ 6 appears 0 times. │
+│4 │ 2111 │ 546132 │ DEFAULT  │ UFN │ X  │ 4555 │ ○---  │ -----2 │ No bonus applied.  │
+│5 │ 6113 │ 146235 │ DEFAULT  │ UFN │ X  │ 5116 │ ○---  │ ------ │ No bonus applied.  │
+│6 │ 6223 │ 546231 │ DEFAULT  │ UFN │ X  │ 1446 │ ●●●-  │ ------ │ No bonus applied.  │
+│7 │ 6513 │ 542136 │ DEFAULT  │ UFN │ X  │ 6352 │ ○---  │ ------ │ No bonus applied.  │
+│8 │ 1226 │ 214635 │ DEFAULT  │ UFN │ X  │ 2115 │ ○---  │ ---6-- │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (2 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ OFR │
+│ Kilo     │ UHT │
+│ Dahlia   │ UHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6214 │ 564231 │ Aspen    │ UFC │ 1  │ 1652 │ ●---  │ ------ │ 1 appears 1 times. │
+│2 │ 4145 │ 134652 │ Sorrel   │ UFC │ 4  │ 6165 │ ○---  │ -3-6-2 │ 4 appears 2 times. │
+│3 │ 1664 │ 561243 │ Laurel   │ UHC │ 6  │ 5332 │ ○---  │ XXXXXX │ 6 appears 0 times. │
+│4 │ 2111 │ 546132 │ DEFAULT  │ UFN │ X  │ 4555 │ ○---  │ -----2 │ No bonus applied.  │
+│5 │ 6113 │ 146235 │ DEFAULT  │ UFN │ X  │ 5116 │ ○---  │ ------ │ No bonus applied.  │
+│6 │ 6223 │ 546231 │ DEFAULT  │ UFN │ X  │ 1446 │ ●●●-  │ ------ │ No bonus applied.  │
+│7 │ 6513 │ 542136 │ DEFAULT  │ UFN │ X  │ 6352 │ ○---  │ ------ │ No bonus applied.  │
+│8 │ 1226 │ 214635 │ DEFAULT  │ UFN │ X  │ 2115 │ ○---  │ ---6-- │ No bonus applied.  │
+│9 │ 4346 │ 253614 │ DEFAULT  │ UFN │ X  │ 6364 │ ○○--  │ ---61- │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ OFR │
+│ Kilo     │ UHT │
+│ Dahlia   │ UHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6214 │ 564231 │ Aspen    │ UFC │ 1  │ 1652 │ ●---  │ ------ │ 1 appears 1 times. │
+│2 │ 4145 │ 134652 │ Sorrel   │ UFC │ 4  │ 6165 │ ○---  │ -3-6-2 │ 4 appears 2 times. │
+│3 │ 1664 │ 561243 │ Laurel   │ UHC │ 6  │ 5332 │ ○---  │ XXXXXX │ 6 appears 0 times. │
+│4 │ 2111 │ 546132 │ DEFAULT  │ UFN │ X  │ 4555 │ ○---  │ -----2 │ No bonus applied.  │
+│5 │ 6113 │ 146235 │ DEFAULT  │ UFN │ X  │ 5116 │ ○---  │ ------ │ No bonus applied.  │
+│6 │ 6223 │ 546231 │ DEFAULT  │ UFN │ X  │ 1446 │ ●●●-  │ ------ │ No bonus applied.  │
+│7 │ 6513 │ 542136 │ DEFAULT  │ UFN │ X  │ 6352 │ ○---  │ ------ │ No bonus applied.  │
+│8 │ 1226 │ 214635 │ DEFAULT  │ UFN │ X  │ 2115 │ ○---  │ ---6-- │ No bonus applied.  │
+│9 │ 4346 │ 253614 │ DEFAULT  │ UFN │ X  │ 6364 │ ○○--  │ ---61- │ No bonus applied.  │
+│10│ 5423 │ 152463 │ DEFAULT  │ UFN │ X  │ 6452 │ ●---  │ ------ │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+You have run out of guesses. Better luck next time!

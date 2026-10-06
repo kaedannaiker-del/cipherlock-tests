@@ -1,0 +1,156 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ India    │ UHH │
+│ Papa     │ UFT │
+│ Yankee   │ NHN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Papa
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1122 │ 123456 │ Papa     │ UFT │ X  │ 1122 │ ○---  │ ---4-6 │ Tossed all cards. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sierra   │ NHC │
+│ Golf     │ UHP │
+│ Maple    │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1544 215436 Golf 1
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                 │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                            │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Papa     │ UFT │ X  │ 1122 │ --○-  │ ---4-6 │ Tossed all cards.                │
+│2 │ 1544 │ 215436 │ Golf     │ UHP │ 1  │ 2344 │ ●○--  │ XXXXXX │ Crack on round 1 is now ordered. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sierra   │ NHC │
+│ Maple    │ NFH │
+│ Birch    │ NHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1433 215436 Maple 2
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Papa     │ UFT │ X  │ 1122 │ --○-  │ ---4-6 │ Tossed all cards.                   │
+│2 │ 1544 │ 215436 │ Golf     │ UHP │ 1  │ 2344 │ ●○--  │ ---4-6 │ Crack on round 1 is now ordered.    │
+│3 │ 1433 │ 215436 │ Maple    │ NFH │ 2  │ 2455 │ XXXX  │ ---4-6 │ Reveal on round 2 has been exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sierra   │ NHC │
+│ Birch    │ NHH │
+│ Alpha    │ OHN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5422 351426
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Papa     │ UFT │ X  │ 1122 │ --○-  │ ---4-6 │ Tossed all cards.                   │
+│2 │ 1544 │ 215436 │ Golf     │ UHP │ 1  │ 2344 │ ●○--  │ ---4-6 │ Crack on round 1 is now ordered.    │
+│3 │ 1433 │ 215436 │ Maple    │ NFH │ 2  │ 2455 │ XXXX  │ ---4-6 │ Reveal on round 2 has been exposed. │
+│4 │ 5422 │ 351426 │ DEFAULT  │ UFN │ X  │ 2455 │ ●○○○  │ --1426 │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sierra   │ NHC │
+│ Birch    │ NHH │
+│ Alpha    │ OHN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1541 531426 Alpha
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Papa     │ UFT │ X  │ 1122 │ --○-  │ ---4-6 │ Tossed all cards.                   │
+│2 │ 1544 │ 215436 │ Golf     │ UHP │ 1  │ 2344 │ ●○--  │ ---4-6 │ Crack on round 1 is now ordered.    │
+│3 │ 1433 │ 215436 │ Maple    │ NFH │ 2  │ 2455 │ XXXX  │ ---4-6 │ Reveal on round 2 has been exposed. │
+│4 │ 5422 │ 351426 │ DEFAULT  │ UFN │ X  │ 2455 │ ●○○○  │ --1426 │ No bonus applied.                   │
+│5 │ 1541 │ 531426 │ Alpha    │ OHN │ X  │ 5245 │ ●●○○  │ XXXXXX │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sierra   │ NHC │
+│ Birch    │ NHH │
+│ Bramble  │ UHN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1514 531426
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Papa     │ UFT │ X  │ 1122 │ --○-  │ ---4-6 │ Tossed all cards.                   │
+│2 │ 1544 │ 215436 │ Golf     │ UHP │ 1  │ 2344 │ ●○--  │ ---4-6 │ Crack on round 1 is now ordered.    │
+│3 │ 1433 │ 215436 │ Maple    │ NFH │ 2  │ 2455 │ XXXX  │ ---4-6 │ Reveal on round 2 has been exposed. │
+│4 │ 5422 │ 351426 │ DEFAULT  │ UFN │ X  │ 2455 │ ●○○○  │ --1426 │ No bonus applied.                   │
+│5 │ 1541 │ 531426 │ Alpha    │ OHN │ X  │ 5245 │ ●●○○  │ XXXXXX │ No bonus applied.                   │
+│6 │ 1514 │ 531426 │ DEFAULT  │ UFN │ X  │ 5254 │ ●●●●  │ 531426 │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+Congratulations! You solved the cipherlock.

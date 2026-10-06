@@ -1,0 +1,9 @@
+##Python files
+__pycache__/
+*.pyc
+
+##macOS files
+.DS_Store
+
+##Swap files
+*.swp

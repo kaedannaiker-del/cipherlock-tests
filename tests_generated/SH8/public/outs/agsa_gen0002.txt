@@ -1,0 +1,143 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+Enter agent name and effects for agent 18:
+Enter agent name and effects for agent 19:
+Enter agent name and effects for agent 20:
+Enter agent name and effects for agent 21:
+Enter agent name and effects for agent 22:
+Enter agent name and effects for agent 23:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Bramble  │ UFH │
+│ Birch    │ NHH │
+│ Tulip    │ UFP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Bramble 0
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Bramble  │ UFH │ 0  │ 1122 │ ●---  │ ------ │ No hidden reveals can be exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Birch    │ NHH │
+│ Tulip    │ UFP │
+│ Vetch    │ OFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2433 214365 Tulip 1
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Bramble  │ UFH │ 0  │ 1122 │ -●--  │ ------ │ No hidden reveals can be exposed. │
+│2 │ 2433 │ 214365 │ Tulip    │ UFP │ 1  │ 1344 │ ○○--  │ ------ │ Crack on round 1 is now ordered.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Birch    │ NHH │
+│ Vetch    │ OFE │
+│ Quebec   │ OHT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1534 345612 Vetch
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Bramble  │ UFH │ 0  │ 1122 │ -●--  │ ------ │ No hidden reveals can be exposed. │
+│2 │ 2433 │ 214365 │ Tulip    │ UFP │ 1  │ 1344 │ ○○--  │ ------ │ Crack on round 1 is now ordered.  │
+│3 │ 1534 │ 345612 │ Vetch    │ OFE │ X  │ 3156 │ ●●●-  │ 34---- │ Added extra guess.                │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Birch    │ NHH │
+│ Quebec   │ OHT │
+│ India    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1641 346521 India
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Bramble  │ UFH │ 0  │ 1122 │ -●--  │ ------ │ No hidden reveals can be exposed. │
+│2 │ 2433 │ 214365 │ Tulip    │ UFP │ 1  │ 1344 │ ○○--  │ ------ │ Crack on round 1 is now ordered.  │
+│3 │ 1534 │ 345612 │ Vetch    │ OFE │ X  │ 3156 │ ●●●-  │ 34---- │ Added extra guess.                │
+│4 │ 1641 │ 346521 │ India    │ OHE │ X  │ 3153 │ ●●●-  │ XXXXXX │ Added extra guess.                │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Birch    │ NHH │
+│ Quebec   │ OHT │
+│ Mike     │ OFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1644 346521 Quebec
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Bramble  │ UFH │ 0  │ 1122 │ -●--  │ ------ │ No hidden reveals can be exposed. │
+│2 │ 2433 │ 214365 │ Tulip    │ UFP │ 1  │ 1344 │ ○○--  │ ------ │ Crack on round 1 is now ordered.  │
+│3 │ 1534 │ 345612 │ Vetch    │ OFE │ X  │ 3156 │ ●●●-  │ 34---- │ Added extra guess.                │
+│4 │ 1641 │ 346521 │ India    │ OHE │ X  │ 3153 │ ●●●-  │ XXXXXX │ Added extra guess.                │
+│5 │ 1644 │ 346521 │ Quebec   │ OHT │ X  │ 3155 │ ●●●●  │ XXXXXX │ Tossed all cards.                 │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+Congratulations! You solved the cipherlock.

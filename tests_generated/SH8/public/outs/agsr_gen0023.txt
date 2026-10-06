@@ -1,0 +1,136 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Bramble  │ OHT │
+│ Sierra   │ OHT │
+│ Hazel    │ OHT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Bramble
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1122 │ 123456 │ Bramble  │ OHT │ X  │ 1122 │ ●---  │ XXXXXX │ Tossed all cards. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Lima     │ OFN │
+│ Hotel    │ NHE │
+│ Foxtrot  │ OFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3456 123456 Foxtrot
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Bramble  │ OHT │ X  │ 1122 │ ●---  │ XXXXXX │ Tossed all cards.  │
+│2 │ 3456 │ 123456 │ Foxtrot  │ OFE │ X  │ 3456 │ --○○  │ ------ │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Lima     │ OFN │
+│ Hotel    │ NHE │
+│ Maple    │ UFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2656 214365 Maple 5
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Bramble  │ OHT │ X  │ 1122 │ ●---  │ XXXXXX │ Tossed all cards.  │
+│2 │ 3456 │ 123456 │ Foxtrot  │ OFE │ X  │ 3456 │ --○○  │ ------ │ Added extra guess. │
+│3 │ 2656 │ 214365 │ Maple    │ UFC │ 5  │ 1565 │ ●●●●  │ -----5 │ 5 appears 2 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Lima     │ OFN │
+│ Hotel    │ NHE │
+│ Zulu     │ UHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3646 341625 Lima
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Bramble  │ OHT │ X  │ 1122 │ ●---  │ XXXXXX │ Tossed all cards.  │
+│2 │ 3456 │ 123456 │ Foxtrot  │ OFE │ X  │ 3456 │ --○○  │ ------ │ Added extra guess. │
+│3 │ 2656 │ 214365 │ Maple    │ UFC │ 5  │ 1565 │ ●●●●  │ -----5 │ 5 appears 2 times. │
+│4 │ 3646 │ 341625 │ Lima     │ OFN │ X  │ 1565 │ ●●●●  │ 3-1--5 │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ NHE │
+│ Zulu     │ UHM │
+│ Nova     │ NFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3626 361245 Hotel
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Bramble  │ OHT │ X  │ 1122 │ ●---  │ XXXXXX │ Tossed all cards.  │
+│2 │ 3456 │ 123456 │ Foxtrot  │ OFE │ X  │ 3456 │ --○○  │ ------ │ Added extra guess. │
+│3 │ 2656 │ 214365 │ Maple    │ UFC │ 5  │ 1565 │ ●●●●  │ -----5 │ 5 appears 2 times. │
+│4 │ 3646 │ 341625 │ Lima     │ OFN │ X  │ 1565 │ ●●●●  │ 3-1--5 │ No bonus applied.  │
+│5 │ 3626 │ 361245 │ Hotel    │ NHE │ X  │ 1565 │ XXXX  │ XXXXXX │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+Congratulations! You solved the cipherlock.

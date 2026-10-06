@@ -1,0 +1,262 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ India    │ UFN │
+│ Yarrow   │ UHN │
+│ Cedar    │ NFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6562 │ 615423 │ India    │ UFN │ X  │ 3231 │ ○---  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yarrow   │ UHN │
+│ Cedar    │ NFN │
+│ Papa     │ NHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6562 │ 615423 │ India    │ UFN │ X  │ 3231 │ ○---  │ ------ │ No bonus applied. │
+│2 │ 3256 │ 265134 │ Yarrow   │ UHN │ X  │ 5634 │ ●---  │ XXXXXX │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Cedar    │ NFN │
+│ Papa     │ NHM │
+│ Tulip    │ OFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6562 │ 615423 │ India    │ UFN │ X  │ 3231 │ ○---  │ ------ │ No bonus applied. │
+│2 │ 3256 │ 265134 │ Yarrow   │ UHN │ X  │ 5634 │ ●---  │ XXXXXX │ No bonus applied. │
+│3 │ 6422 │ 462531 │ Cedar    │ NFN │ X  │ 1566 │ XXXX  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Papa     │ NHM │
+│ Tulip    │ OFH │
+│ Bravo    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6562 │ 615423 │ India    │ UFN │ X  │ 3231 │ ○---  │ ------ │ No bonus applied. │
+│2 │ 3256 │ 265134 │ Yarrow   │ UHN │ X  │ 5634 │ ●---  │ XXXXXX │ No bonus applied. │
+│3 │ 6422 │ 462531 │ Cedar    │ NFN │ X  │ 1566 │ XXXX  │ ------ │ No bonus applied. │
+│4 │ 3522 │ 462513 │ DEFAULT  │ UFN │ X  │ 2166 │ ●---  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Papa     │ NHM │
+│ Tulip    │ OFH │
+│ Bravo    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6562 │ 615423 │ India    │ UFN │ X  │ 3231 │ ○---  │ ------ │ No bonus applied. │
+│2 │ 3256 │ 265134 │ Yarrow   │ UHN │ X  │ 5634 │ ●---  │ XXXXXX │ No bonus applied. │
+│3 │ 6422 │ 462531 │ Cedar    │ NFN │ X  │ 1566 │ XXXX  │ ------ │ No bonus applied. │
+│4 │ 3522 │ 462513 │ DEFAULT  │ UFN │ X  │ 2166 │ ●---  │ ------ │ No bonus applied. │
+│5 │ 2221 │ 153264 │ DEFAULT  │ UFN │ X  │ 5551 │ ○---  │ -53--- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Papa     │ NHM │
+│ Tulip    │ OFH │
+│ Bravo    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6562 │ 615423 │ India    │ UFN │ X  │ 3231 │ ○---  │ ------ │ No bonus applied. │
+│2 │ 3256 │ 265134 │ Yarrow   │ UHN │ X  │ 5634 │ ●---  │ XXXXXX │ No bonus applied. │
+│3 │ 6422 │ 462531 │ Cedar    │ NFN │ X  │ 1566 │ XXXX  │ ------ │ No bonus applied. │
+│4 │ 3522 │ 462513 │ DEFAULT  │ UFN │ X  │ 2166 │ ●---  │ ------ │ No bonus applied. │
+│5 │ 2221 │ 153264 │ DEFAULT  │ UFN │ X  │ 5551 │ ○---  │ -53--- │ No bonus applied. │
+│6 │ 1514 │ 514263 │ DEFAULT  │ UFN │ X  │ 5652 │ ----  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Papa     │ NHM │
+│ Tulip    │ OFH │
+│ Bravo    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6562 │ 615423 │ India    │ UFN │ X  │ 3231 │ ○---  │ ------ │ No bonus applied. │
+│2 │ 3256 │ 265134 │ Yarrow   │ UHN │ X  │ 5634 │ ●---  │ XXXXXX │ No bonus applied. │
+│3 │ 6422 │ 462531 │ Cedar    │ NFN │ X  │ 1566 │ XXXX  │ ------ │ No bonus applied. │
+│4 │ 3522 │ 462513 │ DEFAULT  │ UFN │ X  │ 2166 │ ●---  │ ------ │ No bonus applied. │
+│5 │ 2221 │ 153264 │ DEFAULT  │ UFN │ X  │ 5551 │ ○---  │ -53--- │ No bonus applied. │
+│6 │ 1514 │ 514263 │ DEFAULT  │ UFN │ X  │ 5652 │ ----  │ ------ │ No bonus applied. │
+│7 │ 4644 │ 356241 │ DEFAULT  │ UFN │ X  │ 2122 │ ●---  │ -5--4- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (3 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Papa     │ NHM │
+│ Tulip    │ OFH │
+│ Bravo    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6562 │ 615423 │ India    │ UFN │ X  │ 3231 │ ○---  │ ------ │ No bonus applied. │
+│2 │ 3256 │ 265134 │ Yarrow   │ UHN │ X  │ 5634 │ ●---  │ XXXXXX │ No bonus applied. │
+│3 │ 6422 │ 462531 │ Cedar    │ NFN │ X  │ 1566 │ XXXX  │ ------ │ No bonus applied. │
+│4 │ 3522 │ 462513 │ DEFAULT  │ UFN │ X  │ 2166 │ ●---  │ ------ │ No bonus applied. │
+│5 │ 2221 │ 153264 │ DEFAULT  │ UFN │ X  │ 5551 │ ○---  │ -53--- │ No bonus applied. │
+│6 │ 1514 │ 514263 │ DEFAULT  │ UFN │ X  │ 5652 │ ----  │ ------ │ No bonus applied. │
+│7 │ 4644 │ 356241 │ DEFAULT  │ UFN │ X  │ 2122 │ ●---  │ -5--4- │ No bonus applied. │
+│8 │ 2136 │ 216453 │ DEFAULT  │ UFN │ X  │ 1263 │ ○---  │ 2----- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (2 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Papa     │ NHM │
+│ Tulip    │ OFH │
+│ Bravo    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6562 │ 615423 │ India    │ UFN │ X  │ 3231 │ ○---  │ ------ │ No bonus applied. │
+│2 │ 3256 │ 265134 │ Yarrow   │ UHN │ X  │ 5634 │ ●---  │ XXXXXX │ No bonus applied. │
+│3 │ 6422 │ 462531 │ Cedar    │ NFN │ X  │ 1566 │ XXXX  │ ------ │ No bonus applied. │
+│4 │ 3522 │ 462513 │ DEFAULT  │ UFN │ X  │ 2166 │ ●---  │ ------ │ No bonus applied. │
+│5 │ 2221 │ 153264 │ DEFAULT  │ UFN │ X  │ 5551 │ ○---  │ -53--- │ No bonus applied. │
+│6 │ 1514 │ 514263 │ DEFAULT  │ UFN │ X  │ 5652 │ ----  │ ------ │ No bonus applied. │
+│7 │ 4644 │ 356241 │ DEFAULT  │ UFN │ X  │ 2122 │ ●---  │ -5--4- │ No bonus applied. │
+│8 │ 2136 │ 216453 │ DEFAULT  │ UFN │ X  │ 1263 │ ○---  │ 2----- │ No bonus applied. │
+│9 │ 2424 │ 364152 │ DEFAULT  │ UFN │ X  │ 6161 │ ●○--  │ ---1-- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Papa     │ NHM │
+│ Tulip    │ OFH │
+│ Bravo    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6562 │ 615423 │ India    │ UFN │ X  │ 3231 │ ○---  │ ------ │ No bonus applied. │
+│2 │ 3256 │ 265134 │ Yarrow   │ UHN │ X  │ 5634 │ ●---  │ XXXXXX │ No bonus applied. │
+│3 │ 6422 │ 462531 │ Cedar    │ NFN │ X  │ 1566 │ XXXX  │ ------ │ No bonus applied. │
+│4 │ 3522 │ 462513 │ DEFAULT  │ UFN │ X  │ 2166 │ ●---  │ ------ │ No bonus applied. │
+│5 │ 2221 │ 153264 │ DEFAULT  │ UFN │ X  │ 5551 │ ○---  │ -53--- │ No bonus applied. │
+│6 │ 1514 │ 514263 │ DEFAULT  │ UFN │ X  │ 5652 │ ----  │ ------ │ No bonus applied. │
+│7 │ 4644 │ 356241 │ DEFAULT  │ UFN │ X  │ 2122 │ ●---  │ -5--4- │ No bonus applied. │
+│8 │ 2136 │ 216453 │ DEFAULT  │ UFN │ X  │ 1263 │ ○---  │ 2----- │ No bonus applied. │
+│9 │ 2424 │ 364152 │ DEFAULT  │ UFN │ X  │ 6161 │ ●○--  │ ---1-- │ No bonus applied. │
+│10│ 1426 │ 462513 │ DEFAULT  │ UFN │ X  │ 4563 │ ●---  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+You have run out of guesses. Better luck next time!

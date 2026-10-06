@@ -1,0 +1,123 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+Enter agent name and effects for agent 18:
+Enter agent name and effects for agent 19:
+Enter agent name and effects for agent 20:
+Enter agent name and effects for agent 21:
+Enter agent name and effects for agent 22:
+Enter agent name and effects for agent 23:
+Enter agent name and effects for agent 24:
+Enter agent name and effects for agent 25:
+Enter agent name and effects for agent 26:
+Enter agent name and effects for agent 27:
+Enter agent name and effects for agent 28:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Romeo    │ UHM │
+│ Vetch    │ OHT │
+│ Umber    │ UFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Romeo 1
+┌────────────────────────────────────────┬──────────────────────────────────────┐
+│ Guess                                  │ Feedback                             │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus        │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────┤
+│1 │ 1122 │ 123456 │ Romeo    │ UHM │ 1  │ 1122 │ ●●--  │ XXXXXX │ 1 maps to 2. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Vetch    │ OHT │
+│ Umber    │ UFH │
+│ Echo     │ OHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2134 213456 Umber 1
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Romeo    │ UHM │ 1  │ 1122 │ ●●--  │ --34-- │ 1 maps to 2.                        │
+│2 │ 2134 │ 213456 │ Umber    │ UFH │ 1  │ 1234 │ ●○--  │ 2-34-- │ Reveal on round 1 has been exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Vetch    │ OHT │
+│ Echo     │ OHH │
+│ Zulu     │ OFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3215 253461 Zulu
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Romeo    │ UHM │ 1  │ 1122 │ ●●--  │ --34-- │ 1 maps to 2.                        │
+│2 │ 2134 │ 213456 │ Umber    │ UFH │ 1  │ 1234 │ ●○--  │ 2-34-- │ Reveal on round 1 has been exposed. │
+│3 │ 3215 │ 253461 │ Zulu     │ OFT │ X  │ 3526 │ --●●  │ 2-34-- │ Tossed all cards.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yarrow   │ OHM │
+│ Papa     │ UFE │
+│ Juliett  │ NHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5212 263415 Papa
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Romeo    │ UHM │ 1  │ 1122 │ ●●--  │ --34-- │ 1 maps to 2.                        │
+│2 │ 2134 │ 213456 │ Umber    │ UFH │ 1  │ 1234 │ ●○--  │ 2-34-- │ Reveal on round 1 has been exposed. │
+│3 │ 3215 │ 253461 │ Zulu     │ OFT │ X  │ 3526 │ --●●  │ 2-34-- │ Tossed all cards.                   │
+│4 │ 5212 │ 263415 │ Papa     │ UFE │ X  │ 1626 │ ●●●●  │ 263415 │ Added extra guess.                  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+Congratulations! You solved the cipherlock.

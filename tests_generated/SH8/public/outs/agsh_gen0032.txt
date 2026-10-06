@@ -1,0 +1,220 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+Enter agent name and effects for agent 18:
+Enter agent name and effects for agent 19:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Basil    │ NFR │
+│ Quebec   │ UHP │
+│ Romeo    │ OHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Romeo 0
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 1122 │ 123456 │ Romeo    │ OHP │ 0  │ 1122 │ ●-●-  │ XXXXXX │ No cracks can be promoted. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Basil    │ NFR │
+│ Quebec   │ UHP │
+│ Aspen    │ NHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3344 123456
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 1122 │ 123456 │ Romeo    │ OHP │ 0  │ 1122 │ ●-●-  │ XXXXXX │ No cracks can be promoted. │
+│2 │ 3344 │ 123456 │ DEFAULT  │ UFN │ X  │ 3344 │ ○---  │ ------ │ No bonus applied.          │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Basil    │ NFR │
+│ Quebec   │ UHP │
+│ Aspen    │ NHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2316 214365 Basil 2
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                         │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                    │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Romeo    │ OHP │ 0  │ 1122 │ ●-●-  │ XXXXXX │ No cracks can be promoted.               │
+│2 │ 3344 │ 123456 │ DEFAULT  │ UFN │ X  │ 3344 │ ○---  │ ------ │ No bonus applied.                        │
+│3 │ 2316 │ 214365 │ Basil    │ NFR │ 2  │ 1425 │ XXXX  │ ------ │ Replay: Crack on round 2 is now ordered. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ UHP │
+│ Aspen    │ NHH │
+│ Juliett  │ NHR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5361 345612 Aspen 1
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                         │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                    │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Romeo    │ OHP │ 0  │ 1122 │ ●-●-  │ ------ │ No cracks can be promoted.               │
+│2 │ 3344 │ 123456 │ DEFAULT  │ UFN │ X  │ 3344 │ ○---  │ ------ │ No bonus applied.                        │
+│3 │ 2316 │ 214365 │ Basil    │ NFR │ 2  │ 1425 │ XXXX  │ ------ │ Replay: Crack on round 2 is now ordered. │
+│4 │ 5361 │ 345612 │ Aspen    │ NHH │ 1  │ 1523 │ XXXX  │ XXXXXX │ Reveal on round 1 has been exposed.      │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ UHP │
+│ Juliett  │ NHR │
+│ Vetch    │ UHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5361 345612 Vetch 1
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                         │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                    │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Romeo    │ OHP │ 0  │ 1122 │ ●-●-  │ ------ │ No cracks can be promoted.               │
+│2 │ 3344 │ 123456 │ DEFAULT  │ UFN │ X  │ 3344 │ ○---  │ ------ │ No bonus applied.                        │
+│3 │ 2316 │ 214365 │ Basil    │ NFR │ 2  │ 1425 │ XXXX  │ ------ │ Replay: Crack on round 2 is now ordered. │
+│4 │ 5361 │ 345612 │ Aspen    │ NHH │ 1  │ 1523 │ XXXX  │ XXXXXX │ Reveal on round 1 has been exposed.      │
+│5 │ 5361 │ 345612 │ Vetch    │ UHM │ 1  │ 1523 │ ●●●-  │ XXXXXX │ 1 maps to 3.                             │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ UHP │
+│ Juliett  │ NHR │
+│ Bramble  │ NHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5461 345612 Juliett 3
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                         │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                    │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Romeo    │ OHP │ 0  │ 1122 │ ●-●-  │ ------ │ No cracks can be promoted.               │
+│2 │ 3344 │ 123456 │ DEFAULT  │ UFN │ X  │ 3344 │ ○---  │ ------ │ No bonus applied.                        │
+│3 │ 2316 │ 214365 │ Basil    │ NFR │ 2  │ 1425 │ XXXX  │ ------ │ Replay: Crack on round 2 is now ordered. │
+│4 │ 5361 │ 345612 │ Aspen    │ NHH │ 1  │ 1523 │ XXXX  │ XXXXXX │ Reveal on round 1 has been exposed.      │
+│5 │ 5361 │ 345612 │ Vetch    │ UHM │ 1  │ 1523 │ ●●●-  │ XXXXXX │ 1 maps to 3.                             │
+│6 │ 5461 │ 345612 │ Juliett  │ NHR │ 3  │ 1623 │ XXXX  │ XXXXXX │ Replay: 3 maps to 2.                     │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ UHP │
+│ Bramble  │ NHH │
+│ Tango    │ UHR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5431 352614 Bramble 4
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                         │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                    │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Romeo    │ OHP │ 0  │ 1122 │ ●-●-  │ ------ │ No cracks can be promoted.               │
+│2 │ 3344 │ 123456 │ DEFAULT  │ UFN │ X  │ 3344 │ ○---  │ ------ │ No bonus applied.                        │
+│3 │ 2316 │ 214365 │ Basil    │ NFR │ 2  │ 1425 │ XXXX  │ ------ │ Replay: Crack on round 2 is now ordered. │
+│4 │ 5361 │ 345612 │ Aspen    │ NHH │ 1  │ 1523 │ XXXX  │ 3--6-- │ Reveal on round 1 has been exposed.      │
+│5 │ 5361 │ 345612 │ Vetch    │ UHM │ 1  │ 1523 │ ●●●-  │ XXXXXX │ 1 maps to 3.                             │
+│6 │ 5461 │ 345612 │ Juliett  │ NHR │ 3  │ 1623 │ XXXX  │ XXXXXX │ Replay: 3 maps to 2.                     │
+│7 │ 5431 │ 352614 │ Bramble  │ NHH │ 4  │ 1623 │ XXXX  │ XXXXXX │ Reveal on round 4 has been exposed.      │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (3 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ UHP │
+│ Tango    │ UHR │
+│ Yarrow   │ NHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+6431 352641
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                         │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                    │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Romeo    │ OHP │ 0  │ 1122 │ ●-●-  │ ------ │ No cracks can be promoted.               │
+│2 │ 3344 │ 123456 │ DEFAULT  │ UFN │ X  │ 3344 │ ○---  │ ------ │ No bonus applied.                        │
+│3 │ 2316 │ 214365 │ Basil    │ NFR │ 2  │ 1425 │ XXXX  │ ------ │ Replay: Crack on round 2 is now ordered. │
+│4 │ 5361 │ 345612 │ Aspen    │ NHH │ 1  │ 1523 │ XXXX  │ 3--6-- │ Reveal on round 1 has been exposed.      │
+│5 │ 5361 │ 345612 │ Vetch    │ UHM │ 1  │ 1523 │ ●●●-  │ XXXXXX │ 1 maps to 3.                             │
+│6 │ 5461 │ 345612 │ Juliett  │ NHR │ 3  │ 1623 │ XXXX  │ XXXXXX │ Replay: 3 maps to 2.                     │
+│7 │ 5431 │ 352614 │ Bramble  │ NHH │ 4  │ 1623 │ XXXX  │ XXXXXX │ Reveal on round 4 has been exposed.      │
+│8 │ 6431 │ 352641 │ DEFAULT  │ UFN │ X  │ 1623 │ ●●●●  │ 352641 │ No bonus applied.                        │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────────────┘
+Congratulations! You solved the cipherlock.

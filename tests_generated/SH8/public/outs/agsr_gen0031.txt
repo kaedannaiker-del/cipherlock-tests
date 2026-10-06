@@ -1,0 +1,108 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ OFH │
+│ Hazel    │ NHH │
+│ Oscar    │ NHT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Yankee 0
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Yankee   │ OFH │ 0  │ 1122 │ -●○-  │ ----5- │ No hidden reveals can be exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ NHH │
+│ Oscar    │ NHT │
+│ Bravo    │ OHR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+6633 214653
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Yankee   │ OFH │ 0  │ 1122 │ -●○-  │ ----5- │ No hidden reveals can be exposed. │
+│2 │ 6633 │ 214653 │ DEFAULT  │ UFN │ X  │ 3344 │ ●---  │ ---65- │ No bonus applied.                 │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ NHH │
+│ Oscar    │ NHT │
+│ Bravo    │ OHR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+6325 341652
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Yankee   │ OFH │ 0  │ 1122 │ -●○-  │ ----5- │ No hidden reveals can be exposed. │
+│2 │ 6633 │ 214653 │ DEFAULT  │ UFN │ X  │ 3344 │ ●---  │ ---65- │ No bonus applied.                 │
+│3 │ 6325 │ 341652 │ DEFAULT  │ UFN │ X  │ 2145 │ ●●●-  │ ---65- │ No bonus applied.                 │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ NHH │
+│ Oscar    │ NHT │
+│ Bravo    │ OHR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3614 432651 Oscar
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Yankee   │ OFH │ 0  │ 1122 │ -●○-  │ ----5- │ No hidden reveals can be exposed. │
+│2 │ 6633 │ 214653 │ DEFAULT  │ UFN │ X  │ 3344 │ ●---  │ ---65- │ No bonus applied.                 │
+│3 │ 6325 │ 341652 │ DEFAULT  │ UFN │ X  │ 2145 │ ●●●-  │ ---65- │ No bonus applied.                 │
+│4 │ 3614 │ 432651 │ Oscar    │ NHT │ X  │ 2146 │ XXXX  │ XXXXXX │ Tossed all cards.                 │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+Congratulations! You solved the cipherlock.

@@ -1,0 +1,275 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+Enter agent name and effects for agent 18:
+Enter agent name and effects for agent 19:
+Enter agent name and effects for agent 20:
+Enter agent name and effects for agent 21:
+Enter agent name and effects for agent 22:
+Enter agent name and effects for agent 23:
+Enter agent name and effects for agent 24:
+Enter agent name and effects for agent 25:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Victor   │ NFT │
+│ Kilo     │ NHN │
+│ Golf     │ OHR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6242 │ 521346 │ Victor   │ NFT │ X  │ 6232 │ XXXX  │ 5----- │ Tossed all cards. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ OHM │
+│ Clover   │ NFT │
+│ Nova     │ OFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6242 │ 521346 │ Victor   │ NFT │ X  │ 6232 │ XXXX  │ 5----- │ Tossed all cards. │
+│2 │ 1415 │ 231564 │ DEFAULT  │ UFN │ X  │ 2526 │ ●---  │ ----6- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ OHM │
+│ Clover   │ NFT │
+│ Nova     │ OFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6242 │ 521346 │ Victor   │ NFT │ X  │ 6232 │ XXXX  │ 5----- │ Tossed all cards. │
+│2 │ 1415 │ 231564 │ DEFAULT  │ UFN │ X  │ 2526 │ ●---  │ ----6- │ No bonus applied. │
+│3 │ 6364 │ 256413 │ DEFAULT  │ UFN │ X  │ 3634 │ ●---  │ ---4-- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ OHM │
+│ Clover   │ NFT │
+│ Nova     │ OFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6242 │ 521346 │ Victor   │ NFT │ X  │ 6232 │ XXXX  │ 5----- │ Tossed all cards. │
+│2 │ 1415 │ 231564 │ DEFAULT  │ UFN │ X  │ 2526 │ ●---  │ ----6- │ No bonus applied. │
+│3 │ 6364 │ 256413 │ DEFAULT  │ UFN │ X  │ 3634 │ ●---  │ ---4-- │ No bonus applied. │
+│4 │ 2433 │ 315624 │ DEFAULT  │ UFN │ X  │ 1655 │ ●●--  │ -1---- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ OHM │
+│ Clover   │ NFT │
+│ Nova     │ OFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6242 │ 521346 │ Victor   │ NFT │ X  │ 6232 │ XXXX  │ 5----- │ Tossed all cards. │
+│2 │ 1415 │ 231564 │ DEFAULT  │ UFN │ X  │ 2526 │ ●---  │ ----6- │ No bonus applied. │
+│3 │ 6364 │ 256413 │ DEFAULT  │ UFN │ X  │ 3634 │ ●---  │ ---4-- │ No bonus applied. │
+│4 │ 2433 │ 315624 │ DEFAULT  │ UFN │ X  │ 1655 │ ●●--  │ -1---- │ No bonus applied. │
+│5 │ 4665 │ 641523 │ DEFAULT  │ UFN │ X  │ 5332 │ ----  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ OHM │
+│ Clover   │ NFT │
+│ Nova     │ OFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6242 │ 521346 │ Victor   │ NFT │ X  │ 6232 │ XXXX  │ 5----- │ Tossed all cards. │
+│2 │ 1415 │ 231564 │ DEFAULT  │ UFN │ X  │ 2526 │ ●---  │ ----6- │ No bonus applied. │
+│3 │ 6364 │ 256413 │ DEFAULT  │ UFN │ X  │ 3634 │ ●---  │ ---4-- │ No bonus applied. │
+│4 │ 2433 │ 315624 │ DEFAULT  │ UFN │ X  │ 1655 │ ●●--  │ -1---- │ No bonus applied. │
+│5 │ 4665 │ 641523 │ DEFAULT  │ UFN │ X  │ 5332 │ ----  │ ------ │ No bonus applied. │
+│6 │ 4424 │ 364152 │ DEFAULT  │ UFN │ X  │ 1161 │ ●○○-  │ -----2 │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ OHM │
+│ Clover   │ NFT │
+│ Nova     │ OFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6242 │ 521346 │ Victor   │ NFT │ X  │ 6232 │ XXXX  │ 5----- │ Tossed all cards. │
+│2 │ 1415 │ 231564 │ DEFAULT  │ UFN │ X  │ 2526 │ ●---  │ ----6- │ No bonus applied. │
+│3 │ 6364 │ 256413 │ DEFAULT  │ UFN │ X  │ 3634 │ ●---  │ ---4-- │ No bonus applied. │
+│4 │ 2433 │ 315624 │ DEFAULT  │ UFN │ X  │ 1655 │ ●●--  │ -1---- │ No bonus applied. │
+│5 │ 4665 │ 641523 │ DEFAULT  │ UFN │ X  │ 5332 │ ----  │ ------ │ No bonus applied. │
+│6 │ 4424 │ 364152 │ DEFAULT  │ UFN │ X  │ 1161 │ ●○○-  │ -----2 │ No bonus applied. │
+│7 │ 5562 │ 564213 │ DEFAULT  │ UFN │ X  │ 1136 │ ●●○-  │ 5----- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (3 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ OHM │
+│ Clover   │ NFT │
+│ Nova     │ OFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6242 │ 521346 │ Victor   │ NFT │ X  │ 6232 │ XXXX  │ 5----- │ Tossed all cards. │
+│2 │ 1415 │ 231564 │ DEFAULT  │ UFN │ X  │ 2526 │ ●---  │ ----6- │ No bonus applied. │
+│3 │ 6364 │ 256413 │ DEFAULT  │ UFN │ X  │ 3634 │ ●---  │ ---4-- │ No bonus applied. │
+│4 │ 2433 │ 315624 │ DEFAULT  │ UFN │ X  │ 1655 │ ●●--  │ -1---- │ No bonus applied. │
+│5 │ 4665 │ 641523 │ DEFAULT  │ UFN │ X  │ 5332 │ ----  │ ------ │ No bonus applied. │
+│6 │ 4424 │ 364152 │ DEFAULT  │ UFN │ X  │ 1161 │ ●○○-  │ -----2 │ No bonus applied. │
+│7 │ 5562 │ 564213 │ DEFAULT  │ UFN │ X  │ 1136 │ ●●○-  │ 5----- │ No bonus applied. │
+│8 │ 1261 │ 536142 │ DEFAULT  │ UFN │ X  │ 5325 │ ----  │ 5----2 │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (2 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ OHM │
+│ Clover   │ NFT │
+│ Nova     │ OFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6242 │ 521346 │ Victor   │ NFT │ X  │ 6232 │ XXXX  │ 5----- │ Tossed all cards. │
+│2 │ 1415 │ 231564 │ DEFAULT  │ UFN │ X  │ 2526 │ ●---  │ ----6- │ No bonus applied. │
+│3 │ 6364 │ 256413 │ DEFAULT  │ UFN │ X  │ 3634 │ ●---  │ ---4-- │ No bonus applied. │
+│4 │ 2433 │ 315624 │ DEFAULT  │ UFN │ X  │ 1655 │ ●●--  │ -1---- │ No bonus applied. │
+│5 │ 4665 │ 641523 │ DEFAULT  │ UFN │ X  │ 5332 │ ----  │ ------ │ No bonus applied. │
+│6 │ 4424 │ 364152 │ DEFAULT  │ UFN │ X  │ 1161 │ ●○○-  │ -----2 │ No bonus applied. │
+│7 │ 5562 │ 564213 │ DEFAULT  │ UFN │ X  │ 1136 │ ●●○-  │ 5----- │ No bonus applied. │
+│8 │ 1261 │ 536142 │ DEFAULT  │ UFN │ X  │ 5325 │ ----  │ 5----2 │ No bonus applied. │
+│9 │ 5522 │ 436512 │ DEFAULT  │ UFN │ X  │ 1133 │ ●○--  │ -----2 │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ OHM │
+│ Clover   │ NFT │
+│ Nova     │ OFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6242 │ 521346 │ Victor   │ NFT │ X  │ 6232 │ XXXX  │ 5----- │ Tossed all cards. │
+│2 │ 1415 │ 231564 │ DEFAULT  │ UFN │ X  │ 2526 │ ●---  │ ----6- │ No bonus applied. │
+│3 │ 6364 │ 256413 │ DEFAULT  │ UFN │ X  │ 3634 │ ●---  │ ---4-- │ No bonus applied. │
+│4 │ 2433 │ 315624 │ DEFAULT  │ UFN │ X  │ 1655 │ ●●--  │ -1---- │ No bonus applied. │
+│5 │ 4665 │ 641523 │ DEFAULT  │ UFN │ X  │ 5332 │ ----  │ ------ │ No bonus applied. │
+│6 │ 4424 │ 364152 │ DEFAULT  │ UFN │ X  │ 1161 │ ●○○-  │ -----2 │ No bonus applied. │
+│7 │ 5562 │ 564213 │ DEFAULT  │ UFN │ X  │ 1136 │ ●●○-  │ 5----- │ No bonus applied. │
+│8 │ 1261 │ 536142 │ DEFAULT  │ UFN │ X  │ 5325 │ ----  │ 5----2 │ No bonus applied. │
+│9 │ 5522 │ 436512 │ DEFAULT  │ UFN │ X  │ 1133 │ ●○--  │ -----2 │ No bonus applied. │
+│10│ 6612 │ 234651 │ DEFAULT  │ UFN │ X  │ 1123 │ ●○--  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+You have run out of guesses. Better luck next time!

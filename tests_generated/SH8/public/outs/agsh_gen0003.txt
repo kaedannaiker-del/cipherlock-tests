@@ -1,0 +1,155 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Aspen    │ NFC │
+│ Xray     │ NHM │
+│ Umber    │ NFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Aspen 1
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Aspen    │ NFC │ 1  │ 1122 │ XXXX  │ ------ │ 1 appears 0 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Xray     │ NHM │
+│ Umber    │ NFC │
+│ Elm      │ NHR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1144 214365 Umber 2
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Aspen    │ NFC │ 1  │ 1122 │ XXXX  │ ------ │ 1 appears 0 times. │
+│2 │ 1144 │ 214365 │ Umber    │ NFC │ 2  │ 2233 │ XXXX  │ ---3-5 │ 2 appears 1 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Xray     │ NHM │
+│ Elm      │ NHR │
+│ Rowan    │ NHT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4411 461325
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Aspen    │ NFC │ 1  │ 1122 │ XXXX  │ ------ │ 1 appears 0 times. │
+│2 │ 1144 │ 214365 │ Umber    │ NFC │ 2  │ 2233 │ XXXX  │ ---3-5 │ 2 appears 1 times. │
+│3 │ 4411 │ 461325 │ DEFAULT  │ UFN │ X  │ 3344 │ ●○--  │ ---3-5 │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Xray     │ NHM │
+│ Elm      │ NHR │
+│ Rowan    │ NHT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3446 642315 Elm 3
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 1122 │ 123456 │ Aspen    │ NFC │ 1  │ 1122 │ XXXX  │ ------ │ 1 appears 0 times.         │
+│2 │ 1144 │ 214365 │ Umber    │ NFC │ 2  │ 2233 │ XXXX  │ ---3-5 │ 2 appears 1 times.         │
+│3 │ 4411 │ 461325 │ DEFAULT  │ UFN │ X  │ 3344 │ ●○--  │ ---3-5 │ No bonus applied.          │
+│4 │ 3446 │ 642315 │ Elm      │ NHR │ 3  │ 2335 │ XXXX  │ XXXXXX │ Replay: 3 appears 1 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Xray     │ NHM │
+│ Rowan    │ NHT │
+│ Cedar    │ UHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5336 642315 Cedar 5
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 1122 │ 123456 │ Aspen    │ NFC │ 1  │ 1122 │ XXXX  │ ------ │ 1 appears 0 times.         │
+│2 │ 1144 │ 214365 │ Umber    │ NFC │ 2  │ 2233 │ XXXX  │ ---3-5 │ 2 appears 1 times.         │
+│3 │ 4411 │ 461325 │ DEFAULT  │ UFN │ X  │ 3344 │ ●○--  │ ---3-5 │ No bonus applied.          │
+│4 │ 3446 │ 642315 │ Elm      │ NHR │ 3  │ 2335 │ XXXX  │ XXXXXX │ Replay: 3 appears 1 times. │
+│5 │ 5336 │ 642315 │ Cedar    │ UHC │ 5  │ 1225 │ ○---  │ XXXXXX │ 5 appears 0 times.         │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Xray     │ NHM │
+│ Rowan    │ NHT │
+│ Laurel   │ UFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3142 642315 Laurel
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 1122 │ 123456 │ Aspen    │ NFC │ 1  │ 1122 │ XXXX  │ ------ │ 1 appears 0 times.         │
+│2 │ 1144 │ 214365 │ Umber    │ NFC │ 2  │ 2233 │ XXXX  │ ---3-5 │ 2 appears 1 times.         │
+│3 │ 4411 │ 461325 │ DEFAULT  │ UFN │ X  │ 3344 │ ●○--  │ ---3-5 │ No bonus applied.          │
+│4 │ 3446 │ 642315 │ Elm      │ NHR │ 3  │ 2335 │ XXXX  │ XXXXXX │ Replay: 3 appears 1 times. │
+│5 │ 5336 │ 642315 │ Cedar    │ UHC │ 5  │ 1225 │ ○---  │ XXXXXX │ 5 appears 0 times.         │
+│6 │ 3142 │ 642315 │ Laurel   │ UFN │ X  │ 2634 │ ●●●●  │ 642315 │ No bonus applied.          │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+Congratulations! You solved the cipherlock.

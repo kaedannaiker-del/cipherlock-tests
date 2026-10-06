@@ -1,0 +1,258 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sorrel   │ OHP │
+│ Aspen    │ OFR │
+│ Cedar    │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 3333 │ 516423 │ DEFAULT  │ UFN │ X  │ 6666 │ ----  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sorrel   │ OHP │
+│ Aspen    │ OFR │
+│ Cedar    │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                 │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                            │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────┤
+│1 │ 3333 │ 516423 │ DEFAULT  │ UFN │ X  │ 6666 │ ----  │ ------ │ No bonus applied.                │
+│2 │ 6525 │ 143652 │ Sorrel   │ OHP │ 1  │ 2545 │ -○○-  │ XXXXXX │ Crack on round 1 is now ordered. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Aspen    │ OFR │
+│ Cedar    │ NFH │
+│ Papa     │ OFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────────────┤
+│1 │ 3333 │ 516423 │ DEFAULT  │ UFN │ X  │ 6666 │ ----  │ ------ │ No bonus applied.                  │
+│2 │ 6525 │ 143652 │ Sorrel   │ OHP │ 1  │ 2545 │ -○○-  │ XXXXXX │ Crack on round 1 is now ordered.   │
+│3 │ 3646 │ 562413 │ Aspen    │ OFR │ 1  │ 2343 │ -●○-  │ ------ │ Replay: No cracks can be promoted. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Cedar    │ NFH │
+│ Papa     │ OFT │
+│ Alpha    │ NFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────────────┤
+│1 │ 3333 │ 516423 │ DEFAULT  │ UFN │ X  │ 6666 │ ----  │ ------ │ No bonus applied.                  │
+│2 │ 6525 │ 143652 │ Sorrel   │ OHP │ 1  │ 2545 │ -○○-  │ XXXXXX │ Crack on round 1 is now ordered.   │
+│3 │ 3646 │ 562413 │ Aspen    │ OFR │ 1  │ 2343 │ -●○-  │ ------ │ Replay: No cracks can be promoted. │
+│4 │ 3133 │ 324651 │ DEFAULT  │ UFN │ X  │ 4344 │ ●●--  │ ----5- │ No bonus applied.                  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Cedar    │ NFH │
+│ Papa     │ OFT │
+│ Alpha    │ NFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────────────┤
+│1 │ 3333 │ 516423 │ DEFAULT  │ UFN │ X  │ 6666 │ ----  │ ------ │ No bonus applied.                  │
+│2 │ 6525 │ 143652 │ Sorrel   │ OHP │ 1  │ 2545 │ -○○-  │ XXXXXX │ Crack on round 1 is now ordered.   │
+│3 │ 3646 │ 562413 │ Aspen    │ OFR │ 1  │ 2343 │ -●○-  │ ------ │ Replay: No cracks can be promoted. │
+│4 │ 3133 │ 324651 │ DEFAULT  │ UFN │ X  │ 4344 │ ●●--  │ ----5- │ No bonus applied.                  │
+│5 │ 1652 │ 156324 │ DEFAULT  │ UFN │ X  │ 1425 │ ○○○-  │ -----4 │ No bonus applied.                  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Cedar    │ NFH │
+│ Papa     │ OFT │
+│ Alpha    │ NFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────────────┤
+│1 │ 3333 │ 516423 │ DEFAULT  │ UFN │ X  │ 6666 │ ----  │ ------ │ No bonus applied.                  │
+│2 │ 6525 │ 143652 │ Sorrel   │ OHP │ 1  │ 2545 │ -○○-  │ XXXXXX │ Crack on round 1 is now ordered.   │
+│3 │ 3646 │ 562413 │ Aspen    │ OFR │ 1  │ 2343 │ -●○-  │ ------ │ Replay: No cracks can be promoted. │
+│4 │ 3133 │ 324651 │ DEFAULT  │ UFN │ X  │ 4344 │ ●●--  │ ----5- │ No bonus applied.                  │
+│5 │ 1652 │ 156324 │ DEFAULT  │ UFN │ X  │ 1425 │ ○○○-  │ -----4 │ No bonus applied.                  │
+│6 │ 5655 │ 624135 │ DEFAULT  │ UFN │ X  │ 3533 │ ○○--  │ 6----- │ No bonus applied.                  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Cedar    │ NFH │
+│ Papa     │ OFT │
+│ Alpha    │ NFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────────────┤
+│1 │ 3333 │ 516423 │ DEFAULT  │ UFN │ X  │ 6666 │ ----  │ ------ │ No bonus applied.                  │
+│2 │ 6525 │ 143652 │ Sorrel   │ OHP │ 1  │ 2545 │ -○○-  │ XXXXXX │ Crack on round 1 is now ordered.   │
+│3 │ 3646 │ 562413 │ Aspen    │ OFR │ 1  │ 2343 │ -●○-  │ ------ │ Replay: No cracks can be promoted. │
+│4 │ 3133 │ 324651 │ DEFAULT  │ UFN │ X  │ 4344 │ ●●--  │ ----5- │ No bonus applied.                  │
+│5 │ 1652 │ 156324 │ DEFAULT  │ UFN │ X  │ 1425 │ ○○○-  │ -----4 │ No bonus applied.                  │
+│6 │ 5655 │ 624135 │ DEFAULT  │ UFN │ X  │ 3533 │ ○○--  │ 6----- │ No bonus applied.                  │
+│7 │ 6563 │ 536412 │ DEFAULT  │ UFN │ X  │ 2126 │ ○---  │ -3---- │ No bonus applied.                  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (3 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Cedar    │ NFH │
+│ Papa     │ OFT │
+│ Alpha    │ NFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────────────┤
+│1 │ 3333 │ 516423 │ DEFAULT  │ UFN │ X  │ 6666 │ ----  │ ------ │ No bonus applied.                  │
+│2 │ 6525 │ 143652 │ Sorrel   │ OHP │ 1  │ 2545 │ -○○-  │ XXXXXX │ Crack on round 1 is now ordered.   │
+│3 │ 3646 │ 562413 │ Aspen    │ OFR │ 1  │ 2343 │ -●○-  │ ------ │ Replay: No cracks can be promoted. │
+│4 │ 3133 │ 324651 │ DEFAULT  │ UFN │ X  │ 4344 │ ●●--  │ ----5- │ No bonus applied.                  │
+│5 │ 1652 │ 156324 │ DEFAULT  │ UFN │ X  │ 1425 │ ○○○-  │ -----4 │ No bonus applied.                  │
+│6 │ 5655 │ 624135 │ DEFAULT  │ UFN │ X  │ 3533 │ ○○--  │ 6----- │ No bonus applied.                  │
+│7 │ 6563 │ 536412 │ DEFAULT  │ UFN │ X  │ 2126 │ ○---  │ -3---- │ No bonus applied.                  │
+│8 │ 4462 │ 251643 │ DEFAULT  │ UFN │ X  │ 6635 │ ○○--  │ --1--- │ No bonus applied.                  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (2 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Cedar    │ NFH │
+│ Papa     │ OFT │
+│ Alpha    │ NFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────────────┤
+│1 │ 3333 │ 516423 │ DEFAULT  │ UFN │ X  │ 6666 │ ----  │ ------ │ No bonus applied.                  │
+│2 │ 6525 │ 143652 │ Sorrel   │ OHP │ 1  │ 2545 │ -○○-  │ XXXXXX │ Crack on round 1 is now ordered.   │
+│3 │ 3646 │ 562413 │ Aspen    │ OFR │ 1  │ 2343 │ -●○-  │ ------ │ Replay: No cracks can be promoted. │
+│4 │ 3133 │ 324651 │ DEFAULT  │ UFN │ X  │ 4344 │ ●●--  │ ----5- │ No bonus applied.                  │
+│5 │ 1652 │ 156324 │ DEFAULT  │ UFN │ X  │ 1425 │ ○○○-  │ -----4 │ No bonus applied.                  │
+│6 │ 5655 │ 624135 │ DEFAULT  │ UFN │ X  │ 3533 │ ○○--  │ 6----- │ No bonus applied.                  │
+│7 │ 6563 │ 536412 │ DEFAULT  │ UFN │ X  │ 2126 │ ○---  │ -3---- │ No bonus applied.                  │
+│8 │ 4462 │ 251643 │ DEFAULT  │ UFN │ X  │ 6635 │ ○○--  │ --1--- │ No bonus applied.                  │
+│9 │ 5141 │ 613425 │ DEFAULT  │ UFN │ X  │ 2646 │ ○---  │ 6----- │ No bonus applied.                  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Cedar    │ NFH │
+│ Papa     │ OFT │
+│ Alpha    │ NFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────────────┤
+│1 │ 3333 │ 516423 │ DEFAULT  │ UFN │ X  │ 6666 │ ----  │ ------ │ No bonus applied.                  │
+│2 │ 6525 │ 143652 │ Sorrel   │ OHP │ 1  │ 2545 │ -○○-  │ XXXXXX │ Crack on round 1 is now ordered.   │
+│3 │ 3646 │ 562413 │ Aspen    │ OFR │ 1  │ 2343 │ -●○-  │ ------ │ Replay: No cracks can be promoted. │
+│4 │ 3133 │ 324651 │ DEFAULT  │ UFN │ X  │ 4344 │ ●●--  │ ----5- │ No bonus applied.                  │
+│5 │ 1652 │ 156324 │ DEFAULT  │ UFN │ X  │ 1425 │ ○○○-  │ -----4 │ No bonus applied.                  │
+│6 │ 5655 │ 624135 │ DEFAULT  │ UFN │ X  │ 3533 │ ○○--  │ 6----- │ No bonus applied.                  │
+│7 │ 6563 │ 536412 │ DEFAULT  │ UFN │ X  │ 2126 │ ○---  │ -3---- │ No bonus applied.                  │
+│8 │ 4462 │ 251643 │ DEFAULT  │ UFN │ X  │ 6635 │ ○○--  │ --1--- │ No bonus applied.                  │
+│9 │ 5141 │ 613425 │ DEFAULT  │ UFN │ X  │ 2646 │ ○---  │ 6----- │ No bonus applied.                  │
+│10│ 4333 │ 453261 │ DEFAULT  │ UFN │ X  │ 2333 │ ●---  │ ---2-- │ No bonus applied.                  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────────────┘
+You have run out of guesses. Better luck next time!

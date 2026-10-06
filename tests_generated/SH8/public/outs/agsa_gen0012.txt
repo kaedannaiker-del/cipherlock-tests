@@ -1,0 +1,147 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+Enter agent name and effects for agent 18:
+Enter agent name and effects for agent 19:
+Enter agent name and effects for agent 20:
+Enter agent name and effects for agent 21:
+Enter agent name and effects for agent 22:
+Enter agent name and effects for agent 23:
+Enter agent name and effects for agent 24:
+Enter agent name and effects for agent 25:
+Enter agent name and effects for agent 26:
+Enter agent name and effects for agent 27:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Dahlia   │ UHN │
+│ Alpha    │ OFE │
+│ Foxtrot  │ NHN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Alpha
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Alpha    │ OFE │ X  │ 1122 │ -●--  │ ---4-6 │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Dahlia   │ UHN │
+│ Foxtrot  │ NHN │
+│ Hotel    │ UHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5544 215436
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Alpha    │ OFE │ X  │ 1122 │ -●--  │ ---4-6 │ Added extra guess. │
+│2 │ 5544 │ 215436 │ DEFAULT  │ UFN │ X  │ 3344 │ ●---  │ ---4-6 │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Dahlia   │ UHN │
+│ Foxtrot  │ NHN │
+│ Hotel    │ UHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1326 351426 Hotel 2
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                 │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                            │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Alpha    │ OFE │ X  │ 1122 │ -●--  │ ---4-6 │ Added extra guess.               │
+│2 │ 5544 │ 215436 │ DEFAULT  │ UFN │ X  │ 3344 │ ●---  │ ---4-6 │ No bonus applied.                │
+│3 │ 1326 │ 351426 │ Hotel    │ UHP │ 2  │ 3156 │ ●●●-  │ XXXXXX │ Crack on round 2 is now ordered. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Dahlia   │ UHN │
+│ Foxtrot  │ NHN │
+│ Bravo    │ OFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1322 351426 Bravo 3
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Alpha    │ OFE │ X  │ 1122 │ -●--  │ ---4-6 │ Added extra guess.                  │
+│2 │ 5544 │ 215436 │ DEFAULT  │ UFN │ X  │ 3344 │ ●---  │ ---4-6 │ No bonus applied.                   │
+│3 │ 1326 │ 351426 │ Hotel    │ UHP │ 2  │ 3156 │ ●●●-  │ 351426 │ Crack on round 2 is now ordered.    │
+│4 │ 1322 │ 351426 │ Bravo    │ OFH │ 3  │ 3155 │ ●●--  │ 351426 │ Reveal on round 3 has been exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Dahlia   │ UHN │
+│ Foxtrot  │ NHN │
+│ Basil    │ OHN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1366 351426
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Alpha    │ OFE │ X  │ 1122 │ -●--  │ ---4-6 │ Added extra guess.                  │
+│2 │ 5544 │ 215436 │ DEFAULT  │ UFN │ X  │ 3344 │ ●---  │ ---4-6 │ No bonus applied.                   │
+│3 │ 1326 │ 351426 │ Hotel    │ UHP │ 2  │ 3156 │ ●●●-  │ 351426 │ Crack on round 2 is now ordered.    │
+│4 │ 1322 │ 351426 │ Bravo    │ OFH │ 3  │ 3155 │ ●●--  │ 351426 │ Reveal on round 3 has been exposed. │
+│5 │ 1366 │ 351426 │ DEFAULT  │ UFN │ X  │ 3166 │ ●●●●  │ 351426 │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+Congratulations! You solved the cipherlock.

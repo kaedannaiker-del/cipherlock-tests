@@ -1,0 +1,122 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+Enter agent name and effects for agent 18:
+Enter agent name and effects for agent 19:
+Enter agent name and effects for agent 20:
+Enter agent name and effects for agent 21:
+Enter agent name and effects for agent 22:
+Enter agent name and effects for agent 23:
+Enter agent name and effects for agent 24:
+Enter agent name and effects for agent 25:
+Enter agent name and effects for agent 26:
+Enter agent name and effects for agent 27:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Mike     │ UFP │
+│ Hotel    │ NHN │
+│ Hazel    │ OFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Hazel
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1122 │ 123456 │ Hazel    │ OFN │ X  │ 1122 │ ----  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Mike     │ UFP │
+│ Hotel    │ NHN │
+│ India    │ OFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4365 214365 India 1
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1122 │ 123456 │ Hazel    │ OFN │ X  │ 1122 │ ----  │ ------ │ No bonus applied. │
+│2 │ 4365 │ 214365 │ India    │ OFM │ 1  │ 3456 │ -○○○  │ ------ │ 1 maps to 6.      │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Mike     │ UFP │
+│ Hotel    │ NHN │
+│ Echo     │ UHN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+6416 631524 Mike 0
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 1122 │ 123456 │ Hazel    │ OFN │ X  │ 1122 │ ----  │ ------ │ No bonus applied.          │
+│2 │ 4365 │ 214365 │ India    │ OFM │ 1  │ 3456 │ -○○○  │ ------ │ 1 maps to 6.               │
+│3 │ 6416 │ 631524 │ Mike     │ UFP │ 0  │ 4564 │ ●●○○  │ 6---2- │ No cracks can be promoted. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ NHN │
+│ Echo     │ UHN │
+│ Laurel   │ NFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1322 645123
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 1122 │ 123456 │ Hazel    │ OFN │ X  │ 1122 │ ----  │ ------ │ No bonus applied.          │
+│2 │ 4365 │ 214365 │ India    │ OFM │ 1  │ 3456 │ -○○○  │ ------ │ 1 maps to 6.               │
+│3 │ 6416 │ 631524 │ Mike     │ UFP │ 0  │ 4564 │ ●●○○  │ 6---2- │ No cracks can be promoted. │
+│4 │ 1322 │ 645123 │ DEFAULT  │ UFN │ X  │ 6544 │ ●●●●  │ 645123 │ No bonus applied.          │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+Congratulations! You solved the cipherlock.

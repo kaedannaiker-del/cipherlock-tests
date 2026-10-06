@@ -1,0 +1,275 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+Enter agent name and effects for agent 18:
+Enter agent name and effects for agent 19:
+Enter agent name and effects for agent 20:
+Enter agent name and effects for agent 21:
+Enter agent name and effects for agent 22:
+Enter agent name and effects for agent 23:
+Enter agent name and effects for agent 24:
+Enter agent name and effects for agent 25:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Juliett  │ UHM │
+│ Aster    │ UFM │
+│ Quebec   │ UFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────┐
+│ Guess                                  │ Feedback                             │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus        │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────┤
+│1 │ 5366 │ 625134 │ Juliett  │ UHM │ 3  │ 3544 │ ●●--  │ XXXXXX │ 3 maps to 6. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Aster    │ UFM │
+│ Quebec   │ UFM │
+│ Hazel    │ UFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────┐
+│ Guess                                  │ Feedback                             │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus        │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────┤
+│1 │ 5366 │ 625134 │ Juliett  │ UHM │ 3  │ 3544 │ ●●--  │ XXXXXX │ 3 maps to 6. │
+│2 │ 5442 │ 312465 │ Aster    │ UFM │ 1  │ 6441 │ ○○--  │ ------ │ 1 maps to 4. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ UFM │
+│ Hazel    │ UFC │
+│ Golf     │ NHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────┐
+│ Guess                                  │ Feedback                             │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus        │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────┤
+│1 │ 5366 │ 625134 │ Juliett  │ UHM │ 3  │ 3544 │ ●●--  │ XXXXXX │ 3 maps to 6. │
+│2 │ 5442 │ 312465 │ Aster    │ UFM │ 1  │ 6441 │ ○○--  │ ------ │ 1 maps to 4. │
+│3 │ 4144 │ 463521 │ Quebec   │ UFM │ 1  │ 5455 │ ○---  │ 4----1 │ 1 maps to 4. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ UFC │
+│ Golf     │ NHP │
+│ Dahlia   │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5366 │ 625134 │ Juliett  │ UHM │ 3  │ 3544 │ ●●--  │ XXXXXX │ 3 maps to 6.      │
+│2 │ 5442 │ 312465 │ Aster    │ UFM │ 1  │ 6441 │ ○○--  │ ------ │ 1 maps to 4.      │
+│3 │ 4144 │ 463521 │ Quebec   │ UFM │ 1  │ 5455 │ ○---  │ 4----1 │ 1 maps to 4.      │
+│4 │ 6322 │ 326145 │ DEFAULT  │ UFN │ X  │ 5622 │ ○---  │ --6--- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ UFC │
+│ Golf     │ NHP │
+│ Dahlia   │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5366 │ 625134 │ Juliett  │ UHM │ 3  │ 3544 │ ●●--  │ XXXXXX │ 3 maps to 6.      │
+│2 │ 5442 │ 312465 │ Aster    │ UFM │ 1  │ 6441 │ ○○--  │ ------ │ 1 maps to 4.      │
+│3 │ 4144 │ 463521 │ Quebec   │ UFM │ 1  │ 5455 │ ○---  │ 4----1 │ 1 maps to 4.      │
+│4 │ 6322 │ 326145 │ DEFAULT  │ UFN │ X  │ 5622 │ ○---  │ --6--- │ No bonus applied. │
+│5 │ 6625 │ 642351 │ DEFAULT  │ UFN │ X  │ 1145 │ ○○--  │ -----1 │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ UFC │
+│ Golf     │ NHP │
+│ Dahlia   │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5366 │ 625134 │ Juliett  │ UHM │ 3  │ 3544 │ ●●--  │ XXXXXX │ 3 maps to 6.      │
+│2 │ 5442 │ 312465 │ Aster    │ UFM │ 1  │ 6441 │ ○○--  │ ------ │ 1 maps to 4.      │
+│3 │ 4144 │ 463521 │ Quebec   │ UFM │ 1  │ 5455 │ ○---  │ 4----1 │ 1 maps to 4.      │
+│4 │ 6322 │ 326145 │ DEFAULT  │ UFN │ X  │ 5622 │ ○---  │ --6--- │ No bonus applied. │
+│5 │ 6625 │ 642351 │ DEFAULT  │ UFN │ X  │ 1145 │ ○○--  │ -----1 │ No bonus applied. │
+│6 │ 3331 │ 635124 │ DEFAULT  │ UFN │ X  │ 5556 │ ----  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ UFC │
+│ Golf     │ NHP │
+│ Dahlia   │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5366 │ 625134 │ Juliett  │ UHM │ 3  │ 3544 │ ●●--  │ XXXXXX │ 3 maps to 6.      │
+│2 │ 5442 │ 312465 │ Aster    │ UFM │ 1  │ 6441 │ ○○--  │ ------ │ 1 maps to 4.      │
+│3 │ 4144 │ 463521 │ Quebec   │ UFM │ 1  │ 5455 │ ○---  │ 4----1 │ 1 maps to 4.      │
+│4 │ 6322 │ 326145 │ DEFAULT  │ UFN │ X  │ 5622 │ ○---  │ --6--- │ No bonus applied. │
+│5 │ 6625 │ 642351 │ DEFAULT  │ UFN │ X  │ 1145 │ ○○--  │ -----1 │ No bonus applied. │
+│6 │ 3331 │ 635124 │ DEFAULT  │ UFN │ X  │ 5556 │ ----  │ ------ │ No bonus applied. │
+│7 │ 5235 │ 425631 │ DEFAULT  │ UFN │ X  │ 3253 │ ●●--  │ 4---31 │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (3 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ UFC │
+│ Golf     │ NHP │
+│ Dahlia   │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5366 │ 625134 │ Juliett  │ UHM │ 3  │ 3544 │ ●●--  │ XXXXXX │ 3 maps to 6.      │
+│2 │ 5442 │ 312465 │ Aster    │ UFM │ 1  │ 6441 │ ○○--  │ ------ │ 1 maps to 4.      │
+│3 │ 4144 │ 463521 │ Quebec   │ UFM │ 1  │ 5455 │ ○---  │ 4----1 │ 1 maps to 4.      │
+│4 │ 6322 │ 326145 │ DEFAULT  │ UFN │ X  │ 5622 │ ○---  │ --6--- │ No bonus applied. │
+│5 │ 6625 │ 642351 │ DEFAULT  │ UFN │ X  │ 1145 │ ○○--  │ -----1 │ No bonus applied. │
+│6 │ 3331 │ 635124 │ DEFAULT  │ UFN │ X  │ 5556 │ ----  │ ------ │ No bonus applied. │
+│7 │ 5235 │ 425631 │ DEFAULT  │ UFN │ X  │ 3253 │ ●●--  │ 4---31 │ No bonus applied. │
+│8 │ 4614 │ 652341 │ DEFAULT  │ UFN │ X  │ 3163 │ ●○--  │ -5---1 │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (2 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ UFC │
+│ Golf     │ NHP │
+│ Dahlia   │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5366 │ 625134 │ Juliett  │ UHM │ 3  │ 3544 │ ●●--  │ XXXXXX │ 3 maps to 6.      │
+│2 │ 5442 │ 312465 │ Aster    │ UFM │ 1  │ 6441 │ ○○--  │ ------ │ 1 maps to 4.      │
+│3 │ 4144 │ 463521 │ Quebec   │ UFM │ 1  │ 5455 │ ○---  │ 4----1 │ 1 maps to 4.      │
+│4 │ 6322 │ 326145 │ DEFAULT  │ UFN │ X  │ 5622 │ ○---  │ --6--- │ No bonus applied. │
+│5 │ 6625 │ 642351 │ DEFAULT  │ UFN │ X  │ 1145 │ ○○--  │ -----1 │ No bonus applied. │
+│6 │ 3331 │ 635124 │ DEFAULT  │ UFN │ X  │ 5556 │ ----  │ ------ │ No bonus applied. │
+│7 │ 5235 │ 425631 │ DEFAULT  │ UFN │ X  │ 3253 │ ●●--  │ 4---31 │ No bonus applied. │
+│8 │ 4614 │ 652341 │ DEFAULT  │ UFN │ X  │ 3163 │ ●○--  │ -5---1 │ No bonus applied. │
+│9 │ 3245 │ 451632 │ DEFAULT  │ UFN │ X  │ 1563 │ ○○--  │ 45--3- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ UFC │
+│ Golf     │ NHP │
+│ Dahlia   │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5366 │ 625134 │ Juliett  │ UHM │ 3  │ 3544 │ ●●--  │ XXXXXX │ 3 maps to 6.      │
+│2 │ 5442 │ 312465 │ Aster    │ UFM │ 1  │ 6441 │ ○○--  │ ------ │ 1 maps to 4.      │
+│3 │ 4144 │ 463521 │ Quebec   │ UFM │ 1  │ 5455 │ ○---  │ 4----1 │ 1 maps to 4.      │
+│4 │ 6322 │ 326145 │ DEFAULT  │ UFN │ X  │ 5622 │ ○---  │ --6--- │ No bonus applied. │
+│5 │ 6625 │ 642351 │ DEFAULT  │ UFN │ X  │ 1145 │ ○○--  │ -----1 │ No bonus applied. │
+│6 │ 3331 │ 635124 │ DEFAULT  │ UFN │ X  │ 5556 │ ----  │ ------ │ No bonus applied. │
+│7 │ 5235 │ 425631 │ DEFAULT  │ UFN │ X  │ 3253 │ ●●--  │ 4---31 │ No bonus applied. │
+│8 │ 4614 │ 652341 │ DEFAULT  │ UFN │ X  │ 3163 │ ●○--  │ -5---1 │ No bonus applied. │
+│9 │ 3245 │ 451632 │ DEFAULT  │ UFN │ X  │ 1563 │ ○○--  │ 45--3- │ No bonus applied. │
+│10│ 6155 │ 423165 │ DEFAULT  │ UFN │ X  │ 5466 │ ○---  │ 4----- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+You have run out of guesses. Better luck next time!

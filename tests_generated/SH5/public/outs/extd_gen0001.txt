@@ -1,0 +1,325 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Clover   │ NFE │
+│ Rowan    │ UHE │
+│ Echo     │ UHN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 2111 │ 532146 │ Clover   │ NFE │ X  │ 3555 │ XXXX  │ ------ │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ UHE │
+│ Echo     │ UHN │
+│ Hazel    │ NFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 2111 │ 532146 │ Clover   │ NFE │ X  │ 3555 │ XXXX  │ ------ │ Added extra guess. │
+│2 │ 3235 │ 216435 │ Rowan    │ UHE │ X  │ 6163 │ ○○--  │ XXXXXX │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Echo     │ UHN │
+│ Hazel    │ NFC │
+│ India    │ OHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 2111 │ 532146 │ Clover   │ NFE │ X  │ 3555 │ XXXX  │ ------ │ Added extra guess. │
+│2 │ 3235 │ 216435 │ Rowan    │ UHE │ X  │ 6163 │ ○○--  │ XXXXXX │ Added extra guess. │
+│3 │ 4563 │ 254136 │ Echo     │ UHN │ X  │ 1364 │ ●●●-  │ XXXXXX │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ NFC │
+│ India    │ OHM │
+│ Romeo    │ UFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 2111 │ 532146 │ Clover   │ NFE │ X  │ 3555 │ XXXX  │ ------ │ Added extra guess. │
+│2 │ 3235 │ 216435 │ Rowan    │ UHE │ X  │ 6163 │ ○○--  │ XXXXXX │ Added extra guess. │
+│3 │ 4563 │ 254136 │ Echo     │ UHN │ X  │ 1364 │ ●●●-  │ XXXXXX │ No bonus applied.  │
+│4 │ 2253 │ 231645 │ DEFAULT  │ UFN │ X  │ 3341 │ ●●○-  │ --1--- │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ NFC │
+│ India    │ OHM │
+│ Romeo    │ UFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 2111 │ 532146 │ Clover   │ NFE │ X  │ 3555 │ XXXX  │ ------ │ Added extra guess. │
+│2 │ 3235 │ 216435 │ Rowan    │ UHE │ X  │ 6163 │ ○○--  │ XXXXXX │ Added extra guess. │
+│3 │ 4563 │ 254136 │ Echo     │ UHN │ X  │ 1364 │ ●●●-  │ XXXXXX │ No bonus applied.  │
+│4 │ 2253 │ 231645 │ DEFAULT  │ UFN │ X  │ 3341 │ ●●○-  │ --1--- │ No bonus applied.  │
+│5 │ 2441 │ 431526 │ DEFAULT  │ UFN │ X  │ 3554 │ ●○--  │ --1--- │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ NFC │
+│ India    │ OHM │
+│ Romeo    │ UFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 2111 │ 532146 │ Clover   │ NFE │ X  │ 3555 │ XXXX  │ ------ │ Added extra guess. │
+│2 │ 3235 │ 216435 │ Rowan    │ UHE │ X  │ 6163 │ ○○--  │ XXXXXX │ Added extra guess. │
+│3 │ 4563 │ 254136 │ Echo     │ UHN │ X  │ 1364 │ ●●●-  │ XXXXXX │ No bonus applied.  │
+│4 │ 2253 │ 231645 │ DEFAULT  │ UFN │ X  │ 3341 │ ●●○-  │ --1--- │ No bonus applied.  │
+│5 │ 2441 │ 431526 │ DEFAULT  │ UFN │ X  │ 3554 │ ●○--  │ --1--- │ No bonus applied.  │
+│6 │ 2112 │ 532461 │ DEFAULT  │ UFN │ X  │ 3553 │ ○---  │ ---46- │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ NFC │
+│ India    │ OHM │
+│ Romeo    │ UFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 2111 │ 532146 │ Clover   │ NFE │ X  │ 3555 │ XXXX  │ ------ │ Added extra guess. │
+│2 │ 3235 │ 216435 │ Rowan    │ UHE │ X  │ 6163 │ ○○--  │ XXXXXX │ Added extra guess. │
+│3 │ 4563 │ 254136 │ Echo     │ UHN │ X  │ 1364 │ ●●●-  │ XXXXXX │ No bonus applied.  │
+│4 │ 2253 │ 231645 │ DEFAULT  │ UFN │ X  │ 3341 │ ●●○-  │ --1--- │ No bonus applied.  │
+│5 │ 2441 │ 431526 │ DEFAULT  │ UFN │ X  │ 3554 │ ●○--  │ --1--- │ No bonus applied.  │
+│6 │ 2112 │ 532461 │ DEFAULT  │ UFN │ X  │ 3553 │ ○---  │ ---46- │ No bonus applied.  │
+│7 │ 6256 │ 614352 │ DEFAULT  │ UFN │ X  │ 2152 │ ○---  │ -----2 │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ NFC │
+│ India    │ OHM │
+│ Romeo    │ UFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 2111 │ 532146 │ Clover   │ NFE │ X  │ 3555 │ XXXX  │ ------ │ Added extra guess. │
+│2 │ 3235 │ 216435 │ Rowan    │ UHE │ X  │ 6163 │ ○○--  │ XXXXXX │ Added extra guess. │
+│3 │ 4563 │ 254136 │ Echo     │ UHN │ X  │ 1364 │ ●●●-  │ XXXXXX │ No bonus applied.  │
+│4 │ 2253 │ 231645 │ DEFAULT  │ UFN │ X  │ 3341 │ ●●○-  │ --1--- │ No bonus applied.  │
+│5 │ 2441 │ 431526 │ DEFAULT  │ UFN │ X  │ 3554 │ ●○--  │ --1--- │ No bonus applied.  │
+│6 │ 2112 │ 532461 │ DEFAULT  │ UFN │ X  │ 3553 │ ○---  │ ---46- │ No bonus applied.  │
+│7 │ 6256 │ 614352 │ DEFAULT  │ UFN │ X  │ 2152 │ ○---  │ -----2 │ No bonus applied.  │
+│8 │ 6426 │ 342651 │ DEFAULT  │ UFN │ X  │ 1641 │ ●●--  │ 3----- │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ NFC │
+│ India    │ OHM │
+│ Romeo    │ UFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 2111 │ 532146 │ Clover   │ NFE │ X  │ 3555 │ XXXX  │ ------ │ Added extra guess. │
+│2 │ 3235 │ 216435 │ Rowan    │ UHE │ X  │ 6163 │ ○○--  │ XXXXXX │ Added extra guess. │
+│3 │ 4563 │ 254136 │ Echo     │ UHN │ X  │ 1364 │ ●●●-  │ XXXXXX │ No bonus applied.  │
+│4 │ 2253 │ 231645 │ DEFAULT  │ UFN │ X  │ 3341 │ ●●○-  │ --1--- │ No bonus applied.  │
+│5 │ 2441 │ 431526 │ DEFAULT  │ UFN │ X  │ 3554 │ ●○--  │ --1--- │ No bonus applied.  │
+│6 │ 2112 │ 532461 │ DEFAULT  │ UFN │ X  │ 3553 │ ○---  │ ---46- │ No bonus applied.  │
+│7 │ 6256 │ 614352 │ DEFAULT  │ UFN │ X  │ 2152 │ ○---  │ -----2 │ No bonus applied.  │
+│8 │ 6426 │ 342651 │ DEFAULT  │ UFN │ X  │ 1641 │ ●●--  │ 3----- │ No bonus applied.  │
+│9 │ 6653 │ 514263 │ DEFAULT  │ UFN │ X  │ 3364 │ ●●--  │ ----6- │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (3 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ NFC │
+│ India    │ OHM │
+│ Romeo    │ UFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 2111 │ 532146 │ Clover   │ NFE │ X  │ 3555 │ XXXX  │ ------ │ Added extra guess. │
+│2 │ 3235 │ 216435 │ Rowan    │ UHE │ X  │ 6163 │ ○○--  │ XXXXXX │ Added extra guess. │
+│3 │ 4563 │ 254136 │ Echo     │ UHN │ X  │ 1364 │ ●●●-  │ XXXXXX │ No bonus applied.  │
+│4 │ 2253 │ 231645 │ DEFAULT  │ UFN │ X  │ 3341 │ ●●○-  │ --1--- │ No bonus applied.  │
+│5 │ 2441 │ 431526 │ DEFAULT  │ UFN │ X  │ 3554 │ ●○--  │ --1--- │ No bonus applied.  │
+│6 │ 2112 │ 532461 │ DEFAULT  │ UFN │ X  │ 3553 │ ○---  │ ---46- │ No bonus applied.  │
+│7 │ 6256 │ 614352 │ DEFAULT  │ UFN │ X  │ 2152 │ ○---  │ -----2 │ No bonus applied.  │
+│8 │ 6426 │ 342651 │ DEFAULT  │ UFN │ X  │ 1641 │ ●●--  │ 3----- │ No bonus applied.  │
+│9 │ 6653 │ 514263 │ DEFAULT  │ UFN │ X  │ 3364 │ ●●--  │ ----6- │ No bonus applied.  │
+│10│ 4444 │ 164253 │ DEFAULT  │ UFN │ X  │ 2222 │ ----  │ ------ │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 11 (2 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ NFC │
+│ India    │ OHM │
+│ Romeo    │ UFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 2111 │ 532146 │ Clover   │ NFE │ X  │ 3555 │ XXXX  │ ------ │ Added extra guess. │
+│2 │ 3235 │ 216435 │ Rowan    │ UHE │ X  │ 6163 │ ○○--  │ XXXXXX │ Added extra guess. │
+│3 │ 4563 │ 254136 │ Echo     │ UHN │ X  │ 1364 │ ●●●-  │ XXXXXX │ No bonus applied.  │
+│4 │ 2253 │ 231645 │ DEFAULT  │ UFN │ X  │ 3341 │ ●●○-  │ --1--- │ No bonus applied.  │
+│5 │ 2441 │ 431526 │ DEFAULT  │ UFN │ X  │ 3554 │ ●○--  │ --1--- │ No bonus applied.  │
+│6 │ 2112 │ 532461 │ DEFAULT  │ UFN │ X  │ 3553 │ ○---  │ ---46- │ No bonus applied.  │
+│7 │ 6256 │ 614352 │ DEFAULT  │ UFN │ X  │ 2152 │ ○---  │ -----2 │ No bonus applied.  │
+│8 │ 6426 │ 342651 │ DEFAULT  │ UFN │ X  │ 1641 │ ●●--  │ 3----- │ No bonus applied.  │
+│9 │ 6653 │ 514263 │ DEFAULT  │ UFN │ X  │ 3364 │ ●●--  │ ----6- │ No bonus applied.  │
+│10│ 4444 │ 164253 │ DEFAULT  │ UFN │ X  │ 2222 │ ----  │ ------ │ No bonus applied.  │
+│11│ 6543 │ 615423 │ DEFAULT  │ UFN │ X  │ 3245 │ ●○--  │ ---4-- │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 12 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ NFC │
+│ India    │ OHM │
+│ Romeo    │ UFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 2111 │ 532146 │ Clover   │ NFE │ X  │ 3555 │ XXXX  │ ------ │ Added extra guess. │
+│2 │ 3235 │ 216435 │ Rowan    │ UHE │ X  │ 6163 │ ○○--  │ XXXXXX │ Added extra guess. │
+│3 │ 4563 │ 254136 │ Echo     │ UHN │ X  │ 1364 │ ●●●-  │ XXXXXX │ No bonus applied.  │
+│4 │ 2253 │ 231645 │ DEFAULT  │ UFN │ X  │ 3341 │ ●●○-  │ --1--- │ No bonus applied.  │
+│5 │ 2441 │ 431526 │ DEFAULT  │ UFN │ X  │ 3554 │ ●○--  │ --1--- │ No bonus applied.  │
+│6 │ 2112 │ 532461 │ DEFAULT  │ UFN │ X  │ 3553 │ ○---  │ ---46- │ No bonus applied.  │
+│7 │ 6256 │ 614352 │ DEFAULT  │ UFN │ X  │ 2152 │ ○---  │ -----2 │ No bonus applied.  │
+│8 │ 6426 │ 342651 │ DEFAULT  │ UFN │ X  │ 1641 │ ●●--  │ 3----- │ No bonus applied.  │
+│9 │ 6653 │ 514263 │ DEFAULT  │ UFN │ X  │ 3364 │ ●●--  │ ----6- │ No bonus applied.  │
+│10│ 4444 │ 164253 │ DEFAULT  │ UFN │ X  │ 2222 │ ----  │ ------ │ No bonus applied.  │
+│11│ 6543 │ 615423 │ DEFAULT  │ UFN │ X  │ 3245 │ ●○--  │ ---4-- │ No bonus applied.  │
+│12│ 2162 │ 351642 │ DEFAULT  │ UFN │ X  │ 5325 │ ●---  │ 351--2 │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+You have run out of guesses. Better luck next time!

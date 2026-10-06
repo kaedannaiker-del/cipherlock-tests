@@ -1,0 +1,142 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+Enter agent name and effects for agent 18:
+Enter agent name and effects for agent 19:
+Enter agent name and effects for agent 20:
+Enter agent name and effects for agent 21:
+Enter agent name and effects for agent 22:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Laurel   │ UFT │
+│ Romeo    │ UHH │
+│ Vetch    │ UHN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Laurel
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1122 │ 123456 │ Laurel   │ UFT │ X  │ 1122 │ ●○--  │ ------ │ Tossed all cards. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sorrel   │ UFR │
+│ Dahlia   │ OHT │
+│ Yankee   │ OHN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2243 214365 Sorrel
+┌────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────┤
+│1 │ 1122 │ 123456 │ Laurel   │ UFT │ X  │ 1122 │ ●○--  │ ------ │ Tossed all cards.         │
+│2 │ 2243 │ 214365 │ Sorrel   │ UFR │ X  │ 1134 │ ○○○-  │ ------ │ Replay: Tossed all cards. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ NFC │
+│ Basil    │ NHR │
+│ Aspen    │ NHT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5156 345612 Hazel 1
+┌────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────┤
+│1 │ 1122 │ 123456 │ Laurel   │ UFT │ X  │ 1122 │ ●○--  │ ------ │ Tossed all cards.         │
+│2 │ 2243 │ 214365 │ Sorrel   │ UFR │ X  │ 1134 │ ○○○-  │ ------ │ Replay: Tossed all cards. │
+│3 │ 5156 │ 345612 │ Hazel    │ NFC │ 1  │ 1312 │ XXXX  │ 3456-- │ 1 appears 1 times.        │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Basil    │ NHR │
+│ Aspen    │ NHT │
+│ Zulu     │ UFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+6165 345621 Zulu
+┌────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────┤
+│1 │ 1122 │ 123456 │ Laurel   │ UFT │ X  │ 1122 │ ●○--  │ ------ │ Tossed all cards.         │
+│2 │ 2243 │ 214365 │ Sorrel   │ UFR │ X  │ 1134 │ ○○○-  │ ------ │ Replay: Tossed all cards. │
+│3 │ 5156 │ 345612 │ Hazel    │ NFC │ 1  │ 1312 │ XXXX  │ 3456-- │ 1 appears 1 times.        │
+│4 │ 6165 │ 345621 │ Zulu     │ UFE │ X  │ 1312 │ ●●●-  │ 345621 │ Added extra guess.        │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Basil    │ NHR │
+│ Aspen    │ NHT │
+│ Papa     │ OHN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2165 345621 Basil
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 1122 │ 123456 │ Laurel   │ UFT │ X  │ 1122 │ ●○--  │ ------ │ Tossed all cards.          │
+│2 │ 2243 │ 214365 │ Sorrel   │ UFR │ X  │ 1134 │ ○○○-  │ ------ │ Replay: Tossed all cards.  │
+│3 │ 5156 │ 345612 │ Hazel    │ NFC │ 1  │ 1312 │ XXXX  │ 3456-- │ 1 appears 1 times.         │
+│4 │ 6165 │ 345621 │ Zulu     │ UFE │ X  │ 1312 │ ●●●-  │ 345621 │ Added extra guess.         │
+│5 │ 2165 │ 345621 │ Basil    │ NHR │ X  │ 4312 │ XXXX  │ XXXXXX │ Replay: Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+Congratulations! You solved the cipherlock.

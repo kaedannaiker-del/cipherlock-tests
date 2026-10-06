@@ -1,0 +1,259 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Willow   │ OFH │
+│ Vetch    │ UHH │
+│ Papa     │ UHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 3333 │ 546231 │ Willow   │ OFH │ X  │ 6666 │ ●---  │ -----1 │ No hidden reveals can be exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Vetch    │ UHH │
+│ Papa     │ UHH │
+│ Elm      │ NHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 3333 │ 546231 │ Willow   │ OFH │ X  │ 6666 │ ●---  │ -----1 │ No hidden reveals can be exposed. │
+│2 │ 6331 │ 314625 │ Vetch    │ UHH │ 1  │ 5443 │ ○---  │ XXXXXX │ No hidden reveals can be exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Papa     │ UHH │
+│ Elm      │ NHM │
+│ Zulu     │ UHN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 3333 │ 546231 │ Willow   │ OFH │ X  │ 6666 │ ●---  │ -----1 │ No hidden reveals can be exposed.   │
+│2 │ 6331 │ 314625 │ Vetch    │ UHH │ 1  │ 5443 │ ○---  │ 3--6-- │ No hidden reveals can be exposed.   │
+│3 │ 5512 │ 536124 │ Papa     │ UHH │ 2  │ 2253 │ ○○--  │ XXXXXX │ Reveal on round 2 has been exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Elm      │ NHM │
+│ Zulu     │ UHN │
+│ Hotel    │ UHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 3333 │ 546231 │ Willow   │ OFH │ X  │ 6666 │ ●---  │ -----1 │ No hidden reveals can be exposed.   │
+│2 │ 6331 │ 314625 │ Vetch    │ UHH │ 1  │ 5443 │ ○---  │ 3--6-- │ No hidden reveals can be exposed.   │
+│3 │ 5512 │ 536124 │ Papa     │ UHH │ 2  │ 2253 │ ○○--  │ XXXXXX │ Reveal on round 2 has been exposed. │
+│4 │ 2354 │ 134265 │ DEFAULT  │ UFN │ X  │ 3462 │ ○○○-  │ ------ │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Elm      │ NHM │
+│ Zulu     │ UHN │
+│ Hotel    │ UHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 3333 │ 546231 │ Willow   │ OFH │ X  │ 6666 │ ●---  │ -----1 │ No hidden reveals can be exposed.   │
+│2 │ 6331 │ 314625 │ Vetch    │ UHH │ 1  │ 5443 │ ○---  │ 3--6-- │ No hidden reveals can be exposed.   │
+│3 │ 5512 │ 536124 │ Papa     │ UHH │ 2  │ 2253 │ ○○--  │ XXXXXX │ Reveal on round 2 has been exposed. │
+│4 │ 2354 │ 134265 │ DEFAULT  │ UFN │ X  │ 3462 │ ○○○-  │ ------ │ No bonus applied.                   │
+│5 │ 2613 │ 136425 │ DEFAULT  │ UFN │ X  │ 3516 │ ○○○-  │ ------ │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Elm      │ NHM │
+│ Zulu     │ UHN │
+│ Hotel    │ UHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 3333 │ 546231 │ Willow   │ OFH │ X  │ 6666 │ ●---  │ -----1 │ No hidden reveals can be exposed.   │
+│2 │ 6331 │ 314625 │ Vetch    │ UHH │ 1  │ 5443 │ ○---  │ 3--6-- │ No hidden reveals can be exposed.   │
+│3 │ 5512 │ 536124 │ Papa     │ UHH │ 2  │ 2253 │ ○○--  │ XXXXXX │ Reveal on round 2 has been exposed. │
+│4 │ 2354 │ 134265 │ DEFAULT  │ UFN │ X  │ 3462 │ ○○○-  │ ------ │ No bonus applied.                   │
+│5 │ 2613 │ 136425 │ DEFAULT  │ UFN │ X  │ 3516 │ ○○○-  │ ------ │ No bonus applied.                   │
+│6 │ 2452 │ 253641 │ DEFAULT  │ UFN │ X  │ 5645 │ ○---  │ ---641 │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Elm      │ NHM │
+│ Zulu     │ UHN │
+│ Hotel    │ UHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 3333 │ 546231 │ Willow   │ OFH │ X  │ 6666 │ ●---  │ -----1 │ No hidden reveals can be exposed.   │
+│2 │ 6331 │ 314625 │ Vetch    │ UHH │ 1  │ 5443 │ ○---  │ 3--6-- │ No hidden reveals can be exposed.   │
+│3 │ 5512 │ 536124 │ Papa     │ UHH │ 2  │ 2253 │ ○○--  │ XXXXXX │ Reveal on round 2 has been exposed. │
+│4 │ 2354 │ 134265 │ DEFAULT  │ UFN │ X  │ 3462 │ ○○○-  │ ------ │ No bonus applied.                   │
+│5 │ 2613 │ 136425 │ DEFAULT  │ UFN │ X  │ 3516 │ ○○○-  │ ------ │ No bonus applied.                   │
+│6 │ 2452 │ 253641 │ DEFAULT  │ UFN │ X  │ 5645 │ ○---  │ ---641 │ No bonus applied.                   │
+│7 │ 2254 │ 562431 │ DEFAULT  │ UFN │ X  │ 6634 │ ●○--  │ -----1 │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (3 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Elm      │ NHM │
+│ Zulu     │ UHN │
+│ Hotel    │ UHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 3333 │ 546231 │ Willow   │ OFH │ X  │ 6666 │ ●---  │ -----1 │ No hidden reveals can be exposed.   │
+│2 │ 6331 │ 314625 │ Vetch    │ UHH │ 1  │ 5443 │ ○---  │ 3--6-- │ No hidden reveals can be exposed.   │
+│3 │ 5512 │ 536124 │ Papa     │ UHH │ 2  │ 2253 │ ○○--  │ XXXXXX │ Reveal on round 2 has been exposed. │
+│4 │ 2354 │ 134265 │ DEFAULT  │ UFN │ X  │ 3462 │ ○○○-  │ ------ │ No bonus applied.                   │
+│5 │ 2613 │ 136425 │ DEFAULT  │ UFN │ X  │ 3516 │ ○○○-  │ ------ │ No bonus applied.                   │
+│6 │ 2452 │ 253641 │ DEFAULT  │ UFN │ X  │ 5645 │ ○---  │ ---641 │ No bonus applied.                   │
+│7 │ 2254 │ 562431 │ DEFAULT  │ UFN │ X  │ 6634 │ ●○--  │ -----1 │ No bonus applied.                   │
+│8 │ 1146 │ 653124 │ DEFAULT  │ UFN │ X  │ 6614 │ ●○--  │ ------ │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (2 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Elm      │ NHM │
+│ Zulu     │ UHN │
+│ Hotel    │ UHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 3333 │ 546231 │ Willow   │ OFH │ X  │ 6666 │ ●---  │ -----1 │ No hidden reveals can be exposed.   │
+│2 │ 6331 │ 314625 │ Vetch    │ UHH │ 1  │ 5443 │ ○---  │ 3--6-- │ No hidden reveals can be exposed.   │
+│3 │ 5512 │ 536124 │ Papa     │ UHH │ 2  │ 2253 │ ○○--  │ XXXXXX │ Reveal on round 2 has been exposed. │
+│4 │ 2354 │ 134265 │ DEFAULT  │ UFN │ X  │ 3462 │ ○○○-  │ ------ │ No bonus applied.                   │
+│5 │ 2613 │ 136425 │ DEFAULT  │ UFN │ X  │ 3516 │ ○○○-  │ ------ │ No bonus applied.                   │
+│6 │ 2452 │ 253641 │ DEFAULT  │ UFN │ X  │ 5645 │ ○---  │ ---641 │ No bonus applied.                   │
+│7 │ 2254 │ 562431 │ DEFAULT  │ UFN │ X  │ 6634 │ ●○--  │ -----1 │ No bonus applied.                   │
+│8 │ 1146 │ 653124 │ DEFAULT  │ UFN │ X  │ 6614 │ ●○--  │ ------ │ No bonus applied.                   │
+│9 │ 4331 │ 315642 │ DEFAULT  │ UFN │ X  │ 6553 │ ●○--  │ 3-564- │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Elm      │ NHM │
+│ Zulu     │ UHN │
+│ Hotel    │ UHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 3333 │ 546231 │ Willow   │ OFH │ X  │ 6666 │ ●---  │ -----1 │ No hidden reveals can be exposed.   │
+│2 │ 6331 │ 314625 │ Vetch    │ UHH │ 1  │ 5443 │ ○---  │ 3--6-- │ No hidden reveals can be exposed.   │
+│3 │ 5512 │ 536124 │ Papa     │ UHH │ 2  │ 2253 │ ○○--  │ XXXXXX │ Reveal on round 2 has been exposed. │
+│4 │ 2354 │ 134265 │ DEFAULT  │ UFN │ X  │ 3462 │ ○○○-  │ ------ │ No bonus applied.                   │
+│5 │ 2613 │ 136425 │ DEFAULT  │ UFN │ X  │ 3516 │ ○○○-  │ ------ │ No bonus applied.                   │
+│6 │ 2452 │ 253641 │ DEFAULT  │ UFN │ X  │ 5645 │ ○---  │ ---641 │ No bonus applied.                   │
+│7 │ 2254 │ 562431 │ DEFAULT  │ UFN │ X  │ 6634 │ ●○--  │ -----1 │ No bonus applied.                   │
+│8 │ 1146 │ 653124 │ DEFAULT  │ UFN │ X  │ 6614 │ ●○--  │ ------ │ No bonus applied.                   │
+│9 │ 4331 │ 315642 │ DEFAULT  │ UFN │ X  │ 6553 │ ●○--  │ 3-564- │ No bonus applied.                   │
+│10│ 6611 │ 126354 │ DEFAULT  │ UFN │ X  │ 4411 │ ●---  │ -2---- │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+You have run out of guesses. Better luck next time!

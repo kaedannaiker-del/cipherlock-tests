@@ -1,0 +1,142 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+Enter agent name and effects for agent 18:
+Enter agent name and effects for agent 19:
+Enter agent name and effects for agent 20:
+Enter agent name and effects for agent 21:
+Enter agent name and effects for agent 22:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tango    │ UHP │
+│ Laurel   │ NHM │
+│ Dahlia   │ OFR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Dahlia
+┌────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────┤
+│1 │ 1122 │ 123456 │ Dahlia   │ OFR │ X  │ 1122 │ ----  │ ----5- │ Replay: No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tango    │ UHP │
+│ Laurel   │ NHM │
+│ Echo     │ OHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+6354 214653 Echo 0
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Dahlia   │ OFR │ X  │ 1122 │ ----  │ ----5- │ Replay: No bonus applied.         │
+│2 │ 6354 │ 214653 │ Echo     │ OHH │ 0  │ 3456 │ ●-○○  │ XXXXXX │ No hidden reveals can be exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tango    │ UHP │
+│ Laurel   │ NHM │
+│ Romeo    │ OHR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+6546 214653 Romeo 2
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                            │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                       │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Dahlia   │ OFR │ X  │ 1122 │ ----  │ ----5- │ Replay: No bonus applied.                   │
+│2 │ 6354 │ 214653 │ Echo     │ OHH │ 0  │ 3456 │ ●-○○  │ ----5- │ No hidden reveals can be exposed.           │
+│3 │ 6546 │ 214653 │ Romeo    │ OHR │ 2  │ 3563 │ ●○○○  │ XXXXXX │ Replay: Reveal on round 2 has been exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tango    │ UHP │
+│ Laurel   │ NHM │
+│ Papa     │ UHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1315 346152 Laurel 1
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                            │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                       │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Dahlia   │ OFR │ X  │ 1122 │ ----  │ ----5- │ Replay: No bonus applied.                   │
+│2 │ 6354 │ 214653 │ Echo     │ OHH │ 0  │ 3456 │ ●-○○  │ ----5- │ No hidden reveals can be exposed.           │
+│3 │ 6546 │ 214653 │ Romeo    │ OHR │ 2  │ 3563 │ ●○○○  │ XXXXXX │ Replay: Reveal on round 2 has been exposed. │
+│4 │ 1315 │ 346152 │ Laurel   │ NHM │ 1  │ 3635 │ XXXX  │ XXXXXX │ 1 maps to 4.                                │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tango    │ UHP │
+│ Papa     │ UHC │
+│ Aster    │ UFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2325 436152 Aster 1
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                            │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                       │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Dahlia   │ OFR │ X  │ 1122 │ ----  │ ----5- │ Replay: No bonus applied.                   │
+│2 │ 6354 │ 214653 │ Echo     │ OHH │ 0  │ 3456 │ ●-○○  │ ----5- │ No hidden reveals can be exposed.           │
+│3 │ 6546 │ 214653 │ Romeo    │ OHR │ 2  │ 3563 │ ●○○○  │ XXXXXX │ Replay: Reveal on round 2 has been exposed. │
+│4 │ 1315 │ 346152 │ Laurel   │ NHM │ 1  │ 3635 │ XXXX  │ XXXXXX │ 1 maps to 4.                                │
+│5 │ 2325 │ 436152 │ Aster    │ UFC │ 1  │ 3635 │ ●●●●  │ 436152 │ 1 appears 0 times.                          │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────────────┘
+Congratulations! You solved the cipherlock.

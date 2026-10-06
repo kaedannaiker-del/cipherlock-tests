@@ -1,0 +1,261 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tulip    │ UHH │
+│ Sierra   │ OFH │
+│ Delta    │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 6312 │ 654312 │ Tulip    │ UHH │ X  │ 2465 │ ●●--  │ XXXXXX │ No hidden reveals can be exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sierra   │ OFH │
+│ Delta    │ NFH │
+│ Bravo    │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 6312 │ 654312 │ Tulip    │ UHH │ X  │ 2465 │ ●●--  │ ---31- │ No hidden reveals can be exposed.   │
+│2 │ 5422 │ 521346 │ Sierra   │ OFH │ 1  │ 4322 │ ○-○●  │ 5--3-- │ Reveal on round 1 has been exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Delta    │ NFH │
+│ Bravo    │ NFH │
+│ Zulu     │ UFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 6312 │ 654312 │ Tulip    │ UHH │ X  │ 2465 │ ●●--  │ ---31- │ No hidden reveals can be exposed.   │
+│2 │ 5422 │ 521346 │ Sierra   │ OFH │ 1  │ 4322 │ ○-○●  │ 5--3-- │ Reveal on round 1 has been exposed. │
+│3 │ 1513 │ 165423 │ Delta    │ NFH │ 2  │ 1215 │ XXXX  │ -6---- │ No hidden reveals can be exposed.   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Bravo    │ NFH │
+│ Zulu     │ UFC │
+│ Hotel    │ NHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 6312 │ 654312 │ Tulip    │ UHH │ X  │ 2465 │ ●●--  │ ---31- │ No hidden reveals can be exposed.   │
+│2 │ 5422 │ 521346 │ Sierra   │ OFH │ 1  │ 4322 │ ○-○●  │ 5--3-- │ Reveal on round 1 has been exposed. │
+│3 │ 1513 │ 165423 │ Delta    │ NFH │ 2  │ 1215 │ XXXX  │ -6---- │ No hidden reveals can be exposed.   │
+│4 │ 3233 │ 165324 │ DEFAULT  │ UFN │ X  │ 5655 │ ----  │ -6-3-4 │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Bravo    │ NFH │
+│ Zulu     │ UFC │
+│ Hotel    │ NHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 6312 │ 654312 │ Tulip    │ UHH │ X  │ 2465 │ ●●--  │ ---31- │ No hidden reveals can be exposed.   │
+│2 │ 5422 │ 521346 │ Sierra   │ OFH │ 1  │ 4322 │ ○-○●  │ 5--3-- │ Reveal on round 1 has been exposed. │
+│3 │ 1513 │ 165423 │ Delta    │ NFH │ 2  │ 1215 │ XXXX  │ -6---- │ No hidden reveals can be exposed.   │
+│4 │ 3233 │ 165324 │ DEFAULT  │ UFN │ X  │ 5655 │ ----  │ -6-3-4 │ No bonus applied.                   │
+│5 │ 2613 │ 642513 │ DEFAULT  │ UFN │ X  │ 4362 │ ●○--  │ --2-1- │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Bravo    │ NFH │
+│ Zulu     │ UFC │
+│ Hotel    │ NHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 6312 │ 654312 │ Tulip    │ UHH │ X  │ 2465 │ ●●--  │ ---31- │ No hidden reveals can be exposed.   │
+│2 │ 5422 │ 521346 │ Sierra   │ OFH │ 1  │ 4322 │ ○-○●  │ 5--3-- │ Reveal on round 1 has been exposed. │
+│3 │ 1513 │ 165423 │ Delta    │ NFH │ 2  │ 1215 │ XXXX  │ -6---- │ No hidden reveals can be exposed.   │
+│4 │ 3233 │ 165324 │ DEFAULT  │ UFN │ X  │ 5655 │ ----  │ -6-3-4 │ No bonus applied.                   │
+│5 │ 2613 │ 642513 │ DEFAULT  │ UFN │ X  │ 4362 │ ●○--  │ --2-1- │ No bonus applied.                   │
+│6 │ 6615 │ 562341 │ DEFAULT  │ UFN │ X  │ 1154 │ ○○--  │ 5623-- │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Bravo    │ NFH │
+│ Zulu     │ UFC │
+│ Hotel    │ NHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 6312 │ 654312 │ Tulip    │ UHH │ X  │ 2465 │ ●●--  │ ---31- │ No hidden reveals can be exposed.   │
+│2 │ 5422 │ 521346 │ Sierra   │ OFH │ 1  │ 4322 │ ○-○●  │ 5--3-- │ Reveal on round 1 has been exposed. │
+│3 │ 1513 │ 165423 │ Delta    │ NFH │ 2  │ 1215 │ XXXX  │ -6---- │ No hidden reveals can be exposed.   │
+│4 │ 3233 │ 165324 │ DEFAULT  │ UFN │ X  │ 5655 │ ----  │ -6-3-4 │ No bonus applied.                   │
+│5 │ 2613 │ 642513 │ DEFAULT  │ UFN │ X  │ 4362 │ ●○--  │ --2-1- │ No bonus applied.                   │
+│6 │ 6615 │ 562341 │ DEFAULT  │ UFN │ X  │ 1154 │ ○○--  │ 5623-- │ No bonus applied.                   │
+│7 │ 2466 │ 241356 │ DEFAULT  │ UFN │ X  │ 4366 │ ○---  │ ---3-- │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (3 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Bravo    │ NFH │
+│ Zulu     │ UFC │
+│ Hotel    │ NHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 6312 │ 654312 │ Tulip    │ UHH │ X  │ 2465 │ ●●--  │ ---31- │ No hidden reveals can be exposed.   │
+│2 │ 5422 │ 521346 │ Sierra   │ OFH │ 1  │ 4322 │ ○-○●  │ 5--3-- │ Reveal on round 1 has been exposed. │
+│3 │ 1513 │ 165423 │ Delta    │ NFH │ 2  │ 1215 │ XXXX  │ -6---- │ No hidden reveals can be exposed.   │
+│4 │ 3233 │ 165324 │ DEFAULT  │ UFN │ X  │ 5655 │ ----  │ -6-3-4 │ No bonus applied.                   │
+│5 │ 2613 │ 642513 │ DEFAULT  │ UFN │ X  │ 4362 │ ●○--  │ --2-1- │ No bonus applied.                   │
+│6 │ 6615 │ 562341 │ DEFAULT  │ UFN │ X  │ 1154 │ ○○--  │ 5623-- │ No bonus applied.                   │
+│7 │ 2466 │ 241356 │ DEFAULT  │ UFN │ X  │ 4366 │ ○---  │ ---3-- │ No bonus applied.                   │
+│8 │ 1412 │ 563214 │ DEFAULT  │ UFN │ X  │ 5256 │ ○---  │ 56--14 │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (2 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Bravo    │ NFH │
+│ Zulu     │ UFC │
+│ Hotel    │ NHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 6312 │ 654312 │ Tulip    │ UHH │ X  │ 2465 │ ●●--  │ ---31- │ No hidden reveals can be exposed.   │
+│2 │ 5422 │ 521346 │ Sierra   │ OFH │ 1  │ 4322 │ ○-○●  │ 5--3-- │ Reveal on round 1 has been exposed. │
+│3 │ 1513 │ 165423 │ Delta    │ NFH │ 2  │ 1215 │ XXXX  │ -6---- │ No hidden reveals can be exposed.   │
+│4 │ 3233 │ 165324 │ DEFAULT  │ UFN │ X  │ 5655 │ ----  │ -6-3-4 │ No bonus applied.                   │
+│5 │ 2613 │ 642513 │ DEFAULT  │ UFN │ X  │ 4362 │ ●○--  │ --2-1- │ No bonus applied.                   │
+│6 │ 6615 │ 562341 │ DEFAULT  │ UFN │ X  │ 1154 │ ○○--  │ 5623-- │ No bonus applied.                   │
+│7 │ 2466 │ 241356 │ DEFAULT  │ UFN │ X  │ 4366 │ ○---  │ ---3-- │ No bonus applied.                   │
+│8 │ 1412 │ 563214 │ DEFAULT  │ UFN │ X  │ 5256 │ ○---  │ 56--14 │ No bonus applied.                   │
+│9 │ 6422 │ 412356 │ DEFAULT  │ UFN │ X  │ 6311 │ ●---  │ --23-- │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Bravo    │ NFH │
+│ Zulu     │ UFC │
+│ Hotel    │ NHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 6312 │ 654312 │ Tulip    │ UHH │ X  │ 2465 │ ●●--  │ ---31- │ No hidden reveals can be exposed.   │
+│2 │ 5422 │ 521346 │ Sierra   │ OFH │ 1  │ 4322 │ ○-○●  │ 5--3-- │ Reveal on round 1 has been exposed. │
+│3 │ 1513 │ 165423 │ Delta    │ NFH │ 2  │ 1215 │ XXXX  │ -6---- │ No hidden reveals can be exposed.   │
+│4 │ 3233 │ 165324 │ DEFAULT  │ UFN │ X  │ 5655 │ ----  │ -6-3-4 │ No bonus applied.                   │
+│5 │ 2613 │ 642513 │ DEFAULT  │ UFN │ X  │ 4362 │ ●○--  │ --2-1- │ No bonus applied.                   │
+│6 │ 6615 │ 562341 │ DEFAULT  │ UFN │ X  │ 1154 │ ○○--  │ 5623-- │ No bonus applied.                   │
+│7 │ 2466 │ 241356 │ DEFAULT  │ UFN │ X  │ 4366 │ ○---  │ ---3-- │ No bonus applied.                   │
+│8 │ 1412 │ 563214 │ DEFAULT  │ UFN │ X  │ 5256 │ ○---  │ 56--14 │ No bonus applied.                   │
+│9 │ 6422 │ 412356 │ DEFAULT  │ UFN │ X  │ 6311 │ ●---  │ --23-- │ No bonus applied.                   │
+│10│ 2553 │ 253416 │ DEFAULT  │ UFN │ X  │ 5113 │ ●---  │ ----1- │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+You have run out of guesses. Better luck next time!

@@ -1,0 +1,109 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Maple    │ UHM │
+│ India    │ OFN │
+│ Vetch    │ OFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Maple 1
+┌────────────────────────────────────────┬──────────────────────────────────────┐
+│ Guess                                  │ Feedback                             │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus        │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────┤
+│1 │ 1122 │ 123456 │ Maple    │ UHM │ 1  │ 1122 │ ----  │ XXXXXX │ 1 maps to 1. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ India    │ OFN │
+│ Vetch    │ OFT │
+│ Foxtrot  │ NHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3456 123456 Vetch
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1122 │ 123456 │ Maple    │ UHM │ 1  │ 1122 │ ----  │ XXXXXX │ 1 maps to 1.      │
+│2 │ 3456 │ 123456 │ Vetch    │ OFT │ X  │ 3456 │ ○○○●  │ 1----6 │ Tossed all cards. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Juliett  │ OFN │
+│ Nova     │ UFE │
+│ Tulip    │ UFR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5426 132546 Nova
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Maple    │ UHM │ 1  │ 1122 │ ----  │ XXXXXX │ 1 maps to 1.       │
+│2 │ 3456 │ 123456 │ Vetch    │ OFT │ X  │ 3456 │ ○○○●  │ 1----6 │ Tossed all cards.  │
+│3 │ 5426 │ 132546 │ Nova     │ UFE │ X  │ 4536 │ ●○○○  │ 1-25-6 │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Juliett  │ OFN │
+│ Tulip    │ UFR │
+│ Bravo    │ UHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4526 142536 Tulip
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 1122 │ 123456 │ Maple    │ UHM │ 1  │ 1122 │ ----  │ XXXXXX │ 1 maps to 1.               │
+│2 │ 3456 │ 123456 │ Vetch    │ OFT │ X  │ 3456 │ ○○○●  │ 1----6 │ Tossed all cards.          │
+│3 │ 5426 │ 132546 │ Nova     │ UFE │ X  │ 4536 │ ●○○○  │ 1-25-6 │ Added extra guess.         │
+│4 │ 4526 │ 142536 │ Tulip    │ UFR │ X  │ 5346 │ ●●●●  │ 142536 │ Replay: Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+Congratulations! You solved the cipherlock.

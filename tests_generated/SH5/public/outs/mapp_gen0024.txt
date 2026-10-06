@@ -1,0 +1,263 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Aspen    │ NHM │
+│ Juliett  │ NHM │
+│ Basil    │ OFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────┐
+│ Guess                                  │ Feedback                             │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus        │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────┤
+│1 │ 1625 │ 356124 │ Aspen    │ NHM │ 6  │ 3452 │ XXXX  │ XXXXXX │ 6 maps to 6. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Juliett  │ NHM │
+│ Basil    │ OFM │
+│ India    │ OHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────┐
+│ Guess                                  │ Feedback                             │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus        │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────┤
+│1 │ 1625 │ 356124 │ Aspen    │ NHM │ 6  │ 3452 │ XXXX  │ XXXXXX │ 6 maps to 6. │
+│2 │ 5313 │ 643152 │ Juliett  │ NHM │ 3  │ 5363 │ XXXX  │ XXXXXX │ 3 maps to 4. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Basil    │ OFM │
+│ India    │ OHM │
+│ Clover   │ UHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────┐
+│ Guess                                  │ Feedback                             │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus        │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────┤
+│1 │ 1625 │ 356124 │ Aspen    │ NHM │ 6  │ 3452 │ XXXX  │ XXXXXX │ 6 maps to 6. │
+│2 │ 5313 │ 643152 │ Juliett  │ NHM │ 3  │ 5363 │ XXXX  │ XXXXXX │ 3 maps to 4. │
+│3 │ 4523 │ 456231 │ Basil    │ OFM │ 6  │ 2356 │ ●●●-  │ -5---- │ 6 maps to 6. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ India    │ OHM │
+│ Clover   │ UHE │
+│ Tango    │ UFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1625 │ 356124 │ Aspen    │ NHM │ 6  │ 3452 │ XXXX  │ XXXXXX │ 6 maps to 6.      │
+│2 │ 5313 │ 643152 │ Juliett  │ NHM │ 3  │ 5363 │ XXXX  │ XXXXXX │ 3 maps to 4.      │
+│3 │ 4523 │ 456231 │ Basil    │ OFM │ 6  │ 2356 │ ●●●-  │ -5---- │ 6 maps to 6.      │
+│4 │ 4663 │ 534612 │ DEFAULT  │ UFN │ X  │ 6224 │ ○---  │ --4-1- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ India    │ OHM │
+│ Clover   │ UHE │
+│ Tango    │ UFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1625 │ 356124 │ Aspen    │ NHM │ 6  │ 3452 │ XXXX  │ XXXXXX │ 6 maps to 6.      │
+│2 │ 5313 │ 643152 │ Juliett  │ NHM │ 3  │ 5363 │ XXXX  │ XXXXXX │ 3 maps to 4.      │
+│3 │ 4523 │ 456231 │ Basil    │ OFM │ 6  │ 2356 │ ●●●-  │ -5---- │ 6 maps to 6.      │
+│4 │ 4663 │ 534612 │ DEFAULT  │ UFN │ X  │ 6224 │ ○---  │ --4-1- │ No bonus applied. │
+│5 │ 3224 │ 324651 │ DEFAULT  │ UFN │ X  │ 4226 │ ○---  │ --4--- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ India    │ OHM │
+│ Clover   │ UHE │
+│ Tango    │ UFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1625 │ 356124 │ Aspen    │ NHM │ 6  │ 3452 │ XXXX  │ XXXXXX │ 6 maps to 6.      │
+│2 │ 5313 │ 643152 │ Juliett  │ NHM │ 3  │ 5363 │ XXXX  │ XXXXXX │ 3 maps to 4.      │
+│3 │ 4523 │ 456231 │ Basil    │ OFM │ 6  │ 2356 │ ●●●-  │ -5---- │ 6 maps to 6.      │
+│4 │ 4663 │ 534612 │ DEFAULT  │ UFN │ X  │ 6224 │ ○---  │ --4-1- │ No bonus applied. │
+│5 │ 3224 │ 324651 │ DEFAULT  │ UFN │ X  │ 4226 │ ○---  │ --4--- │ No bonus applied. │
+│6 │ 6163 │ 412365 │ DEFAULT  │ UFN │ X  │ 5452 │ ●○○-  │ ---3-- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ India    │ OHM │
+│ Clover   │ UHE │
+│ Tango    │ UFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1625 │ 356124 │ Aspen    │ NHM │ 6  │ 3452 │ XXXX  │ XXXXXX │ 6 maps to 6.      │
+│2 │ 5313 │ 643152 │ Juliett  │ NHM │ 3  │ 5363 │ XXXX  │ XXXXXX │ 3 maps to 4.      │
+│3 │ 4523 │ 456231 │ Basil    │ OFM │ 6  │ 2356 │ ●●●-  │ -5---- │ 6 maps to 6.      │
+│4 │ 4663 │ 534612 │ DEFAULT  │ UFN │ X  │ 6224 │ ○---  │ --4-1- │ No bonus applied. │
+│5 │ 3224 │ 324651 │ DEFAULT  │ UFN │ X  │ 4226 │ ○---  │ --4--- │ No bonus applied. │
+│6 │ 6163 │ 412365 │ DEFAULT  │ UFN │ X  │ 5452 │ ●○○-  │ ---3-- │ No bonus applied. │
+│7 │ 5564 │ 352641 │ DEFAULT  │ UFN │ X  │ 4416 │ ----  │ -5---- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (3 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ India    │ OHM │
+│ Clover   │ UHE │
+│ Tango    │ UFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1625 │ 356124 │ Aspen    │ NHM │ 6  │ 3452 │ XXXX  │ XXXXXX │ 6 maps to 6.      │
+│2 │ 5313 │ 643152 │ Juliett  │ NHM │ 3  │ 5363 │ XXXX  │ XXXXXX │ 3 maps to 4.      │
+│3 │ 4523 │ 456231 │ Basil    │ OFM │ 6  │ 2356 │ ●●●-  │ -5---- │ 6 maps to 6.      │
+│4 │ 4663 │ 534612 │ DEFAULT  │ UFN │ X  │ 6224 │ ○---  │ --4-1- │ No bonus applied. │
+│5 │ 3224 │ 324651 │ DEFAULT  │ UFN │ X  │ 4226 │ ○---  │ --4--- │ No bonus applied. │
+│6 │ 6163 │ 412365 │ DEFAULT  │ UFN │ X  │ 5452 │ ●○○-  │ ---3-- │ No bonus applied. │
+│7 │ 5564 │ 352641 │ DEFAULT  │ UFN │ X  │ 4416 │ ----  │ -5---- │ No bonus applied. │
+│8 │ 2515 │ 146253 │ DEFAULT  │ UFN │ X  │ 4515 │ ●○--  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (2 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ India    │ OHM │
+│ Clover   │ UHE │
+│ Tango    │ UFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1625 │ 356124 │ Aspen    │ NHM │ 6  │ 3452 │ XXXX  │ XXXXXX │ 6 maps to 6.      │
+│2 │ 5313 │ 643152 │ Juliett  │ NHM │ 3  │ 5363 │ XXXX  │ XXXXXX │ 3 maps to 4.      │
+│3 │ 4523 │ 456231 │ Basil    │ OFM │ 6  │ 2356 │ ●●●-  │ -5---- │ 6 maps to 6.      │
+│4 │ 4663 │ 534612 │ DEFAULT  │ UFN │ X  │ 6224 │ ○---  │ --4-1- │ No bonus applied. │
+│5 │ 3224 │ 324651 │ DEFAULT  │ UFN │ X  │ 4226 │ ○---  │ --4--- │ No bonus applied. │
+│6 │ 6163 │ 412365 │ DEFAULT  │ UFN │ X  │ 5452 │ ●○○-  │ ---3-- │ No bonus applied. │
+│7 │ 5564 │ 352641 │ DEFAULT  │ UFN │ X  │ 4416 │ ----  │ -5---- │ No bonus applied. │
+│8 │ 2515 │ 146253 │ DEFAULT  │ UFN │ X  │ 4515 │ ●○--  │ ------ │ No bonus applied. │
+│9 │ 1635 │ 341265 │ DEFAULT  │ UFN │ X  │ 3516 │ ○○--  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ India    │ OHM │
+│ Clover   │ UHE │
+│ Tango    │ UFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1625 │ 356124 │ Aspen    │ NHM │ 6  │ 3452 │ XXXX  │ XXXXXX │ 6 maps to 6.      │
+│2 │ 5313 │ 643152 │ Juliett  │ NHM │ 3  │ 5363 │ XXXX  │ XXXXXX │ 3 maps to 4.      │
+│3 │ 4523 │ 456231 │ Basil    │ OFM │ 6  │ 2356 │ ●●●-  │ -5---- │ 6 maps to 6.      │
+│4 │ 4663 │ 534612 │ DEFAULT  │ UFN │ X  │ 6224 │ ○---  │ --4-1- │ No bonus applied. │
+│5 │ 3224 │ 324651 │ DEFAULT  │ UFN │ X  │ 4226 │ ○---  │ --4--- │ No bonus applied. │
+│6 │ 6163 │ 412365 │ DEFAULT  │ UFN │ X  │ 5452 │ ●○○-  │ ---3-- │ No bonus applied. │
+│7 │ 5564 │ 352641 │ DEFAULT  │ UFN │ X  │ 4416 │ ----  │ -5---- │ No bonus applied. │
+│8 │ 2515 │ 146253 │ DEFAULT  │ UFN │ X  │ 4515 │ ●○--  │ ------ │ No bonus applied. │
+│9 │ 1635 │ 341265 │ DEFAULT  │ UFN │ X  │ 3516 │ ○○--  │ ------ │ No bonus applied. │
+│10│ 5652 │ 241536 │ DEFAULT  │ UFN │ X  │ 3634 │ ○---  │ 2----6 │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+You have run out of guesses. Better luck next time!

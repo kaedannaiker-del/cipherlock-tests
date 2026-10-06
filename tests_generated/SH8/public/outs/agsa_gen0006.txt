@@ -1,0 +1,168 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+Enter agent name and effects for agent 18:
+Enter agent name and effects for agent 19:
+Enter agent name and effects for agent 20:
+Enter agent name and effects for agent 21:
+Enter agent name and effects for agent 22:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ UHN │
+│ Laurel   │ UHP │
+│ Bravo    │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Laurel 0
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 1122 │ 123456 │ Laurel   │ UHP │ 0  │ 1122 │ ●---  │ XXXXXX │ No cracks can be promoted. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ UHN │
+│ Bravo    │ NFH │
+│ Rowan    │ NHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1344 123456 Bravo 1
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Laurel   │ UHP │ 0  │ 1122 │ ●---  │ -2--5- │ No cracks can be promoted.          │
+│2 │ 1344 │ 123456 │ Bravo    │ NFH │ 1  │ 1344 │ XXXX  │ -2--5- │ Reveal on round 1 has been exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ UHN │
+│ Rowan    │ NHC │
+│ Clover   │ OFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1654 321654 Clover
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Laurel   │ UHP │ 0  │ 1122 │ ●---  │ -2--5- │ No cracks can be promoted.          │
+│2 │ 1344 │ 123456 │ Bravo    │ NFH │ 1  │ 1344 │ XXXX  │ -2--5- │ Reveal on round 1 has been exposed. │
+│3 │ 1654 │ 321654 │ Clover   │ OFE │ X  │ 3456 │ -●-○  │ -2--5- │ Added extra guess.                  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ UHN │
+│ Rowan    │ NHC │
+│ Maple    │ UHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1132 426153 Maple 2
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Laurel   │ UHP │ 0  │ 1122 │ ●---  │ -2--5- │ No cracks can be promoted.          │
+│2 │ 1344 │ 123456 │ Bravo    │ NFH │ 1  │ 1344 │ ○○--  │ -2--5- │ Reveal on round 1 has been exposed. │
+│3 │ 1654 │ 321654 │ Clover   │ OFE │ X  │ 3456 │ -●-○  │ -2--5- │ Added extra guess.                  │
+│4 │ 1132 │ 426153 │ Maple    │ UHP │ 2  │ 4462 │ ●●●●  │ XXXXXX │ Crack on round 2 is now unordered.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ UHN │
+│ Rowan    │ NHC │
+│ Papa     │ OFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1132 426153 Papa 1
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Laurel   │ UHP │ 0  │ 1122 │ ●---  │ -2--5- │ No cracks can be promoted.          │
+│2 │ 1344 │ 123456 │ Bravo    │ NFH │ 1  │ 1344 │ ○○--  │ -2--5- │ Reveal on round 1 has been exposed. │
+│3 │ 1654 │ 321654 │ Clover   │ OFE │ X  │ 3456 │ -●-○  │ -2--5- │ Added extra guess.                  │
+│4 │ 1132 │ 426153 │ Maple    │ UHP │ 2  │ 4462 │ ●●●●  │ XXXXXX │ Crack on round 2 is now unordered.  │
+│5 │ 1132 │ 426153 │ Papa     │ OFM │ 1  │ 4462 │ ●●●●  │ 426-5- │ 1 maps to 4.                        │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ UHN │
+│ Rowan    │ NHC │
+│ Basil    │ OFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1132 426351 Basil
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Laurel   │ UHP │ 0  │ 1122 │ ●---  │ -2--5- │ No cracks can be promoted.          │
+│2 │ 1344 │ 123456 │ Bravo    │ NFH │ 1  │ 1344 │ ○○--  │ -2--5- │ Reveal on round 1 has been exposed. │
+│3 │ 1654 │ 321654 │ Clover   │ OFE │ X  │ 3456 │ -●-○  │ -2--5- │ Added extra guess.                  │
+│4 │ 1132 │ 426153 │ Maple    │ UHP │ 2  │ 4462 │ ●●●●  │ XXXXXX │ Crack on round 2 is now unordered.  │
+│5 │ 1132 │ 426153 │ Papa     │ OFM │ 1  │ 4462 │ ●●●●  │ 426-5- │ 1 maps to 4.                        │
+│6 │ 1132 │ 426351 │ Basil    │ OFT │ X  │ 4462 │ ●●●●  │ 426351 │ Tossed all cards.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+Congratulations! You solved the cipherlock.

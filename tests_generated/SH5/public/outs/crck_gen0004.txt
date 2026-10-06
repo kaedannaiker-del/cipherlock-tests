@@ -1,0 +1,262 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Kilo     │ UHN │
+│ Delta    │ UHN │
+│ Nova     │ OFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5555 │ 536421 │ Kilo     │ UHN │ X  │ 2222 │ ●---  │ XXXXXX │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Delta    │ UHN │
+│ Nova     │ OFN │
+│ Xray     │ OFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5555 │ 536421 │ Kilo     │ UHN │ X  │ 2222 │ ●---  │ XXXXXX │ No bonus applied. │
+│2 │ 3333 │ 324561 │ Delta    │ UHN │ X  │ 4444 │ ----  │ XXXXXX │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Nova     │ OFN │
+│ Xray     │ OFE │
+│ Oscar    │ NHR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5555 │ 536421 │ Kilo     │ UHN │ X  │ 2222 │ ●---  │ XXXXXX │ No bonus applied. │
+│2 │ 3333 │ 324561 │ Delta    │ UHN │ X  │ 4444 │ ----  │ XXXXXX │ No bonus applied. │
+│3 │ 3333 │ 463215 │ Nova     │ OFN │ X  │ 3333 │ ●●--  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Xray     │ OFE │
+│ Oscar    │ NHR │
+│ Foxtrot  │ NFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5555 │ 536421 │ Kilo     │ UHN │ X  │ 2222 │ ●---  │ XXXXXX │ No bonus applied. │
+│2 │ 3333 │ 324561 │ Delta    │ UHN │ X  │ 4444 │ ----  │ XXXXXX │ No bonus applied. │
+│3 │ 3333 │ 463215 │ Nova     │ OFN │ X  │ 3333 │ ●●--  │ ------ │ No bonus applied. │
+│4 │ 1132 │ 653241 │ DEFAULT  │ UFN │ X  │ 6635 │ ○○--  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Xray     │ OFE │
+│ Oscar    │ NHR │
+│ Foxtrot  │ NFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5555 │ 536421 │ Kilo     │ UHN │ X  │ 2222 │ ●---  │ XXXXXX │ No bonus applied. │
+│2 │ 3333 │ 324561 │ Delta    │ UHN │ X  │ 4444 │ ----  │ XXXXXX │ No bonus applied. │
+│3 │ 3333 │ 463215 │ Nova     │ OFN │ X  │ 3333 │ ●●--  │ ------ │ No bonus applied. │
+│4 │ 1132 │ 653241 │ DEFAULT  │ UFN │ X  │ 6635 │ ○○--  │ ------ │ No bonus applied. │
+│5 │ 3325 │ 214356 │ DEFAULT  │ UFN │ X  │ 4415 │ ----  │ ---35- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Xray     │ OFE │
+│ Oscar    │ NHR │
+│ Foxtrot  │ NFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5555 │ 536421 │ Kilo     │ UHN │ X  │ 2222 │ ●---  │ XXXXXX │ No bonus applied. │
+│2 │ 3333 │ 324561 │ Delta    │ UHN │ X  │ 4444 │ ----  │ XXXXXX │ No bonus applied. │
+│3 │ 3333 │ 463215 │ Nova     │ OFN │ X  │ 3333 │ ●●--  │ ------ │ No bonus applied. │
+│4 │ 1132 │ 653241 │ DEFAULT  │ UFN │ X  │ 6635 │ ○○--  │ ------ │ No bonus applied. │
+│5 │ 3325 │ 214356 │ DEFAULT  │ UFN │ X  │ 4415 │ ----  │ ---35- │ No bonus applied. │
+│6 │ 1434 │ 412635 │ DEFAULT  │ UFN │ X  │ 4626 │ ○○--  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Xray     │ OFE │
+│ Oscar    │ NHR │
+│ Foxtrot  │ NFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5555 │ 536421 │ Kilo     │ UHN │ X  │ 2222 │ ●---  │ XXXXXX │ No bonus applied. │
+│2 │ 3333 │ 324561 │ Delta    │ UHN │ X  │ 4444 │ ----  │ XXXXXX │ No bonus applied. │
+│3 │ 3333 │ 463215 │ Nova     │ OFN │ X  │ 3333 │ ●●--  │ ------ │ No bonus applied. │
+│4 │ 1132 │ 653241 │ DEFAULT  │ UFN │ X  │ 6635 │ ○○--  │ ------ │ No bonus applied. │
+│5 │ 3325 │ 214356 │ DEFAULT  │ UFN │ X  │ 4415 │ ----  │ ---35- │ No bonus applied. │
+│6 │ 1434 │ 412635 │ DEFAULT  │ UFN │ X  │ 4626 │ ○○--  │ ------ │ No bonus applied. │
+│7 │ 2221 │ 145326 │ DEFAULT  │ UFN │ X  │ 4441 │ ----  │ 1--3-- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (3 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Xray     │ OFE │
+│ Oscar    │ NHR │
+│ Foxtrot  │ NFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5555 │ 536421 │ Kilo     │ UHN │ X  │ 2222 │ ●---  │ XXXXXX │ No bonus applied. │
+│2 │ 3333 │ 324561 │ Delta    │ UHN │ X  │ 4444 │ ----  │ XXXXXX │ No bonus applied. │
+│3 │ 3333 │ 463215 │ Nova     │ OFN │ X  │ 3333 │ ●●--  │ ------ │ No bonus applied. │
+│4 │ 1132 │ 653241 │ DEFAULT  │ UFN │ X  │ 6635 │ ○○--  │ ------ │ No bonus applied. │
+│5 │ 3325 │ 214356 │ DEFAULT  │ UFN │ X  │ 4415 │ ----  │ ---35- │ No bonus applied. │
+│6 │ 1434 │ 412635 │ DEFAULT  │ UFN │ X  │ 4626 │ ○○--  │ ------ │ No bonus applied. │
+│7 │ 2221 │ 145326 │ DEFAULT  │ UFN │ X  │ 4441 │ ----  │ 1--3-- │ No bonus applied. │
+│8 │ 5351 │ 435612 │ DEFAULT  │ UFN │ X  │ 1514 │ ----  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (2 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Xray     │ OFE │
+│ Oscar    │ NHR │
+│ Foxtrot  │ NFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5555 │ 536421 │ Kilo     │ UHN │ X  │ 2222 │ ●---  │ XXXXXX │ No bonus applied. │
+│2 │ 3333 │ 324561 │ Delta    │ UHN │ X  │ 4444 │ ----  │ XXXXXX │ No bonus applied. │
+│3 │ 3333 │ 463215 │ Nova     │ OFN │ X  │ 3333 │ ●●--  │ ------ │ No bonus applied. │
+│4 │ 1132 │ 653241 │ DEFAULT  │ UFN │ X  │ 6635 │ ○○--  │ ------ │ No bonus applied. │
+│5 │ 3325 │ 214356 │ DEFAULT  │ UFN │ X  │ 4415 │ ----  │ ---35- │ No bonus applied. │
+│6 │ 1434 │ 412635 │ DEFAULT  │ UFN │ X  │ 4626 │ ○○--  │ ------ │ No bonus applied. │
+│7 │ 2221 │ 145326 │ DEFAULT  │ UFN │ X  │ 4441 │ ----  │ 1--3-- │ No bonus applied. │
+│8 │ 5351 │ 435612 │ DEFAULT  │ UFN │ X  │ 1514 │ ----  │ ------ │ No bonus applied. │
+│9 │ 5243 │ 423561 │ DEFAULT  │ UFN │ X  │ 6253 │ ○○○-  │ -2---- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Xray     │ OFE │
+│ Oscar    │ NHR │
+│ Foxtrot  │ NFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5555 │ 536421 │ Kilo     │ UHN │ X  │ 2222 │ ●---  │ XXXXXX │ No bonus applied. │
+│2 │ 3333 │ 324561 │ Delta    │ UHN │ X  │ 4444 │ ----  │ XXXXXX │ No bonus applied. │
+│3 │ 3333 │ 463215 │ Nova     │ OFN │ X  │ 3333 │ ●●--  │ ------ │ No bonus applied. │
+│4 │ 1132 │ 653241 │ DEFAULT  │ UFN │ X  │ 6635 │ ○○--  │ ------ │ No bonus applied. │
+│5 │ 3325 │ 214356 │ DEFAULT  │ UFN │ X  │ 4415 │ ----  │ ---35- │ No bonus applied. │
+│6 │ 1434 │ 412635 │ DEFAULT  │ UFN │ X  │ 4626 │ ○○--  │ ------ │ No bonus applied. │
+│7 │ 2221 │ 145326 │ DEFAULT  │ UFN │ X  │ 4441 │ ----  │ 1--3-- │ No bonus applied. │
+│8 │ 5351 │ 435612 │ DEFAULT  │ UFN │ X  │ 1514 │ ----  │ ------ │ No bonus applied. │
+│9 │ 5243 │ 423561 │ DEFAULT  │ UFN │ X  │ 6253 │ ○○○-  │ -2---- │ No bonus applied. │
+│10│ 6115 │ 451236 │ DEFAULT  │ UFN │ X  │ 6443 │ ○○--  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+You have run out of guesses. Better luck next time!

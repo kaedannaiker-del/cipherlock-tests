@@ -1,0 +1,154 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Zulu     │ NFH │
+│ India    │ OHT │
+│ Bramble  │ UHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Bramble
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Bramble  │ UHE │ X  │ 1122 │ ○---  │ XXXXXX │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Zulu     │ NFH │
+│ India    │ OHT │
+│ Elm      │ NFP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2344 123456 Elm 1
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                 │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                            │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Bramble  │ UHE │ X  │ 1122 │ ○---  │ XXXXXX │ Added extra guess.               │
+│2 │ 2344 │ 123456 │ Elm      │ NFP │ 1  │ 2344 │ XXXX  │ 1----- │ Crack on round 1 is now ordered. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Zulu     │ NFH │
+│ India    │ OHT │
+│ Basil    │ UHT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2216 132564 Zulu 1
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Bramble  │ UHE │ X  │ 1122 │ ○---  │ 1----- │ Added extra guess.                  │
+│2 │ 2344 │ 123456 │ Elm      │ NFP │ 1  │ 2344 │ XXXX  │ 1----- │ Crack on round 1 is now ordered.    │
+│3 │ 2216 │ 132564 │ Zulu     │ NFH │ 1  │ 3314 │ XXXX  │ 1-2--- │ Reveal on round 1 has been exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ India    │ OHT │
+│ Basil    │ UHT │
+│ Romeo    │ UFR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5512 142635 Romeo 0
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Bramble  │ UHE │ X  │ 1122 │ ○---  │ 1----- │ Added extra guess.                        │
+│2 │ 2344 │ 123456 │ Elm      │ NFP │ 1  │ 2344 │ XXXX  │ 1----- │ Crack on round 1 is now ordered.          │
+│3 │ 2216 │ 132564 │ Zulu     │ NFH │ 1  │ 3314 │ XXXX  │ 1-2--- │ Reveal on round 1 has been exposed.       │
+│4 │ 5512 │ 142635 │ Romeo    │ UFR │ 0  │ 3314 │ ●●--  │ 1-26-- │ Replay: No hidden reveals can be exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ India    │ OHT │
+│ Basil    │ UHT │
+│ Victor   │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2415 152643 Victor
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Bramble  │ UHE │ X  │ 1122 │ ○---  │ 1----- │ Added extra guess.                        │
+│2 │ 2344 │ 123456 │ Elm      │ NFP │ 1  │ 2344 │ XXXX  │ 1----- │ Crack on round 1 is now ordered.          │
+│3 │ 2216 │ 132564 │ Zulu     │ NFH │ 1  │ 3314 │ XXXX  │ 1-2--- │ Reveal on round 1 has been exposed.       │
+│4 │ 5512 │ 142635 │ Romeo    │ UFR │ 0  │ 3314 │ ●●--  │ 1-26-- │ Replay: No hidden reveals can be exposed. │
+│5 │ 2415 │ 152643 │ Victor   │ OHE │ X  │ 5614 │ ●-●●  │ XXXXXX │ Added extra guess.                        │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ India    │ OHT │
+│ Basil    │ UHT │
+│ Tango    │ OHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2515 152643 India
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Bramble  │ UHE │ X  │ 1122 │ ○---  │ 1----- │ Added extra guess.                        │
+│2 │ 2344 │ 123456 │ Elm      │ NFP │ 1  │ 2344 │ XXXX  │ 1----- │ Crack on round 1 is now ordered.          │
+│3 │ 2216 │ 132564 │ Zulu     │ NFH │ 1  │ 3314 │ XXXX  │ 1-2--- │ Reveal on round 1 has been exposed.       │
+│4 │ 5512 │ 142635 │ Romeo    │ UFR │ 0  │ 3314 │ ●●--  │ 1-26-- │ Replay: No hidden reveals can be exposed. │
+│5 │ 2415 │ 152643 │ Victor   │ OHE │ X  │ 5614 │ ●-●●  │ XXXXXX │ Added extra guess.                        │
+│6 │ 2515 │ 152643 │ India    │ OHT │ X  │ 5414 │ ●●●●  │ XXXXXX │ Tossed all cards.                         │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────────────┘
+Congratulations! You solved the cipherlock.

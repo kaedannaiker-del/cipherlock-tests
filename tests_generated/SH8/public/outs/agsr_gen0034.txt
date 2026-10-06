@@ -1,0 +1,174 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+Enter agent name and effects for agent 18:
+Enter agent name and effects for agent 19:
+Enter agent name and effects for agent 20:
+Enter agent name and effects for agent 21:
+Enter agent name and effects for agent 22:
+Enter agent name and effects for agent 23:
+Enter agent name and effects for agent 24:
+Enter agent name and effects for agent 25:
+Enter agent name and effects for agent 26:
+Enter agent name and effects for agent 27:
+Enter agent name and effects for agent 28:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Nova     │ NHN │
+│ Victor   │ NHM │
+│ Golf     │ OHR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Golf
+┌────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────┤
+│1 │ 1122 │ 123456 │ Golf     │ OHR │ X  │ 1122 │ --●-  │ XXXXXX │ Replay: No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Nova     │ NHN │
+│ Victor   │ NHM │
+│ Echo     │ OFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3456 123456 Echo
+┌────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────┤
+│1 │ 1122 │ 123456 │ Golf     │ OHR │ X  │ 1122 │ --●-  │ XXXXXX │ Replay: No bonus applied. │
+│2 │ 3456 │ 123456 │ Echo     │ OFE │ X  │ 3456 │ ●-○-  │ ------ │ Added extra guess.        │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Nova     │ NHN │
+│ Victor   │ NHM │
+│ Yankee   │ UHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4416 214365 Victor 1
+┌────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────┤
+│1 │ 1122 │ 123456 │ Golf     │ OHR │ X  │ 1122 │ --●-  │ XXXXXX │ Replay: No bonus applied. │
+│2 │ 3456 │ 123456 │ Echo     │ OFE │ X  │ 3456 │ ●-○-  │ ------ │ Added extra guess.        │
+│3 │ 4416 │ 214365 │ Victor   │ NHM │ 1  │ 3325 │ XXXX  │ XXXXXX │ 1 maps to 4.              │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Nova     │ NHN │
+│ Yankee   │ UHP │
+│ Bravo    │ NHR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4436 412365 Yankee 3
+┌────────────────────────────────────────┬────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Golf     │ OHR │ X  │ 1122 │ --●-  │ XXXXXX │ Replay: No bonus applied.          │
+│2 │ 3456 │ 123456 │ Echo     │ OFE │ X  │ 3456 │ ●-○-  │ ------ │ Added extra guess.                 │
+│3 │ 4416 │ 214365 │ Victor   │ NHM │ 1  │ 3325 │ ●●○○  │ XXXXXX │ 1 maps to 4.                       │
+│4 │ 4436 │ 412365 │ Yankee   │ UHP │ 3  │ 3325 │ ●●○○  │ XXXXXX │ Crack on round 3 is now unordered. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Nova     │ NHN │
+│ Bravo    │ NHR │
+│ Romeo    │ UHT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4634 412365
+┌────────────────────────────────────────┬────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Golf     │ OHR │ X  │ 1122 │ --●-  │ XXXXXX │ Replay: No bonus applied.          │
+│2 │ 3456 │ 123456 │ Echo     │ OFE │ X  │ 3456 │ ●-○-  │ ------ │ Added extra guess.                 │
+│3 │ 4416 │ 214365 │ Victor   │ NHM │ 1  │ 3325 │ ●●○○  │ XXXXXX │ 1 maps to 4.                       │
+│4 │ 4436 │ 412365 │ Yankee   │ UHP │ 3  │ 3325 │ ●●○○  │ XXXXXX │ Crack on round 3 is now unordered. │
+│5 │ 4634 │ 412365 │ DEFAULT  │ UFN │ X  │ 3523 │ ●●●●  │ 41--6- │ No bonus applied.                  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Nova     │ NHN │
+│ Bravo    │ NHR │
+│ Romeo    │ UHT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+6346 415263 Romeo
+┌────────────────────────────────────────┬────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Golf     │ OHR │ X  │ 1122 │ --●-  │ XXXXXX │ Replay: No bonus applied.          │
+│2 │ 3456 │ 123456 │ Echo     │ OFE │ X  │ 3456 │ ●-○-  │ ------ │ Added extra guess.                 │
+│3 │ 4416 │ 214365 │ Victor   │ NHM │ 1  │ 3325 │ ●●○○  │ XXXXXX │ 1 maps to 4.                       │
+│4 │ 4436 │ 412365 │ Yankee   │ UHP │ 3  │ 3325 │ ●●○○  │ XXXXXX │ Crack on round 3 is now unordered. │
+│5 │ 4634 │ 412365 │ DEFAULT  │ UFN │ X  │ 3523 │ ●●●●  │ 41--6- │ No bonus applied.                  │
+│6 │ 6346 │ 415263 │ Romeo    │ UHT │ X  │ 3523 │ ●●●●  │ XXXXXX │ Tossed all cards.                  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────────────┘
+Congratulations! You solved the cipherlock.

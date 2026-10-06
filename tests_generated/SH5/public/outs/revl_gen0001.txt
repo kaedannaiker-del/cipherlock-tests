@@ -1,0 +1,266 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Golf     │ UFN │
+│ Kilo     │ UHN │
+│ Hotel    │ NFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5142 │ 412536 │ Golf     │ UFN │ X  │ 3451 │ ●---  │ -1---- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Kilo     │ UHN │
+│ Hotel    │ NFN │
+│ Sierra   │ OFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5142 │ 412536 │ Golf     │ UFN │ X  │ 3451 │ ●---  │ -1---- │ No bonus applied. │
+│2 │ 6152 │ 164235 │ Kilo     │ UHN │ X  │ 5136 │ ●○--  │ XXXXXX │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ NFN │
+│ Sierra   │ OFM │
+│ Vetch    │ NFR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5142 │ 412536 │ Golf     │ UFN │ X  │ 3451 │ ●---  │ -1---- │ No bonus applied. │
+│2 │ 6152 │ 164235 │ Kilo     │ UHN │ X  │ 5136 │ ●○--  │ XXXXXX │ No bonus applied. │
+│3 │ 3252 │ 316425 │ Hotel    │ NFN │ X  │ 6121 │ XXXX  │ -1---5 │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sierra   │ OFM │
+│ Vetch    │ NFR │
+│ Elm      │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5142 │ 412536 │ Golf     │ UFN │ X  │ 3451 │ ●---  │ -1---- │ No bonus applied. │
+│2 │ 6152 │ 164235 │ Kilo     │ UHN │ X  │ 5136 │ ●○--  │ XXXXXX │ No bonus applied. │
+│3 │ 3252 │ 316425 │ Hotel    │ NFN │ X  │ 6121 │ XXXX  │ -1---5 │ No bonus applied. │
+│4 │ 2353 │ 265413 │ DEFAULT  │ UFN │ X  │ 6515 │ ●●○-  │ 2----- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sierra   │ OFM │
+│ Vetch    │ NFR │
+│ Elm      │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5142 │ 412536 │ Golf     │ UFN │ X  │ 3451 │ ●---  │ -1---- │ No bonus applied. │
+│2 │ 6152 │ 164235 │ Kilo     │ UHN │ X  │ 5136 │ ●○--  │ XXXXXX │ No bonus applied. │
+│3 │ 3252 │ 316425 │ Hotel    │ NFN │ X  │ 6121 │ XXXX  │ -1---5 │ No bonus applied. │
+│4 │ 2353 │ 265413 │ DEFAULT  │ UFN │ X  │ 6515 │ ●●○-  │ 2----- │ No bonus applied. │
+│5 │ 2365 │ 463521 │ DEFAULT  │ UFN │ X  │ 6312 │ ●---  │ --3--- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sierra   │ OFM │
+│ Vetch    │ NFR │
+│ Elm      │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5142 │ 412536 │ Golf     │ UFN │ X  │ 3451 │ ●---  │ -1---- │ No bonus applied. │
+│2 │ 6152 │ 164235 │ Kilo     │ UHN │ X  │ 5136 │ ●○--  │ XXXXXX │ No bonus applied. │
+│3 │ 3252 │ 316425 │ Hotel    │ NFN │ X  │ 6121 │ XXXX  │ -1---5 │ No bonus applied. │
+│4 │ 2353 │ 265413 │ DEFAULT  │ UFN │ X  │ 6515 │ ●●○-  │ 2----- │ No bonus applied. │
+│5 │ 2365 │ 463521 │ DEFAULT  │ UFN │ X  │ 6312 │ ●---  │ --3--- │ No bonus applied. │
+│6 │ 6544 │ 435261 │ DEFAULT  │ UFN │ X  │ 1622 │ ○---  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sierra   │ OFM │
+│ Vetch    │ NFR │
+│ Elm      │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5142 │ 412536 │ Golf     │ UFN │ X  │ 3451 │ ●---  │ -1---- │ No bonus applied. │
+│2 │ 6152 │ 164235 │ Kilo     │ UHN │ X  │ 5136 │ ●○--  │ XXXXXX │ No bonus applied. │
+│3 │ 3252 │ 316425 │ Hotel    │ NFN │ X  │ 6121 │ XXXX  │ -1---5 │ No bonus applied. │
+│4 │ 2353 │ 265413 │ DEFAULT  │ UFN │ X  │ 6515 │ ●●○-  │ 2----- │ No bonus applied. │
+│5 │ 2365 │ 463521 │ DEFAULT  │ UFN │ X  │ 6312 │ ●---  │ --3--- │ No bonus applied. │
+│6 │ 6544 │ 435261 │ DEFAULT  │ UFN │ X  │ 1622 │ ○---  │ ------ │ No bonus applied. │
+│7 │ 1414 │ 135264 │ DEFAULT  │ UFN │ X  │ 1212 │ ----  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (3 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sierra   │ OFM │
+│ Vetch    │ NFR │
+│ Elm      │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5142 │ 412536 │ Golf     │ UFN │ X  │ 3451 │ ●---  │ -1---- │ No bonus applied. │
+│2 │ 6152 │ 164235 │ Kilo     │ UHN │ X  │ 5136 │ ●○--  │ XXXXXX │ No bonus applied. │
+│3 │ 3252 │ 316425 │ Hotel    │ NFN │ X  │ 6121 │ XXXX  │ -1---5 │ No bonus applied. │
+│4 │ 2353 │ 265413 │ DEFAULT  │ UFN │ X  │ 6515 │ ●●○-  │ 2----- │ No bonus applied. │
+│5 │ 2365 │ 463521 │ DEFAULT  │ UFN │ X  │ 6312 │ ●---  │ --3--- │ No bonus applied. │
+│6 │ 6544 │ 435261 │ DEFAULT  │ UFN │ X  │ 1622 │ ○---  │ ------ │ No bonus applied. │
+│7 │ 1414 │ 135264 │ DEFAULT  │ UFN │ X  │ 1212 │ ----  │ ------ │ No bonus applied. │
+│8 │ 5515 │ 421536 │ DEFAULT  │ UFN │ X  │ 3343 │ ----  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (2 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sierra   │ OFM │
+│ Vetch    │ NFR │
+│ Elm      │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5142 │ 412536 │ Golf     │ UFN │ X  │ 3451 │ ●---  │ -1---- │ No bonus applied. │
+│2 │ 6152 │ 164235 │ Kilo     │ UHN │ X  │ 5136 │ ●○--  │ XXXXXX │ No bonus applied. │
+│3 │ 3252 │ 316425 │ Hotel    │ NFN │ X  │ 6121 │ XXXX  │ -1---5 │ No bonus applied. │
+│4 │ 2353 │ 265413 │ DEFAULT  │ UFN │ X  │ 6515 │ ●●○-  │ 2----- │ No bonus applied. │
+│5 │ 2365 │ 463521 │ DEFAULT  │ UFN │ X  │ 6312 │ ●---  │ --3--- │ No bonus applied. │
+│6 │ 6544 │ 435261 │ DEFAULT  │ UFN │ X  │ 1622 │ ○---  │ ------ │ No bonus applied. │
+│7 │ 1414 │ 135264 │ DEFAULT  │ UFN │ X  │ 1212 │ ----  │ ------ │ No bonus applied. │
+│8 │ 5515 │ 421536 │ DEFAULT  │ UFN │ X  │ 3343 │ ----  │ ------ │ No bonus applied. │
+│9 │ 6434 │ 456231 │ DEFAULT  │ UFN │ X  │ 1262 │ ○---  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sierra   │ OFM │
+│ Vetch    │ NFR │
+│ Elm      │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 5142 │ 412536 │ Golf     │ UFN │ X  │ 3451 │ ●---  │ -1---- │ No bonus applied. │
+│2 │ 6152 │ 164235 │ Kilo     │ UHN │ X  │ 5136 │ ●○--  │ XXXXXX │ No bonus applied. │
+│3 │ 3252 │ 316425 │ Hotel    │ NFN │ X  │ 6121 │ XXXX  │ -1---5 │ No bonus applied. │
+│4 │ 2353 │ 265413 │ DEFAULT  │ UFN │ X  │ 6515 │ ●●○-  │ 2----- │ No bonus applied. │
+│5 │ 2365 │ 463521 │ DEFAULT  │ UFN │ X  │ 6312 │ ●---  │ --3--- │ No bonus applied. │
+│6 │ 6544 │ 435261 │ DEFAULT  │ UFN │ X  │ 1622 │ ○---  │ ------ │ No bonus applied. │
+│7 │ 1414 │ 135264 │ DEFAULT  │ UFN │ X  │ 1212 │ ----  │ ------ │ No bonus applied. │
+│8 │ 5515 │ 421536 │ DEFAULT  │ UFN │ X  │ 3343 │ ----  │ ------ │ No bonus applied. │
+│9 │ 6434 │ 456231 │ DEFAULT  │ UFN │ X  │ 1262 │ ○---  │ ------ │ No bonus applied. │
+│10│ 4214 │ 631425 │ DEFAULT  │ UFN │ X  │ 4364 │ ○---  │ -----5 │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+You have run out of guesses. Better luck next time!

@@ -1,0 +1,166 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+Enter agent name and effects for agent 18:
+Enter agent name and effects for agent 19:
+Enter agent name and effects for agent 20:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Echo     │ UHN │
+│ Hazel    │ NHM │
+│ Tango    │ NHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Echo
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1122 │ 123456 │ Echo     │ UHN │ X  │ 1122 │ ----  │ XXXXXX │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ NHM │
+│ Tango    │ NHE │
+│ Delta    │ UHN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3345 123456 Hazel 1
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1122 │ 123456 │ Echo     │ UHN │ X  │ 1122 │ ----  │ XXXXXX │ No bonus applied. │
+│2 │ 3345 │ 123456 │ Hazel    │ NHM │ 1  │ 3345 │ XXXX  │ XXXXXX │ 1 maps to 1.      │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tango    │ NHE │
+│ Delta    │ UHN │
+│ Rowan    │ UFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3345 123456 Rowan
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Echo     │ UHN │ X  │ 1122 │ ----  │ XXXXXX │ No bonus applied.  │
+│2 │ 3345 │ 123456 │ Hazel    │ NHM │ 1  │ 3345 │ XXXX  │ XXXXXX │ 1 maps to 1.       │
+│3 │ 3345 │ 123456 │ Rowan    │ UFE │ X  │ 3345 │ ●○--  │ 1--456 │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tango    │ NHE │
+│ Delta    │ UHN │
+│ Juliett  │ NHT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2626 132456 Delta
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Echo     │ UHN │ X  │ 1122 │ ----  │ XXXXXX │ No bonus applied.  │
+│2 │ 3345 │ 123456 │ Hazel    │ NHM │ 1  │ 3345 │ XXXX  │ XXXXXX │ 1 maps to 1.       │
+│3 │ 3345 │ 123456 │ Rowan    │ UFE │ X  │ 3345 │ ●○--  │ 1--456 │ Added extra guess. │
+│4 │ 2626 │ 132456 │ Delta    │ UHN │ X  │ 3636 │ ●---  │ XXXXXX │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tango    │ NHE │
+│ Juliett  │ NHT │
+│ Mike     │ OHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4546 132456 Mike 4
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                 │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                            │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Echo     │ UHN │ X  │ 1122 │ ----  │ XXXXXX │ No bonus applied.                │
+│2 │ 3345 │ 123456 │ Hazel    │ NHM │ 1  │ 3345 │ XXXX  │ XXXXXX │ 1 maps to 1.                     │
+│3 │ 3345 │ 123456 │ Rowan    │ UFE │ X  │ 3345 │ ●○--  │ 1--456 │ Added extra guess.               │
+│4 │ 2626 │ 132456 │ Delta    │ UHN │ X  │ 3636 │ ---●  │ XXXXXX │ No bonus applied.                │
+│5 │ 4546 │ 132456 │ Mike     │ OHP │ 4  │ 4546 │ -●●●  │ XXXXXX │ Crack on round 4 is now ordered. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tango    │ NHE │
+│ Juliett  │ NHT │
+│ Clover   │ OHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5546 132456 Tango
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                 │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                            │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Echo     │ UHN │ X  │ 1122 │ ----  │ XXXXXX │ No bonus applied.                │
+│2 │ 3345 │ 123456 │ Hazel    │ NHM │ 1  │ 3345 │ XXXX  │ XXXXXX │ 1 maps to 1.                     │
+│3 │ 3345 │ 123456 │ Rowan    │ UFE │ X  │ 3345 │ ●○--  │ 1--456 │ Added extra guess.               │
+│4 │ 2626 │ 132456 │ Delta    │ UHN │ X  │ 3636 │ ---●  │ XXXXXX │ No bonus applied.                │
+│5 │ 4546 │ 132456 │ Mike     │ OHP │ 4  │ 4546 │ -●●●  │ XXXXXX │ Crack on round 4 is now ordered. │
+│6 │ 5546 │ 132456 │ Tango    │ NHE │ X  │ 5546 │ XXXX  │ XXXXXX │ Added extra guess.               │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────┘
+Congratulations! You solved the cipherlock.

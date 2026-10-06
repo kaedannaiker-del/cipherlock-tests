@@ -1,0 +1,119 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+Enter agent name and effects for agent 18:
+Enter agent name and effects for agent 19:
+Enter agent name and effects for agent 20:
+Enter agent name and effects for agent 21:
+Enter agent name and effects for agent 22:
+Enter agent name and effects for agent 23:
+Enter agent name and effects for agent 24:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Lima     │ UFR │
+│ Foxtrot  │ OFM │
+│ Vetch    │ OFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Foxtrot 1
+┌────────────────────────────────────────┬──────────────────────────────────────┐
+│ Guess                                  │ Feedback                             │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus        │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────┤
+│1 │ 1122 │ 123456 │ Foxtrot  │ OFM │ 1  │ 1122 │ ----  │ ---4-- │ 1 maps to 5. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Lima     │ UFR │
+│ Vetch    │ OFN │
+│ Quebec   │ UFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+6641 512463 Lima 5
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 1122 │ 123456 │ Foxtrot  │ OFM │ 1  │ 1122 │ ----  │ ---4-- │ 1 maps to 5.         │
+│2 │ 6641 │ 512463 │ Lima     │ UFR │ 5  │ 3345 │ ●●●-  │ 5-24-- │ Replay: 5 maps to 3. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Vetch    │ OFN │
+│ Quebec   │ UFC │
+│ Yankee   │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5442 562431 Quebec 3
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 1122 │ 123456 │ Foxtrot  │ OFM │ 1  │ 1122 │ ----  │ ---4-- │ 1 maps to 5.         │
+│2 │ 6641 │ 512463 │ Lima     │ UFR │ 5  │ 3345 │ ●●●-  │ 5-24-- │ Replay: 5 maps to 3. │
+│3 │ 5442 │ 562431 │ Quebec   │ UFC │ 3  │ 3446 │ ●○--  │ 562431 │ 3 appears 2 times.   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Vetch    │ OFN │
+│ Yankee   │ OHE │
+│ Bravo    │ OHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5521 562431 Yankee
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 1122 │ 123456 │ Foxtrot  │ OFM │ 1  │ 1122 │ ----  │ ---4-- │ 1 maps to 5.         │
+│2 │ 6641 │ 512463 │ Lima     │ UFR │ 5  │ 3345 │ ●●●-  │ 5-24-- │ Replay: 5 maps to 3. │
+│3 │ 5442 │ 562431 │ Quebec   │ UFC │ 3  │ 3446 │ ●○--  │ 562431 │ 3 appears 2 times.   │
+│4 │ 5521 │ 562431 │ Yankee   │ OHE │ X  │ 3365 │ ●●●●  │ XXXXXX │ Added extra guess.   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+Congratulations! You solved the cipherlock.

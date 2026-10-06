@@ -1,0 +1,263 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tulip    │ OHT │
+│ Willow   │ NHN │
+│ Nova     │ NFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6415 │ 615234 │ Tulip    │ OHT │ X  │ 4263 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Aspen    │ OFT │
+│ Tango    │ OFR │
+│ Rowan    │ UFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6415 │ 615234 │ Tulip    │ OHT │ X  │ 4263 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+│2 │ 4211 │ 623154 │ DEFAULT  │ UFN │ X  │ 1266 │ ●○--  │ 6----- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Aspen    │ OFT │
+│ Tango    │ OFR │
+│ Rowan    │ UFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6415 │ 615234 │ Tulip    │ OHT │ X  │ 4263 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+│2 │ 4211 │ 623154 │ DEFAULT  │ UFN │ X  │ 1266 │ ●○--  │ 6----- │ No bonus applied. │
+│3 │ 4116 │ 254163 │ DEFAULT  │ UFN │ X  │ 1223 │ ●○--  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Aspen    │ OFT │
+│ Tango    │ OFR │
+│ Rowan    │ UFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6415 │ 615234 │ Tulip    │ OHT │ X  │ 4263 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+│2 │ 4211 │ 623154 │ DEFAULT  │ UFN │ X  │ 1266 │ ●○--  │ 6----- │ No bonus applied. │
+│3 │ 4116 │ 254163 │ DEFAULT  │ UFN │ X  │ 1223 │ ●○--  │ ------ │ No bonus applied. │
+│4 │ 3415 │ 132456 │ DEFAULT  │ UFN │ X  │ 2415 │ ●●--  │ --24-- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Aspen    │ OFT │
+│ Tango    │ OFR │
+│ Rowan    │ UFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6415 │ 615234 │ Tulip    │ OHT │ X  │ 4263 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+│2 │ 4211 │ 623154 │ DEFAULT  │ UFN │ X  │ 1266 │ ●○--  │ 6----- │ No bonus applied. │
+│3 │ 4116 │ 254163 │ DEFAULT  │ UFN │ X  │ 1223 │ ●○--  │ ------ │ No bonus applied. │
+│4 │ 3415 │ 132456 │ DEFAULT  │ UFN │ X  │ 2415 │ ●●--  │ --24-- │ No bonus applied. │
+│5 │ 1133 │ 164325 │ DEFAULT  │ UFN │ X  │ 1144 │ ○---  │ -----5 │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Aspen    │ OFT │
+│ Tango    │ OFR │
+│ Rowan    │ UFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6415 │ 615234 │ Tulip    │ OHT │ X  │ 4263 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+│2 │ 4211 │ 623154 │ DEFAULT  │ UFN │ X  │ 1266 │ ●○--  │ 6----- │ No bonus applied. │
+│3 │ 4116 │ 254163 │ DEFAULT  │ UFN │ X  │ 1223 │ ●○--  │ ------ │ No bonus applied. │
+│4 │ 3415 │ 132456 │ DEFAULT  │ UFN │ X  │ 2415 │ ●●--  │ --24-- │ No bonus applied. │
+│5 │ 1133 │ 164325 │ DEFAULT  │ UFN │ X  │ 1144 │ ○---  │ -----5 │ No bonus applied. │
+│6 │ 5362 │ 421635 │ DEFAULT  │ UFN │ X  │ 3152 │ ○---  │ ----35 │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Aspen    │ OFT │
+│ Tango    │ OFR │
+│ Rowan    │ UFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6415 │ 615234 │ Tulip    │ OHT │ X  │ 4263 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+│2 │ 4211 │ 623154 │ DEFAULT  │ UFN │ X  │ 1266 │ ●○--  │ 6----- │ No bonus applied. │
+│3 │ 4116 │ 254163 │ DEFAULT  │ UFN │ X  │ 1223 │ ●○--  │ ------ │ No bonus applied. │
+│4 │ 3415 │ 132456 │ DEFAULT  │ UFN │ X  │ 2415 │ ●●--  │ --24-- │ No bonus applied. │
+│5 │ 1133 │ 164325 │ DEFAULT  │ UFN │ X  │ 1144 │ ○---  │ -----5 │ No bonus applied. │
+│6 │ 5362 │ 421635 │ DEFAULT  │ UFN │ X  │ 3152 │ ○---  │ ----35 │ No bonus applied. │
+│7 │ 2323 │ 435162 │ DEFAULT  │ UFN │ X  │ 3535 │ ----  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (3 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Aspen    │ OFT │
+│ Tango    │ OFR │
+│ Rowan    │ UFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6415 │ 615234 │ Tulip    │ OHT │ X  │ 4263 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+│2 │ 4211 │ 623154 │ DEFAULT  │ UFN │ X  │ 1266 │ ●○--  │ 6----- │ No bonus applied. │
+│3 │ 4116 │ 254163 │ DEFAULT  │ UFN │ X  │ 1223 │ ●○--  │ ------ │ No bonus applied. │
+│4 │ 3415 │ 132456 │ DEFAULT  │ UFN │ X  │ 2415 │ ●●--  │ --24-- │ No bonus applied. │
+│5 │ 1133 │ 164325 │ DEFAULT  │ UFN │ X  │ 1144 │ ○---  │ -----5 │ No bonus applied. │
+│6 │ 5362 │ 421635 │ DEFAULT  │ UFN │ X  │ 3152 │ ○---  │ ----35 │ No bonus applied. │
+│7 │ 2323 │ 435162 │ DEFAULT  │ UFN │ X  │ 3535 │ ----  │ ------ │ No bonus applied. │
+│8 │ 3426 │ 412635 │ DEFAULT  │ UFN │ X  │ 2615 │ ●○--  │ -12-35 │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (2 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Aspen    │ OFT │
+│ Tango    │ OFR │
+│ Rowan    │ UFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6415 │ 615234 │ Tulip    │ OHT │ X  │ 4263 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+│2 │ 4211 │ 623154 │ DEFAULT  │ UFN │ X  │ 1266 │ ●○--  │ 6----- │ No bonus applied. │
+│3 │ 4116 │ 254163 │ DEFAULT  │ UFN │ X  │ 1223 │ ●○--  │ ------ │ No bonus applied. │
+│4 │ 3415 │ 132456 │ DEFAULT  │ UFN │ X  │ 2415 │ ●●--  │ --24-- │ No bonus applied. │
+│5 │ 1133 │ 164325 │ DEFAULT  │ UFN │ X  │ 1144 │ ○---  │ -----5 │ No bonus applied. │
+│6 │ 5362 │ 421635 │ DEFAULT  │ UFN │ X  │ 3152 │ ○---  │ ----35 │ No bonus applied. │
+│7 │ 2323 │ 435162 │ DEFAULT  │ UFN │ X  │ 3535 │ ----  │ ------ │ No bonus applied. │
+│8 │ 3426 │ 412635 │ DEFAULT  │ UFN │ X  │ 2615 │ ●○--  │ -12-35 │ No bonus applied. │
+│9 │ 6311 │ 415623 │ DEFAULT  │ UFN │ X  │ 3544 │ ○---  │ -1---- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Aspen    │ OFT │
+│ Tango    │ OFR │
+│ Rowan    │ UFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6415 │ 615234 │ Tulip    │ OHT │ X  │ 4263 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+│2 │ 4211 │ 623154 │ DEFAULT  │ UFN │ X  │ 1266 │ ●○--  │ 6----- │ No bonus applied. │
+│3 │ 4116 │ 254163 │ DEFAULT  │ UFN │ X  │ 1223 │ ●○--  │ ------ │ No bonus applied. │
+│4 │ 3415 │ 132456 │ DEFAULT  │ UFN │ X  │ 2415 │ ●●--  │ --24-- │ No bonus applied. │
+│5 │ 1133 │ 164325 │ DEFAULT  │ UFN │ X  │ 1144 │ ○---  │ -----5 │ No bonus applied. │
+│6 │ 5362 │ 421635 │ DEFAULT  │ UFN │ X  │ 3152 │ ○---  │ ----35 │ No bonus applied. │
+│7 │ 2323 │ 435162 │ DEFAULT  │ UFN │ X  │ 3535 │ ----  │ ------ │ No bonus applied. │
+│8 │ 3426 │ 412635 │ DEFAULT  │ UFN │ X  │ 2615 │ ●○--  │ -12-35 │ No bonus applied. │
+│9 │ 6311 │ 415623 │ DEFAULT  │ UFN │ X  │ 3544 │ ○---  │ -1---- │ No bonus applied. │
+│10│ 6532 │ 431256 │ DEFAULT  │ UFN │ X  │ 6513 │ ○---  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+You have run out of guesses. Better luck next time!

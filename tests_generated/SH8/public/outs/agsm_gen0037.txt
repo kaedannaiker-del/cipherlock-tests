@@ -1,0 +1,156 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yarrow   │ UFN │
+│ Vetch    │ UHT │
+│ Birch    │ UHT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Yarrow
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1122 │ 123456 │ Yarrow   │ UFN │ X  │ 1122 │ ●---  │ 1----- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Vetch    │ UHT │
+│ Birch    │ UHT │
+│ Tulip    │ UHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1266 132564 Tulip 2
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1122 │ 123456 │ Yarrow   │ UFN │ X  │ 1122 │ ●---  │ 1----- │ No bonus applied. │
+│2 │ 1266 │ 132564 │ Tulip    │ UHM │ 2  │ 1344 │ ●---  │ XXXXXX │ 2 maps to 6.      │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Vetch    │ UHT │
+│ Birch    │ UHT │
+│ Laurel   │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4436 162345 Laurel 2
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Yarrow   │ UFN │ X  │ 1122 │ ●---  │ 1----- │ No bonus applied.                   │
+│2 │ 1266 │ 132564 │ Tulip    │ UHM │ 2  │ 1344 │ ●---  │ 1-2--- │ 2 maps to 6.                        │
+│3 │ 4436 │ 162345 │ Laurel   │ NFH │ 2  │ 3325 │ XXXX  │ 162345 │ Reveal on round 2 has been exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Vetch    │ UHT │
+│ Birch    │ UHT │
+│ Sorrel   │ UFP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4436 162345 Sorrel 3
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Yarrow   │ UFN │ X  │ 1122 │ ●---  │ 1----- │ No bonus applied.                   │
+│2 │ 1266 │ 132564 │ Tulip    │ UHM │ 2  │ 1344 │ ●---  │ 1-2--- │ 2 maps to 6.                        │
+│3 │ 4436 │ 162345 │ Laurel   │ NFH │ 2  │ 3325 │ ●---  │ 162345 │ Reveal on round 2 has been exposed. │
+│4 │ 4436 │ 162345 │ Sorrel   │ UFP │ 3  │ 3325 │ ●---  │ 162345 │ Crack on round 3 is now unordered.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Vetch    │ UHT │
+│ Birch    │ UHT │
+│ Umber    │ UHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2235 162345 Umber 1
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Yarrow   │ UFN │ X  │ 1122 │ ●---  │ 1----- │ No bonus applied.                   │
+│2 │ 1266 │ 132564 │ Tulip    │ UHM │ 2  │ 1344 │ ●---  │ 1-2--- │ 2 maps to 6.                        │
+│3 │ 4436 │ 162345 │ Laurel   │ NFH │ 2  │ 3325 │ ●---  │ 162345 │ Reveal on round 2 has been exposed. │
+│4 │ 4436 │ 162345 │ Sorrel   │ UFP │ 3  │ 3325 │ ●---  │ 162345 │ Crack on round 3 is now unordered.  │
+│5 │ 2235 │ 162345 │ Umber    │ UHP │ 1  │ 6624 │ ●---  │ XXXXXX │ Crack on round 1 is now ordered.    │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Vetch    │ UHT │
+│ Birch    │ UHT │
+│ Delta    │ UFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1266 162345 Birch
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Yarrow   │ UFN │ X  │ 1122 │ ●---  │ 1----- │ No bonus applied.                   │
+│2 │ 1266 │ 132564 │ Tulip    │ UHM │ 2  │ 1344 │ ●---  │ 1-2--- │ 2 maps to 6.                        │
+│3 │ 4436 │ 162345 │ Laurel   │ NFH │ 2  │ 3325 │ ●---  │ 162345 │ Reveal on round 2 has been exposed. │
+│4 │ 4436 │ 162345 │ Sorrel   │ UFP │ 3  │ 3325 │ ●---  │ 162345 │ Crack on round 3 is now unordered.  │
+│5 │ 2235 │ 162345 │ Umber    │ UHP │ 1  │ 6624 │ ●---  │ XXXXXX │ Crack on round 1 is now ordered.    │
+│6 │ 1266 │ 162345 │ Birch    │ UHT │ X  │ 1655 │ ●●●●  │ XXXXXX │ Tossed all cards.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+Congratulations! You solved the cipherlock.

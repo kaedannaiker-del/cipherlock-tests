@@ -1,0 +1,1 @@
+The game type should be "0" for vanilla, or "1" for agentic.

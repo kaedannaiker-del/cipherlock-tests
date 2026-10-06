@@ -1,0 +1,229 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+Enter agent name and effects for agent 18:
+Enter agent name and effects for agent 19:
+Enter agent name and effects for agent 20:
+Enter agent name and effects for agent 21:
+Enter agent name and effects for agent 22:
+Enter agent name and effects for agent 23:
+Enter agent name and effects for agent 24:
+Enter agent name and effects for agent 25:
+Enter agent name and effects for agent 26:
+Enter agent name and effects for agent 27:
+Enter agent name and effects for agent 28:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Lima     │ NFN │
+│ Juliett  │ UHE │
+│ Oscar    │ OHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Oscar 1
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Oscar    │ OHC │ 1  │ 1122 │ ----  │ XXXXXX │ 1 appears 0 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Lima     │ NFN │
+│ Juliett  │ UHE │
+│ Bravo    │ UHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3345 123456 Bravo
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Oscar    │ OHC │ 1  │ 1122 │ ----  │ XXXXXX │ 1 appears 0 times. │
+│2 │ 3345 │ 123456 │ Bravo    │ UHE │ X  │ 3345 │ ●●○-  │ XXXXXX │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Lima     │ NFN │
+│ Juliett  │ UHE │
+│ Delta    │ UHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3443 123456 Delta 3
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Oscar    │ OHC │ 1  │ 1122 │ ----  │ XXXXXX │ 1 appears 0 times. │
+│2 │ 3345 │ 123456 │ Bravo    │ UHE │ X  │ 3345 │ ●●○-  │ XXXXXX │ Added extra guess. │
+│3 │ 3443 │ 123456 │ Delta    │ UHC │ 3  │ 3443 │ ●●--  │ XXXXXX │ 3 appears 1 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Lima     │ NFN │
+│ Juliett  │ UHE │
+│ Golf     │ OFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3455 123456 Golf 5
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Oscar    │ OHC │ 1  │ 1122 │ ----  │ XXXXXX │ 1 appears 0 times. │
+│2 │ 3345 │ 123456 │ Bravo    │ UHE │ X  │ 3345 │ ●●○-  │ XXXXXX │ Added extra guess. │
+│3 │ 3443 │ 123456 │ Delta    │ UHC │ 3  │ 3443 │ ●●--  │ XXXXXX │ 3 appears 1 times. │
+│4 │ 3455 │ 123456 │ Golf     │ OFC │ 5  │ 3455 │ ●○○-  │ ---45- │ 5 appears 1 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Lima     │ NFN │
+│ Juliett  │ UHE │
+│ Willow   │ NHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+6543 216453 Lima
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Oscar    │ OHC │ 1  │ 1122 │ ----  │ XXXXXX │ 1 appears 0 times. │
+│2 │ 3345 │ 123456 │ Bravo    │ UHE │ X  │ 3345 │ ●●○-  │ XXXXXX │ Added extra guess. │
+│3 │ 3443 │ 123456 │ Delta    │ UHC │ 3  │ 3443 │ ●●--  │ XXXXXX │ 3 appears 1 times. │
+│4 │ 3455 │ 123456 │ Golf     │ OFC │ 5  │ 3455 │ ●○○-  │ ---45- │ 5 appears 1 times. │
+│5 │ 6543 │ 216453 │ Lima     │ NFN │ X  │ 3546 │ XXXX  │ ---45- │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Juliett  │ UHE │
+│ Willow   │ NHC │
+│ Papa     │ UHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1542 361452 Papa 1
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Oscar    │ OHC │ 1  │ 1122 │ ----  │ ---45- │ 1 appears 0 times.                  │
+│2 │ 3345 │ 123456 │ Bravo    │ UHE │ X  │ 3345 │ ●●○-  │ XXXXXX │ Added extra guess.                  │
+│3 │ 3443 │ 123456 │ Delta    │ UHC │ 3  │ 3443 │ ●●--  │ XXXXXX │ 3 appears 1 times.                  │
+│4 │ 3455 │ 123456 │ Golf     │ OFC │ 5  │ 3455 │ ●○○-  │ ---45- │ 5 appears 1 times.                  │
+│5 │ 6543 │ 216453 │ Lima     │ NFN │ X  │ 3546 │ XXXX  │ ---45- │ No bonus applied.                   │
+│6 │ 1542 │ 361452 │ Papa     │ UHH │ 1  │ 3546 │ ●●●●  │ XXXXXX │ Reveal on round 1 has been exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Juliett  │ UHE │
+│ Willow   │ NHC │
+│ Umber    │ NFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1542 361452 Umber
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Oscar    │ OHC │ 1  │ 1122 │ ----  │ ---45- │ 1 appears 0 times.                  │
+│2 │ 3345 │ 123456 │ Bravo    │ UHE │ X  │ 3345 │ ●●○-  │ XXXXXX │ Added extra guess.                  │
+│3 │ 3443 │ 123456 │ Delta    │ UHC │ 3  │ 3443 │ ●●--  │ XXXXXX │ 3 appears 1 times.                  │
+│4 │ 3455 │ 123456 │ Golf     │ OFC │ 5  │ 3455 │ ●○○-  │ ---45- │ 5 appears 1 times.                  │
+│5 │ 6543 │ 216453 │ Lima     │ NFN │ X  │ 3546 │ XXXX  │ ---45- │ No bonus applied.                   │
+│6 │ 1542 │ 361452 │ Papa     │ UHH │ 1  │ 3546 │ ●●●●  │ XXXXXX │ Reveal on round 1 has been exposed. │
+│7 │ 1542 │ 361452 │ Umber    │ NFN │ X  │ 3546 │ XXXX  │ --1452 │ No bonus applied.                   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Juliett  │ UHE │
+│ Willow   │ NHC │
+│ Rowan    │ NHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2541 631452 Juliett
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Oscar    │ OHC │ 1  │ 1122 │ ----  │ ---45- │ 1 appears 0 times.                  │
+│2 │ 3345 │ 123456 │ Bravo    │ UHE │ X  │ 3345 │ ●●○-  │ XXXXXX │ Added extra guess.                  │
+│3 │ 3443 │ 123456 │ Delta    │ UHC │ 3  │ 3443 │ ●●--  │ XXXXXX │ 3 appears 1 times.                  │
+│4 │ 3455 │ 123456 │ Golf     │ OFC │ 5  │ 3455 │ ●○○-  │ ---45- │ 5 appears 1 times.                  │
+│5 │ 6543 │ 216453 │ Lima     │ NFN │ X  │ 3546 │ XXXX  │ ---45- │ No bonus applied.                   │
+│6 │ 1542 │ 361452 │ Papa     │ UHH │ 1  │ 3546 │ ●●●●  │ XXXXXX │ Reveal on round 1 has been exposed. │
+│7 │ 1542 │ 361452 │ Umber    │ NFN │ X  │ 3546 │ XXXX  │ --1452 │ No bonus applied.                   │
+│8 │ 2541 │ 631452 │ Juliett  │ UHE │ X  │ 3546 │ ●●●●  │ XXXXXX │ Added extra guess.                  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+Congratulations! You solved the cipherlock.

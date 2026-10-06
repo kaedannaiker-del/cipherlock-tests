@@ -1,0 +1,606 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Zulu     │ UHE │
+│ Hazel    │ UHE │
+│ Maple    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hazel    │ UHE │
+│ Maple    │ OHE │
+│ Victor   │ NFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess. │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Maple    │ OHE │
+│ Victor   │ NFE │
+│ Umber    │ OFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess. │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess. │
+│3 │ 2522 │ 541362 │ Maple    │ OHE │ X  │ 4644 │ ----  │ XXXXXX │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Victor   │ NFE │
+│ Umber    │ OFE │
+│ Delta    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess. │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess. │
+│3 │ 2522 │ 541362 │ Maple    │ OHE │ X  │ 4644 │ ----  │ XXXXXX │ Added extra guess. │
+│4 │ 3653 │ 523461 │ Victor   │ NFE │ X  │ 3163 │ XXXX  │ ---4-- │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Umber    │ OFE │
+│ Delta    │ OHE │
+│ Tulip    │ NHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess. │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess. │
+│3 │ 2522 │ 541362 │ Maple    │ OHE │ X  │ 4644 │ ----  │ XXXXXX │ Added extra guess. │
+│4 │ 3653 │ 523461 │ Victor   │ NFE │ X  │ 3163 │ XXXX  │ ---4-- │ Added extra guess. │
+│5 │ 5636 │ 261345 │ Umber    │ OFE │ X  │ 4515 │ --●-  │ -----5 │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Delta    │ OHE │
+│ Tulip    │ NHE │
+│ Mike     │ UFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess. │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess. │
+│3 │ 2522 │ 541362 │ Maple    │ OHE │ X  │ 4644 │ ----  │ XXXXXX │ Added extra guess. │
+│4 │ 3653 │ 523461 │ Victor   │ NFE │ X  │ 3163 │ XXXX  │ ---4-- │ Added extra guess. │
+│5 │ 5636 │ 261345 │ Umber    │ OFE │ X  │ 4515 │ --●-  │ -----5 │ Added extra guess. │
+│6 │ 1412 │ 413652 │ Delta    │ OHE │ X  │ 4641 │ ---●  │ XXXXXX │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tulip    │ NHE │
+│ Mike     │ UFE │
+│ Aster    │ NFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess. │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess. │
+│3 │ 2522 │ 541362 │ Maple    │ OHE │ X  │ 4644 │ ----  │ XXXXXX │ Added extra guess. │
+│4 │ 3653 │ 523461 │ Victor   │ NFE │ X  │ 3163 │ XXXX  │ ---4-- │ Added extra guess. │
+│5 │ 5636 │ 261345 │ Umber    │ OFE │ X  │ 4515 │ --●-  │ -----5 │ Added extra guess. │
+│6 │ 1412 │ 413652 │ Delta    │ OHE │ X  │ 4641 │ ---●  │ XXXXXX │ Added extra guess. │
+│7 │ 5343 │ 142563 │ Tulip    │ NHE │ X  │ 6252 │ XXXX  │ XXXXXX │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Mike     │ UFE │
+│ Aster    │ NFE │
+│ Hotel    │ UFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess. │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess. │
+│3 │ 2522 │ 541362 │ Maple    │ OHE │ X  │ 4644 │ ----  │ XXXXXX │ Added extra guess. │
+│4 │ 3653 │ 523461 │ Victor   │ NFE │ X  │ 3163 │ XXXX  │ ---4-- │ Added extra guess. │
+│5 │ 5636 │ 261345 │ Umber    │ OFE │ X  │ 4515 │ --●-  │ -----5 │ Added extra guess. │
+│6 │ 1412 │ 413652 │ Delta    │ OHE │ X  │ 4641 │ ---●  │ XXXXXX │ Added extra guess. │
+│7 │ 5343 │ 142563 │ Tulip    │ NHE │ X  │ 6252 │ XXXX  │ XXXXXX │ Added extra guess. │
+│8 │ 2216 │ 423156 │ Mike     │ UFE │ X  │ 2246 │ ●---  │ ------ │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Aster    │ NFE │
+│ Hotel    │ UFE │
+│ Quebec   │ NFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess. │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess. │
+│3 │ 2522 │ 541362 │ Maple    │ OHE │ X  │ 4644 │ ----  │ XXXXXX │ Added extra guess. │
+│4 │ 3653 │ 523461 │ Victor   │ NFE │ X  │ 3163 │ XXXX  │ ---4-- │ Added extra guess. │
+│5 │ 5636 │ 261345 │ Umber    │ OFE │ X  │ 4515 │ --●-  │ -----5 │ Added extra guess. │
+│6 │ 1412 │ 413652 │ Delta    │ OHE │ X  │ 4641 │ ---●  │ XXXXXX │ Added extra guess. │
+│7 │ 5343 │ 142563 │ Tulip    │ NHE │ X  │ 6252 │ XXXX  │ XXXXXX │ Added extra guess. │
+│8 │ 2216 │ 423156 │ Mike     │ UFE │ X  │ 2246 │ ●---  │ ------ │ Added extra guess. │
+│9 │ 1144 │ 652134 │ Aster    │ NFE │ X  │ 6611 │ XXXX  │ 6-2--- │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (10 remaining)        │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ UFE │
+│ Quebec   │ NFE │
+│ Zulu     │ UHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess. │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess. │
+│3 │ 2522 │ 541362 │ Maple    │ OHE │ X  │ 4644 │ ----  │ XXXXXX │ Added extra guess. │
+│4 │ 3653 │ 523461 │ Victor   │ NFE │ X  │ 3163 │ XXXX  │ ---4-- │ Added extra guess. │
+│5 │ 5636 │ 261345 │ Umber    │ OFE │ X  │ 4515 │ --●-  │ -----5 │ Added extra guess. │
+│6 │ 1412 │ 413652 │ Delta    │ OHE │ X  │ 4641 │ ---●  │ XXXXXX │ Added extra guess. │
+│7 │ 5343 │ 142563 │ Tulip    │ NHE │ X  │ 6252 │ XXXX  │ XXXXXX │ Added extra guess. │
+│8 │ 2216 │ 423156 │ Mike     │ UFE │ X  │ 2246 │ ●---  │ ------ │ Added extra guess. │
+│9 │ 1144 │ 652134 │ Aster    │ NFE │ X  │ 6611 │ XXXX  │ 6-2--- │ Added extra guess. │
+│10│ 2145 │ 451326 │ Hotel    │ UFE │ X  │ 5432 │ ○---  │ ------ │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 11 (10 remaining)        │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ NFE │
+│ Zulu     │ UHE │
+│ Hazel    │ UHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess.        │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess.        │
+│3 │ 2522 │ 541362 │ Maple    │ OHE │ X  │ 4644 │ ----  │ XXXXXX │ Added extra guess.        │
+│4 │ 3653 │ 523461 │ Victor   │ NFE │ X  │ 3163 │ XXXX  │ ---4-- │ Added extra guess.        │
+│5 │ 5636 │ 261345 │ Umber    │ OFE │ X  │ 4515 │ --●-  │ -----5 │ Added extra guess.        │
+│6 │ 1412 │ 413652 │ Delta    │ OHE │ X  │ 4641 │ ---●  │ XXXXXX │ Added extra guess.        │
+│7 │ 5343 │ 142563 │ Tulip    │ NHE │ X  │ 6252 │ XXXX  │ XXXXXX │ Added extra guess.        │
+│8 │ 2216 │ 423156 │ Mike     │ UFE │ X  │ 2246 │ ●---  │ ------ │ Added extra guess.        │
+│9 │ 1144 │ 652134 │ Aster    │ NFE │ X  │ 6611 │ XXXX  │ 6-2--- │ Added extra guess.        │
+│10│ 2145 │ 451326 │ Hotel    │ UFE │ X  │ 5432 │ ○---  │ ------ │ Added extra guess.        │
+│11│ 1426 │ 165324 │ Quebec   │ NFE │ X  │ 1364 │ XXXX  │ ------ │ No extra guess was added. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 12 (9 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Zulu     │ UHE │
+│ Hazel    │ UHE │
+│ Maple    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess.        │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess.        │
+│3 │ 2522 │ 541362 │ Maple    │ OHE │ X  │ 4644 │ ----  │ XXXXXX │ Added extra guess.        │
+│4 │ 3653 │ 523461 │ Victor   │ NFE │ X  │ 3163 │ XXXX  │ ---4-- │ Added extra guess.        │
+│5 │ 5636 │ 261345 │ Umber    │ OFE │ X  │ 4515 │ --●-  │ -----5 │ Added extra guess.        │
+│6 │ 1412 │ 413652 │ Delta    │ OHE │ X  │ 4641 │ ---●  │ XXXXXX │ Added extra guess.        │
+│7 │ 5343 │ 142563 │ Tulip    │ NHE │ X  │ 6252 │ XXXX  │ XXXXXX │ Added extra guess.        │
+│8 │ 2216 │ 423156 │ Mike     │ UFE │ X  │ 2246 │ ●---  │ ------ │ Added extra guess.        │
+│9 │ 1144 │ 652134 │ Aster    │ NFE │ X  │ 6611 │ XXXX  │ 6-2--- │ Added extra guess.        │
+│10│ 2145 │ 451326 │ Hotel    │ UFE │ X  │ 5432 │ ○---  │ ------ │ Added extra guess.        │
+│11│ 1426 │ 165324 │ Quebec   │ NFE │ X  │ 1364 │ XXXX  │ ------ │ No extra guess was added. │
+│12│ 4631 │ 416325 │ DEFAULT  │ UFN │ X  │ 3564 │ ----  │ -----5 │ No bonus applied.         │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 13 (8 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Zulu     │ UHE │
+│ Hazel    │ UHE │
+│ Maple    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess.        │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess.        │
+│3 │ 2522 │ 541362 │ Maple    │ OHE │ X  │ 4644 │ ----  │ XXXXXX │ Added extra guess.        │
+│4 │ 3653 │ 523461 │ Victor   │ NFE │ X  │ 3163 │ XXXX  │ ---4-- │ Added extra guess.        │
+│5 │ 5636 │ 261345 │ Umber    │ OFE │ X  │ 4515 │ --●-  │ -----5 │ Added extra guess.        │
+│6 │ 1412 │ 413652 │ Delta    │ OHE │ X  │ 4641 │ ---●  │ XXXXXX │ Added extra guess.        │
+│7 │ 5343 │ 142563 │ Tulip    │ NHE │ X  │ 6252 │ XXXX  │ XXXXXX │ Added extra guess.        │
+│8 │ 2216 │ 423156 │ Mike     │ UFE │ X  │ 2246 │ ●---  │ ------ │ Added extra guess.        │
+│9 │ 1144 │ 652134 │ Aster    │ NFE │ X  │ 6611 │ XXXX  │ 6-2--- │ Added extra guess.        │
+│10│ 2145 │ 451326 │ Hotel    │ UFE │ X  │ 5432 │ ○---  │ ------ │ Added extra guess.        │
+│11│ 1426 │ 165324 │ Quebec   │ NFE │ X  │ 1364 │ XXXX  │ ------ │ No extra guess was added. │
+│12│ 4631 │ 416325 │ DEFAULT  │ UFN │ X  │ 3564 │ ----  │ -----5 │ No bonus applied.         │
+│13│ 6431 │ 416253 │ DEFAULT  │ UFN │ X  │ 3264 │ ●---  │ ------ │ No bonus applied.         │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 14 (7 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Zulu     │ UHE │
+│ Hazel    │ UHE │
+│ Maple    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess.        │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess.        │
+│3 │ 2522 │ 541362 │ Maple    │ OHE │ X  │ 4644 │ ----  │ XXXXXX │ Added extra guess.        │
+│4 │ 3653 │ 523461 │ Victor   │ NFE │ X  │ 3163 │ XXXX  │ ---4-- │ Added extra guess.        │
+│5 │ 5636 │ 261345 │ Umber    │ OFE │ X  │ 4515 │ --●-  │ -----5 │ Added extra guess.        │
+│6 │ 1412 │ 413652 │ Delta    │ OHE │ X  │ 4641 │ ---●  │ XXXXXX │ Added extra guess.        │
+│7 │ 5343 │ 142563 │ Tulip    │ NHE │ X  │ 6252 │ XXXX  │ XXXXXX │ Added extra guess.        │
+│8 │ 2216 │ 423156 │ Mike     │ UFE │ X  │ 2246 │ ●---  │ ------ │ Added extra guess.        │
+│9 │ 1144 │ 652134 │ Aster    │ NFE │ X  │ 6611 │ XXXX  │ 6-2--- │ Added extra guess.        │
+│10│ 2145 │ 451326 │ Hotel    │ UFE │ X  │ 5432 │ ○---  │ ------ │ Added extra guess.        │
+│11│ 1426 │ 165324 │ Quebec   │ NFE │ X  │ 1364 │ XXXX  │ ------ │ No extra guess was added. │
+│12│ 4631 │ 416325 │ DEFAULT  │ UFN │ X  │ 3564 │ ----  │ -----5 │ No bonus applied.         │
+│13│ 6431 │ 416253 │ DEFAULT  │ UFN │ X  │ 3264 │ ●---  │ ------ │ No bonus applied.         │
+│14│ 5324 │ 415362 │ DEFAULT  │ UFN │ X  │ 6513 │ ●---  │ ------ │ No bonus applied.         │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 15 (6 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Zulu     │ UHE │
+│ Hazel    │ UHE │
+│ Maple    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess.        │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess.        │
+│3 │ 2522 │ 541362 │ Maple    │ OHE │ X  │ 4644 │ ----  │ XXXXXX │ Added extra guess.        │
+│4 │ 3653 │ 523461 │ Victor   │ NFE │ X  │ 3163 │ XXXX  │ ---4-- │ Added extra guess.        │
+│5 │ 5636 │ 261345 │ Umber    │ OFE │ X  │ 4515 │ --●-  │ -----5 │ Added extra guess.        │
+│6 │ 1412 │ 413652 │ Delta    │ OHE │ X  │ 4641 │ ---●  │ XXXXXX │ Added extra guess.        │
+│7 │ 5343 │ 142563 │ Tulip    │ NHE │ X  │ 6252 │ XXXX  │ XXXXXX │ Added extra guess.        │
+│8 │ 2216 │ 423156 │ Mike     │ UFE │ X  │ 2246 │ ●---  │ ------ │ Added extra guess.        │
+│9 │ 1144 │ 652134 │ Aster    │ NFE │ X  │ 6611 │ XXXX  │ 6-2--- │ Added extra guess.        │
+│10│ 2145 │ 451326 │ Hotel    │ UFE │ X  │ 5432 │ ○---  │ ------ │ Added extra guess.        │
+│11│ 1426 │ 165324 │ Quebec   │ NFE │ X  │ 1364 │ XXXX  │ ------ │ No extra guess was added. │
+│12│ 4631 │ 416325 │ DEFAULT  │ UFN │ X  │ 3564 │ ----  │ -----5 │ No bonus applied.         │
+│13│ 6431 │ 416253 │ DEFAULT  │ UFN │ X  │ 3264 │ ●---  │ ------ │ No bonus applied.         │
+│14│ 5324 │ 415362 │ DEFAULT  │ UFN │ X  │ 6513 │ ●---  │ ------ │ No bonus applied.         │
+│15│ 5653 │ 621354 │ DEFAULT  │ UFN │ X  │ 5451 │ ●---  │ 6----- │ No bonus applied.         │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 16 (5 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Zulu     │ UHE │
+│ Hazel    │ UHE │
+│ Maple    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess.        │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess.        │
+│3 │ 2522 │ 541362 │ Maple    │ OHE │ X  │ 4644 │ ----  │ XXXXXX │ Added extra guess.        │
+│4 │ 3653 │ 523461 │ Victor   │ NFE │ X  │ 3163 │ XXXX  │ ---4-- │ Added extra guess.        │
+│5 │ 5636 │ 261345 │ Umber    │ OFE │ X  │ 4515 │ --●-  │ -----5 │ Added extra guess.        │
+│6 │ 1412 │ 413652 │ Delta    │ OHE │ X  │ 4641 │ ---●  │ XXXXXX │ Added extra guess.        │
+│7 │ 5343 │ 142563 │ Tulip    │ NHE │ X  │ 6252 │ XXXX  │ XXXXXX │ Added extra guess.        │
+│8 │ 2216 │ 423156 │ Mike     │ UFE │ X  │ 2246 │ ●---  │ ------ │ Added extra guess.        │
+│9 │ 1144 │ 652134 │ Aster    │ NFE │ X  │ 6611 │ XXXX  │ 6-2--- │ Added extra guess.        │
+│10│ 2145 │ 451326 │ Hotel    │ UFE │ X  │ 5432 │ ○---  │ ------ │ Added extra guess.        │
+│11│ 1426 │ 165324 │ Quebec   │ NFE │ X  │ 1364 │ XXXX  │ ------ │ No extra guess was added. │
+│12│ 4631 │ 416325 │ DEFAULT  │ UFN │ X  │ 3564 │ ----  │ -----5 │ No bonus applied.         │
+│13│ 6431 │ 416253 │ DEFAULT  │ UFN │ X  │ 3264 │ ●---  │ ------ │ No bonus applied.         │
+│14│ 5324 │ 415362 │ DEFAULT  │ UFN │ X  │ 6513 │ ●---  │ ------ │ No bonus applied.         │
+│15│ 5653 │ 621354 │ DEFAULT  │ UFN │ X  │ 5451 │ ●---  │ 6----- │ No bonus applied.         │
+│16│ 1445 │ 243516 │ DEFAULT  │ UFN │ X  │ 2551 │ ●○--  │ ----1- │ No bonus applied.         │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 17 (4 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Zulu     │ UHE │
+│ Hazel    │ UHE │
+│ Maple    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess.        │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess.        │
+│3 │ 2522 │ 541362 │ Maple    │ OHE │ X  │ 4644 │ ----  │ XXXXXX │ Added extra guess.        │
+│4 │ 3653 │ 523461 │ Victor   │ NFE │ X  │ 3163 │ XXXX  │ ---4-- │ Added extra guess.        │
+│5 │ 5636 │ 261345 │ Umber    │ OFE │ X  │ 4515 │ --●-  │ -----5 │ Added extra guess.        │
+│6 │ 1412 │ 413652 │ Delta    │ OHE │ X  │ 4641 │ ---●  │ XXXXXX │ Added extra guess.        │
+│7 │ 5343 │ 142563 │ Tulip    │ NHE │ X  │ 6252 │ XXXX  │ XXXXXX │ Added extra guess.        │
+│8 │ 2216 │ 423156 │ Mike     │ UFE │ X  │ 2246 │ ●---  │ ------ │ Added extra guess.        │
+│9 │ 1144 │ 652134 │ Aster    │ NFE │ X  │ 6611 │ XXXX  │ 6-2--- │ Added extra guess.        │
+│10│ 2145 │ 451326 │ Hotel    │ UFE │ X  │ 5432 │ ○---  │ ------ │ Added extra guess.        │
+│11│ 1426 │ 165324 │ Quebec   │ NFE │ X  │ 1364 │ XXXX  │ ------ │ No extra guess was added. │
+│12│ 4631 │ 416325 │ DEFAULT  │ UFN │ X  │ 3564 │ ----  │ -----5 │ No bonus applied.         │
+│13│ 6431 │ 416253 │ DEFAULT  │ UFN │ X  │ 3264 │ ●---  │ ------ │ No bonus applied.         │
+│14│ 5324 │ 415362 │ DEFAULT  │ UFN │ X  │ 6513 │ ●---  │ ------ │ No bonus applied.         │
+│15│ 5653 │ 621354 │ DEFAULT  │ UFN │ X  │ 5451 │ ●---  │ 6----- │ No bonus applied.         │
+│16│ 1445 │ 243516 │ DEFAULT  │ UFN │ X  │ 2551 │ ●○--  │ ----1- │ No bonus applied.         │
+│17│ 3532 │ 345612 │ DEFAULT  │ UFN │ X  │ 5154 │ ○---  │ ----1- │ No bonus applied.         │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 18 (3 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Zulu     │ UHE │
+│ Hazel    │ UHE │
+│ Maple    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess.        │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess.        │
+│3 │ 2522 │ 541362 │ Maple    │ OHE │ X  │ 4644 │ ----  │ XXXXXX │ Added extra guess.        │
+│4 │ 3653 │ 523461 │ Victor   │ NFE │ X  │ 3163 │ XXXX  │ ---4-- │ Added extra guess.        │
+│5 │ 5636 │ 261345 │ Umber    │ OFE │ X  │ 4515 │ --●-  │ -----5 │ Added extra guess.        │
+│6 │ 1412 │ 413652 │ Delta    │ OHE │ X  │ 4641 │ ---●  │ XXXXXX │ Added extra guess.        │
+│7 │ 5343 │ 142563 │ Tulip    │ NHE │ X  │ 6252 │ XXXX  │ XXXXXX │ Added extra guess.        │
+│8 │ 2216 │ 423156 │ Mike     │ UFE │ X  │ 2246 │ ●---  │ ------ │ Added extra guess.        │
+│9 │ 1144 │ 652134 │ Aster    │ NFE │ X  │ 6611 │ XXXX  │ 6-2--- │ Added extra guess.        │
+│10│ 2145 │ 451326 │ Hotel    │ UFE │ X  │ 5432 │ ○---  │ ------ │ Added extra guess.        │
+│11│ 1426 │ 165324 │ Quebec   │ NFE │ X  │ 1364 │ XXXX  │ ------ │ No extra guess was added. │
+│12│ 4631 │ 416325 │ DEFAULT  │ UFN │ X  │ 3564 │ ----  │ -----5 │ No bonus applied.         │
+│13│ 6431 │ 416253 │ DEFAULT  │ UFN │ X  │ 3264 │ ●---  │ ------ │ No bonus applied.         │
+│14│ 5324 │ 415362 │ DEFAULT  │ UFN │ X  │ 6513 │ ●---  │ ------ │ No bonus applied.         │
+│15│ 5653 │ 621354 │ DEFAULT  │ UFN │ X  │ 5451 │ ●---  │ 6----- │ No bonus applied.         │
+│16│ 1445 │ 243516 │ DEFAULT  │ UFN │ X  │ 2551 │ ●○--  │ ----1- │ No bonus applied.         │
+│17│ 3532 │ 345612 │ DEFAULT  │ UFN │ X  │ 5154 │ ○---  │ ----1- │ No bonus applied.         │
+│18│ 3253 │ 435162 │ DEFAULT  │ UFN │ X  │ 5365 │ ----  │ -3---- │ No bonus applied.         │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 19 (2 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Zulu     │ UHE │
+│ Hazel    │ UHE │
+│ Maple    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess.        │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess.        │
+│3 │ 2522 │ 541362 │ Maple    │ OHE │ X  │ 4644 │ ----  │ XXXXXX │ Added extra guess.        │
+│4 │ 3653 │ 523461 │ Victor   │ NFE │ X  │ 3163 │ XXXX  │ ---4-- │ Added extra guess.        │
+│5 │ 5636 │ 261345 │ Umber    │ OFE │ X  │ 4515 │ --●-  │ -----5 │ Added extra guess.        │
+│6 │ 1412 │ 413652 │ Delta    │ OHE │ X  │ 4641 │ ---●  │ XXXXXX │ Added extra guess.        │
+│7 │ 5343 │ 142563 │ Tulip    │ NHE │ X  │ 6252 │ XXXX  │ XXXXXX │ Added extra guess.        │
+│8 │ 2216 │ 423156 │ Mike     │ UFE │ X  │ 2246 │ ●---  │ ------ │ Added extra guess.        │
+│9 │ 1144 │ 652134 │ Aster    │ NFE │ X  │ 6611 │ XXXX  │ 6-2--- │ Added extra guess.        │
+│10│ 2145 │ 451326 │ Hotel    │ UFE │ X  │ 5432 │ ○---  │ ------ │ Added extra guess.        │
+│11│ 1426 │ 165324 │ Quebec   │ NFE │ X  │ 1364 │ XXXX  │ ------ │ No extra guess was added. │
+│12│ 4631 │ 416325 │ DEFAULT  │ UFN │ X  │ 3564 │ ----  │ -----5 │ No bonus applied.         │
+│13│ 6431 │ 416253 │ DEFAULT  │ UFN │ X  │ 3264 │ ●---  │ ------ │ No bonus applied.         │
+│14│ 5324 │ 415362 │ DEFAULT  │ UFN │ X  │ 6513 │ ●---  │ ------ │ No bonus applied.         │
+│15│ 5653 │ 621354 │ DEFAULT  │ UFN │ X  │ 5451 │ ●---  │ 6----- │ No bonus applied.         │
+│16│ 1445 │ 243516 │ DEFAULT  │ UFN │ X  │ 2551 │ ●○--  │ ----1- │ No bonus applied.         │
+│17│ 3532 │ 345612 │ DEFAULT  │ UFN │ X  │ 5154 │ ○---  │ ----1- │ No bonus applied.         │
+│18│ 3253 │ 435162 │ DEFAULT  │ UFN │ X  │ 5365 │ ----  │ -3---- │ No bonus applied.         │
+│19│ 4641 │ 513642 │ DEFAULT  │ UFN │ X  │ 6265 │ ●---  │ ------ │ No bonus applied.         │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 20 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Zulu     │ UHE │
+│ Hazel    │ UHE │
+│ Maple    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                          │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                     │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────┤
+│1 │ 6253 │ 246531 │ Zulu     │ UHE │ X  │ 1436 │ ●---  │ XXXXXX │ Added extra guess.        │
+│2 │ 2644 │ 142365 │ Hazel    │ UHE │ X  │ 4533 │ ----  │ XXXXXX │ Added extra guess.        │
+│3 │ 2522 │ 541362 │ Maple    │ OHE │ X  │ 4644 │ ----  │ XXXXXX │ Added extra guess.        │
+│4 │ 3653 │ 523461 │ Victor   │ NFE │ X  │ 3163 │ XXXX  │ ---4-- │ Added extra guess.        │
+│5 │ 5636 │ 261345 │ Umber    │ OFE │ X  │ 4515 │ --●-  │ -----5 │ Added extra guess.        │
+│6 │ 1412 │ 413652 │ Delta    │ OHE │ X  │ 4641 │ ---●  │ XXXXXX │ Added extra guess.        │
+│7 │ 5343 │ 142563 │ Tulip    │ NHE │ X  │ 6252 │ XXXX  │ XXXXXX │ Added extra guess.        │
+│8 │ 2216 │ 423156 │ Mike     │ UFE │ X  │ 2246 │ ●---  │ ------ │ Added extra guess.        │
+│9 │ 1144 │ 652134 │ Aster    │ NFE │ X  │ 6611 │ XXXX  │ 6-2--- │ Added extra guess.        │
+│10│ 2145 │ 451326 │ Hotel    │ UFE │ X  │ 5432 │ ○---  │ ------ │ Added extra guess.        │
+│11│ 1426 │ 165324 │ Quebec   │ NFE │ X  │ 1364 │ XXXX  │ ------ │ No extra guess was added. │
+│12│ 4631 │ 416325 │ DEFAULT  │ UFN │ X  │ 3564 │ ----  │ -----5 │ No bonus applied.         │
+│13│ 6431 │ 416253 │ DEFAULT  │ UFN │ X  │ 3264 │ ●---  │ ------ │ No bonus applied.         │
+│14│ 5324 │ 415362 │ DEFAULT  │ UFN │ X  │ 6513 │ ●---  │ ------ │ No bonus applied.         │
+│15│ 5653 │ 621354 │ DEFAULT  │ UFN │ X  │ 5451 │ ●---  │ 6----- │ No bonus applied.         │
+│16│ 1445 │ 243516 │ DEFAULT  │ UFN │ X  │ 2551 │ ●○--  │ ----1- │ No bonus applied.         │
+│17│ 3532 │ 345612 │ DEFAULT  │ UFN │ X  │ 5154 │ ○---  │ ----1- │ No bonus applied.         │
+│18│ 3253 │ 435162 │ DEFAULT  │ UFN │ X  │ 5365 │ ----  │ -3---- │ No bonus applied.         │
+│19│ 4641 │ 513642 │ DEFAULT  │ UFN │ X  │ 6265 │ ●---  │ ------ │ No bonus applied.         │
+│20│ 3124 │ 531264 │ DEFAULT  │ UFN │ X  │ 1532 │ ●○--  │ -3---- │ No bonus applied.         │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────┘
+You have run out of guesses. Better luck next time!

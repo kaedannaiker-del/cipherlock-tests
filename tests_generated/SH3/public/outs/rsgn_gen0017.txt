@@ -1,0 +1,4 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+A cipher must contain only the digits 1-6.

@@ -1,0 +1,1 @@
+The AI type should be "0" for no AI, "1" for the cipher guess strategy, "2" for the Vanilla guess strategy, or "3" for the Agentic guess strategy.

@@ -1,0 +1,156 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ NHP │
+│ Clover   │ UFC │
+│ Aster    │ UFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Clover 1
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Clover   │ UFC │ 1  │ 1122 │ ●○--  │ ------ │ 1 appears 1 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ NHP │
+│ Aster    │ UFE │
+│ Mike     │ NFR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4433 214365 Aster
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Clover   │ UFC │ 1  │ 1122 │ ●○--  │ ------ │ 1 appears 1 times. │
+│2 │ 4433 │ 214365 │ Aster    │ UFE │ X  │ 3344 │ ●---  │ --4--5 │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ NHP │
+│ Mike     │ NFR │
+│ Victor   │ NFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4443 364125 Mike
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 1122 │ 123456 │ Clover   │ UFC │ 1  │ 1122 │ ●○--  │ ------ │ 1 appears 1 times.         │
+│2 │ 4433 │ 214365 │ Aster    │ UFE │ X  │ 3344 │ ●---  │ --4--5 │ Added extra guess.         │
+│3 │ 4443 │ 364125 │ Mike     │ NFR │ X  │ 1114 │ XXXX  │ 364--5 │ Replay: Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ NHP │
+│ Victor   │ NFM │
+│ Willow   │ UFR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5553 364215 Willow
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 1122 │ 123456 │ Clover   │ UFC │ 1  │ 1122 │ ●○--  │ ------ │ 1 appears 1 times.         │
+│2 │ 4433 │ 214365 │ Aster    │ UFE │ X  │ 3344 │ ●---  │ --4--5 │ Added extra guess.         │
+│3 │ 4443 │ 364125 │ Mike     │ NFR │ X  │ 1114 │ XXXX  │ 364--5 │ Replay: Added extra guess. │
+│4 │ 5553 │ 364215 │ Willow   │ UFR │ X  │ 1114 │ ●○--  │ 364215 │ Replay: Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ NHP │
+│ Victor   │ NFM │
+│ Papa     │ UHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5436 364215 Papa 1
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                 │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                            │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Clover   │ UFC │ 1  │ 1122 │ -●○-  │ ------ │ 1 appears 1 times.               │
+│2 │ 4433 │ 214365 │ Aster    │ UFE │ X  │ 3344 │ ●---  │ --4--5 │ Added extra guess.               │
+│3 │ 4443 │ 364125 │ Mike     │ NFR │ X  │ 1114 │ XXXX  │ 364--5 │ Replay: Added extra guess.       │
+│4 │ 5553 │ 364215 │ Willow   │ UFR │ X  │ 1114 │ ●○--  │ 364215 │ Replay: Added extra guess.       │
+│5 │ 5436 │ 364215 │ Papa     │ UHP │ 1  │ 1245 │ ●●○○  │ XXXXXX │ Crack on round 1 is now ordered. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ NHP │
+│ Victor   │ NFM │
+│ Alpha    │ NFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4536 364215 Alpha
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                 │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                            │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Clover   │ UFC │ 1  │ 1122 │ -●○-  │ ------ │ 1 appears 1 times.               │
+│2 │ 4433 │ 214365 │ Aster    │ UFE │ X  │ 3344 │ ●---  │ --4--5 │ Added extra guess.               │
+│3 │ 4443 │ 364125 │ Mike     │ NFR │ X  │ 1114 │ XXXX  │ 364--5 │ Replay: Added extra guess.       │
+│4 │ 5553 │ 364215 │ Willow   │ UFR │ X  │ 1114 │ ●○--  │ 364215 │ Replay: Added extra guess.       │
+│5 │ 5436 │ 364215 │ Papa     │ UHP │ 1  │ 1245 │ ●●○○  │ XXXXXX │ Crack on round 1 is now ordered. │
+│6 │ 4536 │ 364215 │ Alpha    │ NFE │ X  │ 2145 │ XXXX  │ 364215 │ Added extra guess.               │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────┘
+Congratulations! You solved the cipherlock.

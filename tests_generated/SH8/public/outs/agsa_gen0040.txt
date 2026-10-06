@@ -1,0 +1,103 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Xray     │ UFM │
+│ Yankee   │ UFR │
+│ Tulip    │ UHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Xray 1
+┌────────────────────────────────────────┬──────────────────────────────────────┐
+│ Guess                                  │ Feedback                             │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus        │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────┤
+│1 │ 1122 │ 123456 │ Xray     │ UFM │ 1  │ 1122 │ ●---  │ ------ │ 1 maps to 6. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ UFR │
+│ Tulip    │ UHM │
+│ Juliett  │ OFR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4561 612345 Juliett 6
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 1122 │ 123456 │ Xray     │ UFM │ 1  │ 1122 │ ●---  │ ------ │ 1 maps to 6.         │
+│2 │ 4561 │ 612345 │ Juliett  │ OFR │ 6  │ 3456 │ -●-○  │ 6----- │ Replay: 6 maps to 2. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ UFR │
+│ Tulip    │ UHM │
+│ Umber    │ NHT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3316 634512 Yankee 2
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 1122 │ 123456 │ Xray     │ UFM │ 1  │ 1122 │ ●---  │ ------ │ 1 maps to 6.         │
+│2 │ 4561 │ 612345 │ Juliett  │ OFR │ 6  │ 3456 │ -●-○  │ 6----- │ Replay: 6 maps to 2. │
+│3 │ 3316 │ 634512 │ Yankee   │ UFR │ 2  │ 4462 │ ●●○-  │ 6--5-2 │ Replay: 2 maps to 4. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tulip    │ UHM │
+│ Umber    │ NHT │
+│ Elm      │ NFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3212 641532 Elm
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 1122 │ 123456 │ Xray     │ UFM │ 1  │ 1122 │ ●---  │ ------ │ 1 maps to 6.         │
+│2 │ 4561 │ 612345 │ Juliett  │ OFR │ 6  │ 3456 │ -●-○  │ 6----- │ Replay: 6 maps to 2. │
+│3 │ 3316 │ 634512 │ Yankee   │ UFR │ 2  │ 4462 │ ●●○-  │ 6--5-2 │ Replay: 2 maps to 4. │
+│4 │ 3212 │ 641532 │ Elm      │ NFE │ X  │ 1464 │ XXXX  │ 641532 │ Added extra guess.   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+Congratulations! You solved the cipherlock.

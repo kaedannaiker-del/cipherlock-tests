@@ -1,0 +1,167 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+Enter agent name and effects for agent 18:
+Enter agent name and effects for agent 19:
+Enter agent name and effects for agent 20:
+Enter agent name and effects for agent 21:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ NFE │
+│ Zulu     │ UHM │
+│ Tango    │ NHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Zulu 1
+┌────────────────────────────────────────┬──────────────────────────────────────┐
+│ Guess                                  │ Feedback                             │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus        │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────┤
+│1 │ 1122 │ 123456 │ Zulu     │ UHM │ 1  │ 1122 │ ●●--  │ XXXXXX │ 1 maps to 3. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ NFE │
+│ Tango    │ NHC │
+│ Oscar    │ NHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2314 312456 Yankee
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Zulu     │ UHM │ 1  │ 1122 │ ●●--  │ XXXXXX │ 1 maps to 3.       │
+│2 │ 2314 │ 312456 │ Yankee   │ NFE │ X  │ 1234 │ XXXX  │ 3----- │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tango    │ NHC │
+│ Oscar    │ NHM │
+│ Nova     │ UHN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3216 321564
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Zulu     │ UHM │ 1  │ 1122 │ ●●--  │ XXXXXX │ 1 maps to 3.       │
+│2 │ 2314 │ 312456 │ Yankee   │ NFE │ X  │ 1234 │ XXXX  │ 3----- │ Added extra guess. │
+│3 │ 3216 │ 321564 │ DEFAULT  │ UFN │ X  │ 1234 │ ●●--  │ 321564 │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tango    │ NHC │
+│ Oscar    │ NHM │
+│ Nova     │ UHN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3415 321564 Nova
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Zulu     │ UHM │ 1  │ 1122 │ ●●--  │ XXXXXX │ 1 maps to 3.       │
+│2 │ 2314 │ 312456 │ Yankee   │ NFE │ X  │ 1234 │ XXXX  │ 3----- │ Added extra guess. │
+│3 │ 3216 │ 321564 │ DEFAULT  │ UFN │ X  │ 1234 │ ●●--  │ 321564 │ No bonus applied.  │
+│4 │ 3415 │ 321564 │ Nova     │ UHN │ X  │ 1536 │ ●○--  │ XXXXXX │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tango    │ NHC │
+│ Oscar    │ NHM │
+│ Foxtrot  │ NHN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3346 321564 Tango 5
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Zulu     │ UHM │ 1  │ 1122 │ ●●--  │ XXXXXX │ 1 maps to 3.       │
+│2 │ 2314 │ 312456 │ Yankee   │ NFE │ X  │ 1234 │ XXXX  │ 3----- │ Added extra guess. │
+│3 │ 3216 │ 321564 │ DEFAULT  │ UFN │ X  │ 1234 │ ●●--  │ 321564 │ No bonus applied.  │
+│4 │ 3415 │ 321564 │ Nova     │ UHN │ X  │ 1536 │ ●○--  │ XXXXXX │ No bonus applied.  │
+│5 │ 3346 │ 321564 │ Tango    │ NHC │ 5  │ 1154 │ XXXX  │ XXXXXX │ 5 appears 0 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Oscar    │ NHM │
+│ Foxtrot  │ NHN │
+│ Kilo     │ UHR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3356 321564
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Zulu     │ UHM │ 1  │ 1122 │ ●●--  │ XXXXXX │ 1 maps to 3.       │
+│2 │ 2314 │ 312456 │ Yankee   │ NFE │ X  │ 1234 │ XXXX  │ 3----- │ Added extra guess. │
+│3 │ 3216 │ 321564 │ DEFAULT  │ UFN │ X  │ 1234 │ ●●--  │ 321564 │ No bonus applied.  │
+│4 │ 3415 │ 321564 │ Nova     │ UHN │ X  │ 1536 │ ●○--  │ XXXXXX │ No bonus applied.  │
+│5 │ 3346 │ 321564 │ Tango    │ NHC │ 5  │ 1154 │ XXXX  │ XXXXXX │ 5 appears 0 times. │
+│6 │ 3356 │ 321564 │ DEFAULT  │ UFN │ X  │ 1164 │ ●●●●  │ 321564 │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+Congratulations! You solved the cipherlock.

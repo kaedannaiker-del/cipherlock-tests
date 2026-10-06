@@ -1,0 +1,261 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Vetch    │ OHT │
+│ Victor   │ NHM │
+│ Aster    │ OFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 4153 │ 645312 │ Vetch    │ OHT │ X  │ 3615 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ OHM │
+│ India    │ OHN │
+│ Sorrel   │ UFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 4153 │ 645312 │ Vetch    │ OHT │ X  │ 3615 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+│2 │ 1563 │ 351462 │ DEFAULT  │ UFN │ X  │ 3621 │ ●○○-  │ 35-46- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ OHM │
+│ India    │ OHN │
+│ Sorrel   │ UFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 4153 │ 645312 │ Vetch    │ OHT │ X  │ 3615 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+│2 │ 1563 │ 351462 │ DEFAULT  │ UFN │ X  │ 3621 │ ●○○-  │ 35-46- │ No bonus applied. │
+│3 │ 1341 │ 425613 │ DEFAULT  │ UFN │ X  │ 4564 │ ●---  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ OHM │
+│ India    │ OHN │
+│ Sorrel   │ UFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 4153 │ 645312 │ Vetch    │ OHT │ X  │ 3615 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+│2 │ 1563 │ 351462 │ DEFAULT  │ UFN │ X  │ 3621 │ ●○○-  │ 35-46- │ No bonus applied. │
+│3 │ 1341 │ 425613 │ DEFAULT  │ UFN │ X  │ 4564 │ ●---  │ ------ │ No bonus applied. │
+│4 │ 3666 │ 345261 │ DEFAULT  │ UFN │ X  │ 5111 │ ●---  │ 3---61 │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ OHM │
+│ India    │ OHN │
+│ Sorrel   │ UFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 4153 │ 645312 │ Vetch    │ OHT │ X  │ 3615 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+│2 │ 1563 │ 351462 │ DEFAULT  │ UFN │ X  │ 3621 │ ●○○-  │ 35-46- │ No bonus applied. │
+│3 │ 1341 │ 425613 │ DEFAULT  │ UFN │ X  │ 4564 │ ●---  │ ------ │ No bonus applied. │
+│4 │ 3666 │ 345261 │ DEFAULT  │ UFN │ X  │ 5111 │ ●---  │ 3---61 │ No bonus applied. │
+│5 │ 2626 │ 453216 │ DEFAULT  │ UFN │ X  │ 5656 │ ○○--  │ -5---- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ OHM │
+│ India    │ OHN │
+│ Sorrel   │ UFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 4153 │ 645312 │ Vetch    │ OHT │ X  │ 3615 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+│2 │ 1563 │ 351462 │ DEFAULT  │ UFN │ X  │ 3621 │ ●○○-  │ 35-46- │ No bonus applied. │
+│3 │ 1341 │ 425613 │ DEFAULT  │ UFN │ X  │ 4564 │ ●---  │ ------ │ No bonus applied. │
+│4 │ 3666 │ 345261 │ DEFAULT  │ UFN │ X  │ 5111 │ ●---  │ 3---61 │ No bonus applied. │
+│5 │ 2626 │ 453216 │ DEFAULT  │ UFN │ X  │ 5656 │ ○○--  │ -5---- │ No bonus applied. │
+│6 │ 6651 │ 124356 │ DEFAULT  │ UFN │ X  │ 6651 │ ●●○-  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ OHM │
+│ India    │ OHN │
+│ Sorrel   │ UFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 4153 │ 645312 │ Vetch    │ OHT │ X  │ 3615 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+│2 │ 1563 │ 351462 │ DEFAULT  │ UFN │ X  │ 3621 │ ●○○-  │ 35-46- │ No bonus applied. │
+│3 │ 1341 │ 425613 │ DEFAULT  │ UFN │ X  │ 4564 │ ●---  │ ------ │ No bonus applied. │
+│4 │ 3666 │ 345261 │ DEFAULT  │ UFN │ X  │ 5111 │ ●---  │ 3---61 │ No bonus applied. │
+│5 │ 2626 │ 453216 │ DEFAULT  │ UFN │ X  │ 5656 │ ○○--  │ -5---- │ No bonus applied. │
+│6 │ 6651 │ 124356 │ DEFAULT  │ UFN │ X  │ 6651 │ ●●○-  │ ------ │ No bonus applied. │
+│7 │ 2411 │ 231564 │ DEFAULT  │ UFN │ X  │ 3522 │ ○---  │ ----6- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (3 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ OHM │
+│ India    │ OHN │
+│ Sorrel   │ UFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 4153 │ 645312 │ Vetch    │ OHT │ X  │ 3615 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+│2 │ 1563 │ 351462 │ DEFAULT  │ UFN │ X  │ 3621 │ ●○○-  │ 35-46- │ No bonus applied. │
+│3 │ 1341 │ 425613 │ DEFAULT  │ UFN │ X  │ 4564 │ ●---  │ ------ │ No bonus applied. │
+│4 │ 3666 │ 345261 │ DEFAULT  │ UFN │ X  │ 5111 │ ●---  │ 3---61 │ No bonus applied. │
+│5 │ 2626 │ 453216 │ DEFAULT  │ UFN │ X  │ 5656 │ ○○--  │ -5---- │ No bonus applied. │
+│6 │ 6651 │ 124356 │ DEFAULT  │ UFN │ X  │ 6651 │ ●●○-  │ ------ │ No bonus applied. │
+│7 │ 2411 │ 231564 │ DEFAULT  │ UFN │ X  │ 3522 │ ○---  │ ----6- │ No bonus applied. │
+│8 │ 2445 │ 621453 │ DEFAULT  │ UFN │ X  │ 2445 │ ----  │ ---4-- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (2 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ OHM │
+│ India    │ OHN │
+│ Sorrel   │ UFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 4153 │ 645312 │ Vetch    │ OHT │ X  │ 3615 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+│2 │ 1563 │ 351462 │ DEFAULT  │ UFN │ X  │ 3621 │ ●○○-  │ 35-46- │ No bonus applied. │
+│3 │ 1341 │ 425613 │ DEFAULT  │ UFN │ X  │ 4564 │ ●---  │ ------ │ No bonus applied. │
+│4 │ 3666 │ 345261 │ DEFAULT  │ UFN │ X  │ 5111 │ ●---  │ 3---61 │ No bonus applied. │
+│5 │ 2626 │ 453216 │ DEFAULT  │ UFN │ X  │ 5656 │ ○○--  │ -5---- │ No bonus applied. │
+│6 │ 6651 │ 124356 │ DEFAULT  │ UFN │ X  │ 6651 │ ●●○-  │ ------ │ No bonus applied. │
+│7 │ 2411 │ 231564 │ DEFAULT  │ UFN │ X  │ 3522 │ ○---  │ ----6- │ No bonus applied. │
+│8 │ 2445 │ 621453 │ DEFAULT  │ UFN │ X  │ 2445 │ ----  │ ---4-- │ No bonus applied. │
+│9 │ 5342 │ 234615 │ DEFAULT  │ UFN │ X  │ 1463 │ ●○○-  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ OHM │
+│ India    │ OHN │
+│ Sorrel   │ UFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 4153 │ 645312 │ Vetch    │ OHT │ X  │ 3615 │ ○○○-  │ XXXXXX │ Tossed all cards. │
+│2 │ 1563 │ 351462 │ DEFAULT  │ UFN │ X  │ 3621 │ ●○○-  │ 35-46- │ No bonus applied. │
+│3 │ 1341 │ 425613 │ DEFAULT  │ UFN │ X  │ 4564 │ ●---  │ ------ │ No bonus applied. │
+│4 │ 3666 │ 345261 │ DEFAULT  │ UFN │ X  │ 5111 │ ●---  │ 3---61 │ No bonus applied. │
+│5 │ 2626 │ 453216 │ DEFAULT  │ UFN │ X  │ 5656 │ ○○--  │ -5---- │ No bonus applied. │
+│6 │ 6651 │ 124356 │ DEFAULT  │ UFN │ X  │ 6651 │ ●●○-  │ ------ │ No bonus applied. │
+│7 │ 2411 │ 231564 │ DEFAULT  │ UFN │ X  │ 3522 │ ○---  │ ----6- │ No bonus applied. │
+│8 │ 2445 │ 621453 │ DEFAULT  │ UFN │ X  │ 2445 │ ----  │ ---4-- │ No bonus applied. │
+│9 │ 5342 │ 234615 │ DEFAULT  │ UFN │ X  │ 1463 │ ●○○-  │ ------ │ No bonus applied. │
+│10│ 1135 │ 423516 │ DEFAULT  │ UFN │ X  │ 4431 │ ●○--  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+You have run out of guesses. Better luck next time!

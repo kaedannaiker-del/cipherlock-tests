@@ -1,0 +1,12 @@
+1266 162345
+10
+Yarrow UFN
+Vetch UHT
+Birch UHT
+Tulip UHM
+Laurel NFH
+Sorrel UFP
+Umber UHP
+Delta UFC
+Maple NFP
+Cedar OHP

@@ -1,0 +1,267 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Laurel   │ NFT │
+│ Hotel    │ OHP │
+│ Willow   │ UFR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6541 │ 524631 │ Laurel   │ NFT │ X  │ 1365 │ XXXX  │ ---6-- │ Tossed all cards. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ NFH │
+│ Xray     │ OHE │
+│ Echo     │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6541 │ 524631 │ Laurel   │ NFT │ X  │ 1365 │ XXXX  │ ---6-- │ Tossed all cards. │
+│2 │ 2655 │ 146352 │ DEFAULT  │ UFN │ X  │ 4255 │ ○---  │ -----2 │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ NFH │
+│ Xray     │ OHE │
+│ Echo     │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6541 │ 524631 │ Laurel   │ NFT │ X  │ 1365 │ XXXX  │ ---6-- │ Tossed all cards. │
+│2 │ 2655 │ 146352 │ DEFAULT  │ UFN │ X  │ 4255 │ ○---  │ -----2 │ No bonus applied. │
+│3 │ 6553 │ 534216 │ DEFAULT  │ UFN │ X  │ 6114 │ ○○--  │ ----1- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ NFH │
+│ Xray     │ OHE │
+│ Echo     │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6541 │ 524631 │ Laurel   │ NFT │ X  │ 1365 │ XXXX  │ ---6-- │ Tossed all cards. │
+│2 │ 2655 │ 146352 │ DEFAULT  │ UFN │ X  │ 4255 │ ○---  │ -----2 │ No bonus applied. │
+│3 │ 6553 │ 534216 │ DEFAULT  │ UFN │ X  │ 6114 │ ○○--  │ ----1- │ No bonus applied. │
+│4 │ 5513 │ 451362 │ DEFAULT  │ UFN │ X  │ 6641 │ ○○--  │ 45---2 │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ NFH │
+│ Xray     │ OHE │
+│ Echo     │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6541 │ 524631 │ Laurel   │ NFT │ X  │ 1365 │ XXXX  │ ---6-- │ Tossed all cards. │
+│2 │ 2655 │ 146352 │ DEFAULT  │ UFN │ X  │ 4255 │ ○---  │ -----2 │ No bonus applied. │
+│3 │ 6553 │ 534216 │ DEFAULT  │ UFN │ X  │ 6114 │ ○○--  │ ----1- │ No bonus applied. │
+│4 │ 5513 │ 451362 │ DEFAULT  │ UFN │ X  │ 6641 │ ○○--  │ 45---2 │ No bonus applied. │
+│5 │ 6661 │ 163245 │ DEFAULT  │ UFN │ X  │ 5551 │ ○---  │ --3--- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ NFH │
+│ Xray     │ OHE │
+│ Echo     │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6541 │ 524631 │ Laurel   │ NFT │ X  │ 1365 │ XXXX  │ ---6-- │ Tossed all cards. │
+│2 │ 2655 │ 146352 │ DEFAULT  │ UFN │ X  │ 4255 │ ○---  │ -----2 │ No bonus applied. │
+│3 │ 6553 │ 534216 │ DEFAULT  │ UFN │ X  │ 6114 │ ○○--  │ ----1- │ No bonus applied. │
+│4 │ 5513 │ 451362 │ DEFAULT  │ UFN │ X  │ 6641 │ ○○--  │ 45---2 │ No bonus applied. │
+│5 │ 6661 │ 163245 │ DEFAULT  │ UFN │ X  │ 5551 │ ○---  │ --3--- │ No bonus applied. │
+│6 │ 3113 │ 532164 │ DEFAULT  │ UFN │ X  │ 2552 │ ----  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ NFH │
+│ Xray     │ OHE │
+│ Echo     │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6541 │ 524631 │ Laurel   │ NFT │ X  │ 1365 │ XXXX  │ ---6-- │ Tossed all cards. │
+│2 │ 2655 │ 146352 │ DEFAULT  │ UFN │ X  │ 4255 │ ○---  │ -----2 │ No bonus applied. │
+│3 │ 6553 │ 534216 │ DEFAULT  │ UFN │ X  │ 6114 │ ○○--  │ ----1- │ No bonus applied. │
+│4 │ 5513 │ 451362 │ DEFAULT  │ UFN │ X  │ 6641 │ ○○--  │ 45---2 │ No bonus applied. │
+│5 │ 6661 │ 163245 │ DEFAULT  │ UFN │ X  │ 5551 │ ○---  │ --3--- │ No bonus applied. │
+│6 │ 3113 │ 532164 │ DEFAULT  │ UFN │ X  │ 2552 │ ----  │ ------ │ No bonus applied. │
+│7 │ 6436 │ 314652 │ DEFAULT  │ UFN │ X  │ 2642 │ ○---  │ ---6-2 │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (3 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ NFH │
+│ Xray     │ OHE │
+│ Echo     │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6541 │ 524631 │ Laurel   │ NFT │ X  │ 1365 │ XXXX  │ ---6-- │ Tossed all cards. │
+│2 │ 2655 │ 146352 │ DEFAULT  │ UFN │ X  │ 4255 │ ○---  │ -----2 │ No bonus applied. │
+│3 │ 6553 │ 534216 │ DEFAULT  │ UFN │ X  │ 6114 │ ○○--  │ ----1- │ No bonus applied. │
+│4 │ 5513 │ 451362 │ DEFAULT  │ UFN │ X  │ 6641 │ ○○--  │ 45---2 │ No bonus applied. │
+│5 │ 6661 │ 163245 │ DEFAULT  │ UFN │ X  │ 5551 │ ○---  │ --3--- │ No bonus applied. │
+│6 │ 3113 │ 532164 │ DEFAULT  │ UFN │ X  │ 2552 │ ----  │ ------ │ No bonus applied. │
+│7 │ 6436 │ 314652 │ DEFAULT  │ UFN │ X  │ 2642 │ ○---  │ ---6-2 │ No bonus applied. │
+│8 │ 2551 │ 516432 │ DEFAULT  │ UFN │ X  │ 1335 │ ●●○-  │ -----2 │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (2 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ NFH │
+│ Xray     │ OHE │
+│ Echo     │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6541 │ 524631 │ Laurel   │ NFT │ X  │ 1365 │ XXXX  │ ---6-- │ Tossed all cards. │
+│2 │ 2655 │ 146352 │ DEFAULT  │ UFN │ X  │ 4255 │ ○---  │ -----2 │ No bonus applied. │
+│3 │ 6553 │ 534216 │ DEFAULT  │ UFN │ X  │ 6114 │ ○○--  │ ----1- │ No bonus applied. │
+│4 │ 5513 │ 451362 │ DEFAULT  │ UFN │ X  │ 6641 │ ○○--  │ 45---2 │ No bonus applied. │
+│5 │ 6661 │ 163245 │ DEFAULT  │ UFN │ X  │ 5551 │ ○---  │ --3--- │ No bonus applied. │
+│6 │ 3113 │ 532164 │ DEFAULT  │ UFN │ X  │ 2552 │ ----  │ ------ │ No bonus applied. │
+│7 │ 6436 │ 314652 │ DEFAULT  │ UFN │ X  │ 2642 │ ○---  │ ---6-2 │ No bonus applied. │
+│8 │ 2551 │ 516432 │ DEFAULT  │ UFN │ X  │ 1335 │ ●●○-  │ -----2 │ No bonus applied. │
+│9 │ 3554 │ 623154 │ DEFAULT  │ UFN │ X  │ 3551 │ ○○--  │ --3--- │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ NFH │
+│ Xray     │ OHE │
+│ Echo     │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 6541 │ 524631 │ Laurel   │ NFT │ X  │ 1365 │ XXXX  │ ---6-- │ Tossed all cards. │
+│2 │ 2655 │ 146352 │ DEFAULT  │ UFN │ X  │ 4255 │ ○---  │ -----2 │ No bonus applied. │
+│3 │ 6553 │ 534216 │ DEFAULT  │ UFN │ X  │ 6114 │ ○○--  │ ----1- │ No bonus applied. │
+│4 │ 5513 │ 451362 │ DEFAULT  │ UFN │ X  │ 6641 │ ○○--  │ 45---2 │ No bonus applied. │
+│5 │ 6661 │ 163245 │ DEFAULT  │ UFN │ X  │ 5551 │ ○---  │ --3--- │ No bonus applied. │
+│6 │ 3113 │ 532164 │ DEFAULT  │ UFN │ X  │ 2552 │ ----  │ ------ │ No bonus applied. │
+│7 │ 6436 │ 314652 │ DEFAULT  │ UFN │ X  │ 2642 │ ○---  │ ---6-2 │ No bonus applied. │
+│8 │ 2551 │ 516432 │ DEFAULT  │ UFN │ X  │ 1335 │ ●●○-  │ -----2 │ No bonus applied. │
+│9 │ 3554 │ 623154 │ DEFAULT  │ UFN │ X  │ 3551 │ ○○--  │ --3--- │ No bonus applied. │
+│10│ 2651 │ 234561 │ DEFAULT  │ UFN │ X  │ 3162 │ ○○--  │ ------ │ No bonus applied. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+You have run out of guesses. Better luck next time!

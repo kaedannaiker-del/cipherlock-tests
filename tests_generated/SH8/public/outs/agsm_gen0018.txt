@@ -1,0 +1,156 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tulip    │ NHC │
+│ Dahlia   │ UHC │
+│ Birch    │ NHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Dahlia 1
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Dahlia   │ UHC │ 1  │ 1122 │ ○---  │ XXXXXX │ 1 appears 1 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tulip    │ NHC │
+│ Birch    │ NHC │
+│ Hazel    │ UFR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3314 123456 Hazel 3
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 1122 │ 123456 │ Dahlia   │ UHC │ 1  │ 1122 │ ○---  │ XXXXXX │ 1 appears 1 times.         │
+│2 │ 3314 │ 123456 │ Hazel    │ UFR │ 3  │ 3314 │ ●---  │ ---4-- │ Replay: 3 appears 0 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tulip    │ NHC │
+│ Birch    │ NHC │
+│ Sorrel   │ NFH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2323 215463 Sorrel 1
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Dahlia   │ UHC │ 1  │ 1122 │ ○---  │ ---4-- │ 1 appears 1 times.                  │
+│2 │ 3314 │ 123456 │ Hazel    │ UFR │ 3  │ 3314 │ ●---  │ ---4-- │ Replay: 3 appears 0 times.          │
+│3 │ 2323 │ 215463 │ Sorrel   │ NFH │ 1  │ 1515 │ XXXX  │ 21-4-- │ Reveal on round 1 has been exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tulip    │ NHC │
+│ Birch    │ NHC │
+│ Bravo    │ UFR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2626 216435 Birch 5
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Dahlia   │ UHC │ 1  │ 1122 │ ○---  │ ---4-- │ 1 appears 1 times.                  │
+│2 │ 3314 │ 123456 │ Hazel    │ UFR │ 3  │ 3314 │ ●---  │ ---4-- │ Replay: 3 appears 0 times.          │
+│3 │ 2323 │ 215463 │ Sorrel   │ NFH │ 1  │ 1515 │ XXXX  │ 21-4-- │ Reveal on round 1 has been exposed. │
+│4 │ 2626 │ 216435 │ Birch    │ NHC │ 5  │ 1515 │ XXXX  │ XXXXXX │ 5 appears 1 times.                  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tulip    │ NHC │
+│ Bravo    │ UFR │
+│ Clover   │ NHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2623 216435 Bravo 2
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Dahlia   │ UHC │ 1  │ 1122 │ ○---  │ ---4-- │ 1 appears 1 times.                  │
+│2 │ 3314 │ 123456 │ Hazel    │ UFR │ 3  │ 3314 │ ●---  │ ---4-- │ Replay: 3 appears 0 times.          │
+│3 │ 2323 │ 215463 │ Sorrel   │ NFH │ 1  │ 1515 │ XXXX  │ 21-4-- │ Reveal on round 1 has been exposed. │
+│4 │ 2626 │ 216435 │ Birch    │ NHC │ 5  │ 1515 │ XXXX  │ XXXXXX │ 5 appears 1 times.                  │
+│5 │ 2623 │ 216435 │ Bravo    │ UFR │ 2  │ 1516 │ ●●○-  │ 216435 │ Replay: 2 appears 0 times.          │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tulip    │ NHC │
+│ Clover   │ NHE │
+│ Xray     │ UHR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+6323 216435 Clover
+┌────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                    │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬─────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                               │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼─────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Dahlia   │ UHC │ 1  │ 1122 │ ○---  │ ---4-- │ 1 appears 1 times.                  │
+│2 │ 3314 │ 123456 │ Hazel    │ UFR │ 3  │ 3314 │ ●---  │ ---4-- │ Replay: 3 appears 0 times.          │
+│3 │ 2323 │ 215463 │ Sorrel   │ NFH │ 1  │ 1515 │ XXXX  │ 21-4-- │ Reveal on round 1 has been exposed. │
+│4 │ 2626 │ 216435 │ Birch    │ NHC │ 5  │ 1515 │ XXXX  │ XXXXXX │ 5 appears 1 times.                  │
+│5 │ 2623 │ 216435 │ Bravo    │ UFR │ 2  │ 1516 │ ●●○-  │ 216435 │ Replay: 2 appears 0 times.          │
+│6 │ 6323 │ 216435 │ Clover   │ NHE │ X  │ 5616 │ XXXX  │ XXXXXX │ Added extra guess.                  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴─────────────────────────────────────┘
+Congratulations! You solved the cipherlock.

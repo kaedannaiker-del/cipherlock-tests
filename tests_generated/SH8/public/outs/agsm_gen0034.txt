@@ -1,0 +1,155 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Oscar    │ UHH │
+│ Yankee   │ NHH │
+│ Golf     │ UHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Golf 0
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Golf     │ UHH │ 0  │ 1122 │ ●---  │ XXXXXX │ No hidden reveals can be exposed. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Oscar    │ UHH │
+│ Yankee   │ NHH │
+│ Laurel   │ UHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1344 123456 Laurel
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Golf     │ UHH │ 0  │ 1122 │ ●---  │ XXXXXX │ No hidden reveals can be exposed. │
+│2 │ 1344 │ 123456 │ Laurel   │ UHE │ X  │ 1344 │ ○○--  │ XXXXXX │ Added extra guess.                │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Oscar    │ UHH │
+│ Yankee   │ NHH │
+│ Sierra   │ UFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3135 123456 Sierra 4
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Golf     │ UHH │ 0  │ 1122 │ ●---  │ XXXXXX │ No hidden reveals can be exposed. │
+│2 │ 1344 │ 123456 │ Laurel   │ UHE │ X  │ 1344 │ ○○--  │ XXXXXX │ Added extra guess.                │
+│3 │ 3135 │ 123456 │ Sierra   │ UFC │ 4  │ 3135 │ ----  │ 1----- │ 4 appears 2 times.                │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Oscar    │ UHH │
+│ Yankee   │ NHH │
+│ Kilo     │ OFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+6635 132564 Kilo
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Golf     │ UHH │ 0  │ 1122 │ ●---  │ XXXXXX │ No hidden reveals can be exposed. │
+│2 │ 1344 │ 123456 │ Laurel   │ UHE │ X  │ 1344 │ ○○--  │ XXXXXX │ Added extra guess.                │
+│3 │ 3135 │ 123456 │ Sierra   │ UFC │ 4  │ 3135 │ ----  │ 1----- │ 4 appears 2 times.                │
+│4 │ 6635 │ 132564 │ Kilo     │ OFT │ X  │ 4426 │ ●●●●  │ 1----4 │ Tossed all cards.                 │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Aster    │ NFP │
+│ Rowan    │ NHE │
+│ Echo     │ UFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+6643 156234 Aster 1
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Golf     │ UHH │ 0  │ 1122 │ --●-  │ XXXXXX │ No hidden reveals can be exposed. │
+│2 │ 1344 │ 123456 │ Laurel   │ UHE │ X  │ 1344 │ ○○--  │ XXXXXX │ Added extra guess.                │
+│3 │ 3135 │ 123456 │ Sierra   │ UFC │ 4  │ 3135 │ ----  │ 1----- │ 4 appears 2 times.                │
+│4 │ 6635 │ 132564 │ Kilo     │ OFT │ X  │ 4426 │ ●●●●  │ 1----4 │ Tossed all cards.                 │
+│5 │ 6643 │ 156234 │ Aster    │ NFP │ 1  │ 4426 │ XXXX  │ 1--234 │ Crack on round 1 is now ordered.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ NHE │
+│ Echo     │ UFC │
+│ Golf     │ UHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+6642 165234 Rowan
+┌────────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Golf     │ UHH │ 0  │ 1122 │ --●-  │ XXXXXX │ No hidden reveals can be exposed. │
+│2 │ 1344 │ 123456 │ Laurel   │ UHE │ X  │ 1344 │ ○○--  │ XXXXXX │ Added extra guess.                │
+│3 │ 3135 │ 123456 │ Sierra   │ UFC │ 4  │ 3135 │ ----  │ 1----- │ 4 appears 2 times.                │
+│4 │ 6635 │ 132564 │ Kilo     │ OFT │ X  │ 4426 │ ●●●●  │ 1----4 │ Tossed all cards.                 │
+│5 │ 6643 │ 156234 │ Aster    │ NFP │ 1  │ 4426 │ XXXX  │ 1--234 │ Crack on round 1 is now ordered.  │
+│6 │ 6642 │ 165234 │ Rowan    │ NHE │ X  │ 4426 │ XXXX  │ XXXXXX │ Added extra guess.                │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────────────────────┘
+Congratulations! You solved the cipherlock.

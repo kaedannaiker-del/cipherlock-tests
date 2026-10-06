@@ -1,0 +1,242 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Cedar    │ UFP │
+│ Sorrel   │ UFR │
+│ Vetch    │ UFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Vetch
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1122 │ 123456 │ Vetch    │ UFT │ X  │ 1122 │ ●●--  │ ------ │ Tossed all cards. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ UHR │
+│ Aspen    │ UHP │
+│ Victor   │ NHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2143 214365 Aspen 1
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                 │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                            │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Vetch    │ UFT │ X  │ 1122 │ ●●--  │ ------ │ Tossed all cards.                │
+│2 │ 2143 │ 214365 │ Aspen    │ UHP │ 1  │ 1234 │ ●○--  │ XXXXXX │ Crack on round 1 is now ordered. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ UHR │
+│ Victor   │ NHC │
+│ Dahlia   │ OHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2224 214365 Quebec 2
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                         │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                    │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Vetch    │ UFT │ X  │ 1122 │ ●●--  │ ------ │ Tossed all cards.                        │
+│2 │ 2143 │ 214365 │ Aspen    │ UHP │ 1  │ 1234 │ ●-○-  │ XXXXXX │ Crack on round 1 is now ordered.         │
+│3 │ 2224 │ 214365 │ Quebec   │ UHR │ 2  │ 1113 │ ●●●-  │ XXXXXX │ Replay: Crack on round 2 is now ordered. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Victor   │ NHC │
+│ Dahlia   │ OHH │
+│ Maple    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2264 214365 Maple
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                         │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                    │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Vetch    │ UFT │ X  │ 1122 │ ●●--  │ ------ │ Tossed all cards.                        │
+│2 │ 2143 │ 214365 │ Aspen    │ UHP │ 1  │ 1234 │ ●-○-  │ XXXXXX │ Crack on round 1 is now ordered.         │
+│3 │ 2224 │ 214365 │ Quebec   │ UHR │ 2  │ 1113 │ ●●●-  │ XXXXXX │ Replay: Crack on round 2 is now ordered. │
+│4 │ 2264 │ 214365 │ Maple    │ OHE │ X  │ 1153 │ ●●-●  │ XXXXXX │ Added extra guess.                       │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Victor   │ NHC │
+│ Dahlia   │ OHH │
+│ Alpha    │ NFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2254 214365 Alpha
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                         │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                    │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Vetch    │ UFT │ X  │ 1122 │ ●●--  │ ------ │ Tossed all cards.                        │
+│2 │ 2143 │ 214365 │ Aspen    │ UHP │ 1  │ 1234 │ ●-○-  │ XXXXXX │ Crack on round 1 is now ordered.         │
+│3 │ 2224 │ 214365 │ Quebec   │ UHR │ 2  │ 1113 │ ●●●-  │ XXXXXX │ Replay: Crack on round 2 is now ordered. │
+│4 │ 2264 │ 214365 │ Maple    │ OHE │ X  │ 1153 │ ●●-●  │ XXXXXX │ Added extra guess.                       │
+│5 │ 2254 │ 214365 │ Alpha    │ NFE │ X  │ 1163 │ XXXX  │ ------ │ Added extra guess.                       │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Victor   │ NHC │
+│ Dahlia   │ OHH │
+│ Laurel   │ UHN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5541 345612 Dahlia 2
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                         │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                    │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Vetch    │ UFT │ X  │ 1122 │ ●●--  │ ------ │ Tossed all cards.                        │
+│2 │ 2143 │ 214365 │ Aspen    │ UHP │ 1  │ 1234 │ ●-○-  │ ------ │ Crack on round 1 is now ordered.         │
+│3 │ 2224 │ 214365 │ Quebec   │ UHR │ 2  │ 1113 │ ●●●-  │ XXXXXX │ Replay: Crack on round 2 is now ordered. │
+│4 │ 2264 │ 214365 │ Maple    │ OHE │ X  │ 1153 │ ●●-●  │ XXXXXX │ Added extra guess.                       │
+│5 │ 2254 │ 214365 │ Alpha    │ NFE │ X  │ 1163 │ XXXX  │ ------ │ Added extra guess.                       │
+│6 │ 5541 │ 345612 │ Dahlia   │ OHH │ 2  │ 1163 │ ●●●●  │ XXXXXX │ Reveal on round 2 has been exposed.      │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Victor   │ NHC │
+│ Laurel   │ UHN │
+│ Clover   │ NFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5541 345612 Clover
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                         │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                    │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Vetch    │ UFT │ X  │ 1122 │ ●●--  │ ------ │ Tossed all cards.                        │
+│2 │ 2143 │ 214365 │ Aspen    │ UHP │ 1  │ 1234 │ ●-○-  │ ------ │ Crack on round 1 is now ordered.         │
+│3 │ 2224 │ 214365 │ Quebec   │ UHR │ 2  │ 1113 │ ●●●-  │ XXXXXX │ Replay: Crack on round 2 is now ordered. │
+│4 │ 2264 │ 214365 │ Maple    │ OHE │ X  │ 1153 │ ●●-●  │ XXXXXX │ Added extra guess.                       │
+│5 │ 2254 │ 214365 │ Alpha    │ NFE │ X  │ 1163 │ XXXX  │ ------ │ Added extra guess.                       │
+│6 │ 5541 │ 345612 │ Dahlia   │ OHH │ 2  │ 1163 │ ●●●●  │ XXXXXX │ Reveal on round 2 has been exposed.      │
+│7 │ 5541 │ 345612 │ Clover   │ NFN │ X  │ 1163 │ XXXX  │ ------ │ No bonus applied.                        │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Victor   │ NHC │
+│ Laurel   │ UHN │
+│ Zulu     │ NHT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+6632 436521
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                         │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                    │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Vetch    │ UFT │ X  │ 1122 │ ●●--  │ ------ │ Tossed all cards.                        │
+│2 │ 2143 │ 214365 │ Aspen    │ UHP │ 1  │ 1234 │ ●-○-  │ ------ │ Crack on round 1 is now ordered.         │
+│3 │ 2224 │ 214365 │ Quebec   │ UHR │ 2  │ 1113 │ ●●●-  │ XXXXXX │ Replay: Crack on round 2 is now ordered. │
+│4 │ 2264 │ 214365 │ Maple    │ OHE │ X  │ 1153 │ ●●-●  │ XXXXXX │ Added extra guess.                       │
+│5 │ 2254 │ 214365 │ Alpha    │ NFE │ X  │ 1163 │ XXXX  │ ------ │ Added extra guess.                       │
+│6 │ 5541 │ 345612 │ Dahlia   │ OHH │ 2  │ 1163 │ ●●●●  │ XXXXXX │ Reveal on round 2 has been exposed.      │
+│7 │ 5541 │ 345612 │ Clover   │ NFN │ X  │ 1163 │ XXXX  │ ------ │ No bonus applied.                        │
+│8 │ 6632 │ 436521 │ DEFAULT  │ UFN │ X  │ 1163 │ ●●●●  │ -3-52- │ No bonus applied.                        │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Victor   │ NHC │
+│ Laurel   │ UHN │
+│ Zulu     │ NHT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3312 631524 Zulu
+┌────────────────────────────────────────┬──────────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                         │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                                    │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Vetch    │ UFT │ X  │ 1122 │ ●●--  │ ------ │ Tossed all cards.                        │
+│2 │ 2143 │ 214365 │ Aspen    │ UHP │ 1  │ 1234 │ ●-○-  │ ------ │ Crack on round 1 is now ordered.         │
+│3 │ 2224 │ 214365 │ Quebec   │ UHR │ 2  │ 1113 │ ●●●-  │ XXXXXX │ Replay: Crack on round 2 is now ordered. │
+│4 │ 2264 │ 214365 │ Maple    │ OHE │ X  │ 1153 │ ●●-●  │ XXXXXX │ Added extra guess.                       │
+│5 │ 2254 │ 214365 │ Alpha    │ NFE │ X  │ 1163 │ XXXX  │ ------ │ Added extra guess.                       │
+│6 │ 5541 │ 345612 │ Dahlia   │ OHH │ 2  │ 1163 │ ●●●●  │ XXXXXX │ Reveal on round 2 has been exposed.      │
+│7 │ 5541 │ 345612 │ Clover   │ NFN │ X  │ 1163 │ XXXX  │ ------ │ No bonus applied.                        │
+│8 │ 6632 │ 436521 │ DEFAULT  │ UFN │ X  │ 1163 │ ●●●●  │ -3-52- │ No bonus applied.                        │
+│9 │ 3312 │ 631524 │ Zulu     │ NHT │ X  │ 1163 │ XXXX  │ XXXXXX │ Tossed all cards.                        │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────────────────────────┘
+Congratulations! You solved the cipherlock.

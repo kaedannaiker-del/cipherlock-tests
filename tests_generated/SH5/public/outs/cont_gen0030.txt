@@ -1,0 +1,266 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Clover   │ NHC │
+│ Oscar    │ OHC │
+│ Laurel   │ OHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 4544 │ 125463 │ Clover   │ NHC │ 1  │ 4644 │ XXXX  │ XXXXXX │ 1 appears 1 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Oscar    │ OHC │
+│ Laurel   │ OHC │
+│ Victor   │ OFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 4544 │ 125463 │ Clover   │ NHC │ 1  │ 4644 │ XXXX  │ XXXXXX │ 1 appears 1 times. │
+│2 │ 1121 │ 215463 │ Oscar    │ OHC │ 6  │ 2212 │ ○-○-  │ XXXXXX │ 6 appears 1 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Laurel   │ OHC │
+│ Victor   │ OFE │
+│ Lima     │ NHT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 4544 │ 125463 │ Clover   │ NHC │ 1  │ 4644 │ XXXX  │ XXXXXX │ 1 appears 1 times. │
+│2 │ 1121 │ 215463 │ Oscar    │ OHC │ 6  │ 2212 │ ○-○-  │ XXXXXX │ 6 appears 1 times. │
+│3 │ 5236 │ 246531 │ Laurel   │ OHC │ 1  │ 3461 │ -○○●  │ XXXXXX │ 1 appears 1 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Victor   │ OFE │
+│ Lima     │ NHT │
+│ Kilo     │ OHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 4544 │ 125463 │ Clover   │ NHC │ 1  │ 4644 │ XXXX  │ XXXXXX │ 1 appears 1 times. │
+│2 │ 1121 │ 215463 │ Oscar    │ OHC │ 6  │ 2212 │ ○-○-  │ XXXXXX │ 6 appears 1 times. │
+│3 │ 5236 │ 246531 │ Laurel   │ OHC │ 1  │ 3461 │ -○○●  │ XXXXXX │ 1 appears 1 times. │
+│4 │ 3422 │ 614235 │ DEFAULT  │ UFN │ X  │ 4211 │ ●●○-  │ ------ │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Victor   │ OFE │
+│ Lima     │ NHT │
+│ Kilo     │ OHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 4544 │ 125463 │ Clover   │ NHC │ 1  │ 4644 │ XXXX  │ XXXXXX │ 1 appears 1 times. │
+│2 │ 1121 │ 215463 │ Oscar    │ OHC │ 6  │ 2212 │ ○-○-  │ XXXXXX │ 6 appears 1 times. │
+│3 │ 5236 │ 246531 │ Laurel   │ OHC │ 1  │ 3461 │ -○○●  │ XXXXXX │ 1 appears 1 times. │
+│4 │ 3422 │ 614235 │ DEFAULT  │ UFN │ X  │ 4211 │ ●●○-  │ ------ │ No bonus applied.  │
+│5 │ 5534 │ 134562 │ DEFAULT  │ UFN │ X  │ 6645 │ ●○--  │ ---5-- │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Victor   │ OFE │
+│ Lima     │ NHT │
+│ Kilo     │ OHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 4544 │ 125463 │ Clover   │ NHC │ 1  │ 4644 │ XXXX  │ XXXXXX │ 1 appears 1 times. │
+│2 │ 1121 │ 215463 │ Oscar    │ OHC │ 6  │ 2212 │ ○-○-  │ XXXXXX │ 6 appears 1 times. │
+│3 │ 5236 │ 246531 │ Laurel   │ OHC │ 1  │ 3461 │ -○○●  │ XXXXXX │ 1 appears 1 times. │
+│4 │ 3422 │ 614235 │ DEFAULT  │ UFN │ X  │ 4211 │ ●●○-  │ ------ │ No bonus applied.  │
+│5 │ 5534 │ 134562 │ DEFAULT  │ UFN │ X  │ 6645 │ ●○--  │ ---5-- │ No bonus applied.  │
+│6 │ 3532 │ 251436 │ DEFAULT  │ UFN │ X  │ 1315 │ ○---  │ ------ │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Victor   │ OFE │
+│ Lima     │ NHT │
+│ Kilo     │ OHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 4544 │ 125463 │ Clover   │ NHC │ 1  │ 4644 │ XXXX  │ XXXXXX │ 1 appears 1 times. │
+│2 │ 1121 │ 215463 │ Oscar    │ OHC │ 6  │ 2212 │ ○-○-  │ XXXXXX │ 6 appears 1 times. │
+│3 │ 5236 │ 246531 │ Laurel   │ OHC │ 1  │ 3461 │ -○○●  │ XXXXXX │ 1 appears 1 times. │
+│4 │ 3422 │ 614235 │ DEFAULT  │ UFN │ X  │ 4211 │ ●●○-  │ ------ │ No bonus applied.  │
+│5 │ 5534 │ 134562 │ DEFAULT  │ UFN │ X  │ 6645 │ ●○--  │ ---5-- │ No bonus applied.  │
+│6 │ 3532 │ 251436 │ DEFAULT  │ UFN │ X  │ 1315 │ ○---  │ ------ │ No bonus applied.  │
+│7 │ 4532 │ 364512 │ DEFAULT  │ UFN │ X  │ 5146 │ ○○○-  │ 3--5-- │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (3 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Victor   │ OFE │
+│ Lima     │ NHT │
+│ Kilo     │ OHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 4544 │ 125463 │ Clover   │ NHC │ 1  │ 4644 │ XXXX  │ XXXXXX │ 1 appears 1 times. │
+│2 │ 1121 │ 215463 │ Oscar    │ OHC │ 6  │ 2212 │ ○-○-  │ XXXXXX │ 6 appears 1 times. │
+│3 │ 5236 │ 246531 │ Laurel   │ OHC │ 1  │ 3461 │ -○○●  │ XXXXXX │ 1 appears 1 times. │
+│4 │ 3422 │ 614235 │ DEFAULT  │ UFN │ X  │ 4211 │ ●●○-  │ ------ │ No bonus applied.  │
+│5 │ 5534 │ 134562 │ DEFAULT  │ UFN │ X  │ 6645 │ ●○--  │ ---5-- │ No bonus applied.  │
+│6 │ 3532 │ 251436 │ DEFAULT  │ UFN │ X  │ 1315 │ ○---  │ ------ │ No bonus applied.  │
+│7 │ 4532 │ 364512 │ DEFAULT  │ UFN │ X  │ 5146 │ ○○○-  │ 3--5-- │ No bonus applied.  │
+│8 │ 1354 │ 264153 │ DEFAULT  │ UFN │ X  │ 2451 │ ●○○-  │ ------ │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (2 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Victor   │ OFE │
+│ Lima     │ NHT │
+│ Kilo     │ OHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 4544 │ 125463 │ Clover   │ NHC │ 1  │ 4644 │ XXXX  │ XXXXXX │ 1 appears 1 times. │
+│2 │ 1121 │ 215463 │ Oscar    │ OHC │ 6  │ 2212 │ ○-○-  │ XXXXXX │ 6 appears 1 times. │
+│3 │ 5236 │ 246531 │ Laurel   │ OHC │ 1  │ 3461 │ -○○●  │ XXXXXX │ 1 appears 1 times. │
+│4 │ 3422 │ 614235 │ DEFAULT  │ UFN │ X  │ 4211 │ ●●○-  │ ------ │ No bonus applied.  │
+│5 │ 5534 │ 134562 │ DEFAULT  │ UFN │ X  │ 6645 │ ●○--  │ ---5-- │ No bonus applied.  │
+│6 │ 3532 │ 251436 │ DEFAULT  │ UFN │ X  │ 1315 │ ○---  │ ------ │ No bonus applied.  │
+│7 │ 4532 │ 364512 │ DEFAULT  │ UFN │ X  │ 5146 │ ○○○-  │ 3--5-- │ No bonus applied.  │
+│8 │ 1354 │ 264153 │ DEFAULT  │ UFN │ X  │ 2451 │ ●○○-  │ ------ │ No bonus applied.  │
+│9 │ 3646 │ 516243 │ DEFAULT  │ UFN │ X  │ 6323 │ ●○--  │ --6--- │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Victor   │ OFE │
+│ Lima     │ NHT │
+│ Kilo     │ OHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 4544 │ 125463 │ Clover   │ NHC │ 1  │ 4644 │ XXXX  │ XXXXXX │ 1 appears 1 times. │
+│2 │ 1121 │ 215463 │ Oscar    │ OHC │ 6  │ 2212 │ ○-○-  │ XXXXXX │ 6 appears 1 times. │
+│3 │ 5236 │ 246531 │ Laurel   │ OHC │ 1  │ 3461 │ -○○●  │ XXXXXX │ 1 appears 1 times. │
+│4 │ 3422 │ 614235 │ DEFAULT  │ UFN │ X  │ 4211 │ ●●○-  │ ------ │ No bonus applied.  │
+│5 │ 5534 │ 134562 │ DEFAULT  │ UFN │ X  │ 6645 │ ●○--  │ ---5-- │ No bonus applied.  │
+│6 │ 3532 │ 251436 │ DEFAULT  │ UFN │ X  │ 1315 │ ○---  │ ------ │ No bonus applied.  │
+│7 │ 4532 │ 364512 │ DEFAULT  │ UFN │ X  │ 5146 │ ○○○-  │ 3--5-- │ No bonus applied.  │
+│8 │ 1354 │ 264153 │ DEFAULT  │ UFN │ X  │ 2451 │ ●○○-  │ ------ │ No bonus applied.  │
+│9 │ 3646 │ 516243 │ DEFAULT  │ UFN │ X  │ 6323 │ ●○--  │ --6--- │ No bonus applied.  │
+│10│ 4116 │ 356412 │ DEFAULT  │ UFN │ X  │ 4332 │ ●○--  │ 3-6--- │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+You have run out of guesses. Better luck next time!

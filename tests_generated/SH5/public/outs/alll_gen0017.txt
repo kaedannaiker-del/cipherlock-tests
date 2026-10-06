@@ -1,0 +1,326 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ NHE │
+│ Rowan    │ OFR │
+│ Quebec   │ NFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 4242 │ 135246 │ Hotel    │ NHE │ X  │ 2323 │ XXXX  │ XXXXXX │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Rowan    │ OFR │
+│ Quebec   │ NFN │
+│ Yankee   │ NHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 4242 │ 135246 │ Hotel    │ NHE │ X  │ 2323 │ XXXX  │ XXXXXX │ Added extra guess.         │
+│2 │ 3344 │ 451632 │ Rowan    │ OFR │ X  │ 1166 │ ----  │ -5--32 │ Replay: Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Quebec   │ NFN │
+│ Yankee   │ NHM │
+│ Delta    │ NHT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 4242 │ 135246 │ Hotel    │ NHE │ X  │ 2323 │ XXXX  │ XXXXXX │ Added extra guess.         │
+│2 │ 3344 │ 451632 │ Rowan    │ OFR │ X  │ 1166 │ ----  │ -5--32 │ Replay: Added extra guess. │
+│3 │ 5342 │ 214563 │ Quebec   │ NFN │ X  │ 6451 │ XXXX  │ ------ │ No bonus applied.          │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ NHM │
+│ Delta    │ NHT │
+│ Umber    │ NFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 4242 │ 135246 │ Hotel    │ NHE │ X  │ 2323 │ XXXX  │ XXXXXX │ Added extra guess.         │
+│2 │ 3344 │ 451632 │ Rowan    │ OFR │ X  │ 1166 │ ----  │ -5--32 │ Replay: Added extra guess. │
+│3 │ 5342 │ 214563 │ Quebec   │ NFN │ X  │ 6451 │ XXXX  │ ------ │ No bonus applied.          │
+│4 │ 2236 │ 316524 │ DEFAULT  │ UFN │ X  │ 1164 │ ○---  │ --6--- │ No bonus applied.          │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ NHM │
+│ Delta    │ NHT │
+│ Umber    │ NFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 4242 │ 135246 │ Hotel    │ NHE │ X  │ 2323 │ XXXX  │ XXXXXX │ Added extra guess.         │
+│2 │ 3344 │ 451632 │ Rowan    │ OFR │ X  │ 1166 │ ----  │ -5--32 │ Replay: Added extra guess. │
+│3 │ 5342 │ 214563 │ Quebec   │ NFN │ X  │ 6451 │ XXXX  │ ------ │ No bonus applied.          │
+│4 │ 2236 │ 316524 │ DEFAULT  │ UFN │ X  │ 1164 │ ○---  │ --6--- │ No bonus applied.          │
+│5 │ 2535 │ 632154 │ DEFAULT  │ UFN │ X  │ 3525 │ ●○○-  │ ------ │ No bonus applied.          │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ NHM │
+│ Delta    │ NHT │
+│ Umber    │ NFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 4242 │ 135246 │ Hotel    │ NHE │ X  │ 2323 │ XXXX  │ XXXXXX │ Added extra guess.         │
+│2 │ 3344 │ 451632 │ Rowan    │ OFR │ X  │ 1166 │ ----  │ -5--32 │ Replay: Added extra guess. │
+│3 │ 5342 │ 214563 │ Quebec   │ NFN │ X  │ 6451 │ XXXX  │ ------ │ No bonus applied.          │
+│4 │ 2236 │ 316524 │ DEFAULT  │ UFN │ X  │ 1164 │ ○---  │ --6--- │ No bonus applied.          │
+│5 │ 2535 │ 632154 │ DEFAULT  │ UFN │ X  │ 3525 │ ●○○-  │ ------ │ No bonus applied.          │
+│6 │ 2314 │ 612354 │ DEFAULT  │ UFN │ X  │ 1263 │ ○---  │ ------ │ No bonus applied.          │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ NHM │
+│ Delta    │ NHT │
+│ Umber    │ NFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 4242 │ 135246 │ Hotel    │ NHE │ X  │ 2323 │ XXXX  │ XXXXXX │ Added extra guess.         │
+│2 │ 3344 │ 451632 │ Rowan    │ OFR │ X  │ 1166 │ ----  │ -5--32 │ Replay: Added extra guess. │
+│3 │ 5342 │ 214563 │ Quebec   │ NFN │ X  │ 6451 │ XXXX  │ ------ │ No bonus applied.          │
+│4 │ 2236 │ 316524 │ DEFAULT  │ UFN │ X  │ 1164 │ ○---  │ --6--- │ No bonus applied.          │
+│5 │ 2535 │ 632154 │ DEFAULT  │ UFN │ X  │ 3525 │ ●○○-  │ ------ │ No bonus applied.          │
+│6 │ 2314 │ 612354 │ DEFAULT  │ UFN │ X  │ 1263 │ ○---  │ ------ │ No bonus applied.          │
+│7 │ 3251 │ 642531 │ DEFAULT  │ UFN │ X  │ 2436 │ ●●--  │ ----3- │ No bonus applied.          │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ NHM │
+│ Delta    │ NHT │
+│ Umber    │ NFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 4242 │ 135246 │ Hotel    │ NHE │ X  │ 2323 │ XXXX  │ XXXXXX │ Added extra guess.         │
+│2 │ 3344 │ 451632 │ Rowan    │ OFR │ X  │ 1166 │ ----  │ -5--32 │ Replay: Added extra guess. │
+│3 │ 5342 │ 214563 │ Quebec   │ NFN │ X  │ 6451 │ XXXX  │ ------ │ No bonus applied.          │
+│4 │ 2236 │ 316524 │ DEFAULT  │ UFN │ X  │ 1164 │ ○---  │ --6--- │ No bonus applied.          │
+│5 │ 2535 │ 632154 │ DEFAULT  │ UFN │ X  │ 3525 │ ●○○-  │ ------ │ No bonus applied.          │
+│6 │ 2314 │ 612354 │ DEFAULT  │ UFN │ X  │ 1263 │ ○---  │ ------ │ No bonus applied.          │
+│7 │ 3251 │ 642531 │ DEFAULT  │ UFN │ X  │ 2436 │ ●●--  │ ----3- │ No bonus applied.          │
+│8 │ 5653 │ 614325 │ DEFAULT  │ UFN │ X  │ 2524 │ ●○○-  │ ------ │ No bonus applied.          │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ NHM │
+│ Delta    │ NHT │
+│ Umber    │ NFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 4242 │ 135246 │ Hotel    │ NHE │ X  │ 2323 │ XXXX  │ XXXXXX │ Added extra guess.         │
+│2 │ 3344 │ 451632 │ Rowan    │ OFR │ X  │ 1166 │ ----  │ -5--32 │ Replay: Added extra guess. │
+│3 │ 5342 │ 214563 │ Quebec   │ NFN │ X  │ 6451 │ XXXX  │ ------ │ No bonus applied.          │
+│4 │ 2236 │ 316524 │ DEFAULT  │ UFN │ X  │ 1164 │ ○---  │ --6--- │ No bonus applied.          │
+│5 │ 2535 │ 632154 │ DEFAULT  │ UFN │ X  │ 3525 │ ●○○-  │ ------ │ No bonus applied.          │
+│6 │ 2314 │ 612354 │ DEFAULT  │ UFN │ X  │ 1263 │ ○---  │ ------ │ No bonus applied.          │
+│7 │ 3251 │ 642531 │ DEFAULT  │ UFN │ X  │ 2436 │ ●●--  │ ----3- │ No bonus applied.          │
+│8 │ 5653 │ 614325 │ DEFAULT  │ UFN │ X  │ 2524 │ ●○○-  │ ------ │ No bonus applied.          │
+│9 │ 1121 │ 431625 │ DEFAULT  │ UFN │ X  │ 4434 │ ●---  │ ------ │ No bonus applied.          │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (3 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ NHM │
+│ Delta    │ NHT │
+│ Umber    │ NFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 4242 │ 135246 │ Hotel    │ NHE │ X  │ 2323 │ XXXX  │ XXXXXX │ Added extra guess.         │
+│2 │ 3344 │ 451632 │ Rowan    │ OFR │ X  │ 1166 │ ----  │ -5--32 │ Replay: Added extra guess. │
+│3 │ 5342 │ 214563 │ Quebec   │ NFN │ X  │ 6451 │ XXXX  │ ------ │ No bonus applied.          │
+│4 │ 2236 │ 316524 │ DEFAULT  │ UFN │ X  │ 1164 │ ○---  │ --6--- │ No bonus applied.          │
+│5 │ 2535 │ 632154 │ DEFAULT  │ UFN │ X  │ 3525 │ ●○○-  │ ------ │ No bonus applied.          │
+│6 │ 2314 │ 612354 │ DEFAULT  │ UFN │ X  │ 1263 │ ○---  │ ------ │ No bonus applied.          │
+│7 │ 3251 │ 642531 │ DEFAULT  │ UFN │ X  │ 2436 │ ●●--  │ ----3- │ No bonus applied.          │
+│8 │ 5653 │ 614325 │ DEFAULT  │ UFN │ X  │ 2524 │ ●○○-  │ ------ │ No bonus applied.          │
+│9 │ 1121 │ 431625 │ DEFAULT  │ UFN │ X  │ 4434 │ ●---  │ ------ │ No bonus applied.          │
+│10│ 5426 │ 126453 │ DEFAULT  │ UFN │ X  │ 5423 │ ●○○-  │ 1-64-- │ No bonus applied.          │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 11 (2 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ NHM │
+│ Delta    │ NHT │
+│ Umber    │ NFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 4242 │ 135246 │ Hotel    │ NHE │ X  │ 2323 │ XXXX  │ XXXXXX │ Added extra guess.         │
+│2 │ 3344 │ 451632 │ Rowan    │ OFR │ X  │ 1166 │ ----  │ -5--32 │ Replay: Added extra guess. │
+│3 │ 5342 │ 214563 │ Quebec   │ NFN │ X  │ 6451 │ XXXX  │ ------ │ No bonus applied.          │
+│4 │ 2236 │ 316524 │ DEFAULT  │ UFN │ X  │ 1164 │ ○---  │ --6--- │ No bonus applied.          │
+│5 │ 2535 │ 632154 │ DEFAULT  │ UFN │ X  │ 3525 │ ●○○-  │ ------ │ No bonus applied.          │
+│6 │ 2314 │ 612354 │ DEFAULT  │ UFN │ X  │ 1263 │ ○---  │ ------ │ No bonus applied.          │
+│7 │ 3251 │ 642531 │ DEFAULT  │ UFN │ X  │ 2436 │ ●●--  │ ----3- │ No bonus applied.          │
+│8 │ 5653 │ 614325 │ DEFAULT  │ UFN │ X  │ 2524 │ ●○○-  │ ------ │ No bonus applied.          │
+│9 │ 1121 │ 431625 │ DEFAULT  │ UFN │ X  │ 4434 │ ●---  │ ------ │ No bonus applied.          │
+│10│ 5426 │ 126453 │ DEFAULT  │ UFN │ X  │ 5423 │ ●○○-  │ 1-64-- │ No bonus applied.          │
+│11│ 5645 │ 516342 │ DEFAULT  │ UFN │ X  │ 4234 │ ○○--  │ --6--2 │ No bonus applied.          │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 12 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Yankee   │ NHM │
+│ Delta    │ NHT │
+│ Umber    │ NFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 4242 │ 135246 │ Hotel    │ NHE │ X  │ 2323 │ XXXX  │ XXXXXX │ Added extra guess.         │
+│2 │ 3344 │ 451632 │ Rowan    │ OFR │ X  │ 1166 │ ----  │ -5--32 │ Replay: Added extra guess. │
+│3 │ 5342 │ 214563 │ Quebec   │ NFN │ X  │ 6451 │ XXXX  │ ------ │ No bonus applied.          │
+│4 │ 2236 │ 316524 │ DEFAULT  │ UFN │ X  │ 1164 │ ○---  │ --6--- │ No bonus applied.          │
+│5 │ 2535 │ 632154 │ DEFAULT  │ UFN │ X  │ 3525 │ ●○○-  │ ------ │ No bonus applied.          │
+│6 │ 2314 │ 612354 │ DEFAULT  │ UFN │ X  │ 1263 │ ○---  │ ------ │ No bonus applied.          │
+│7 │ 3251 │ 642531 │ DEFAULT  │ UFN │ X  │ 2436 │ ●●--  │ ----3- │ No bonus applied.          │
+│8 │ 5653 │ 614325 │ DEFAULT  │ UFN │ X  │ 2524 │ ●○○-  │ ------ │ No bonus applied.          │
+│9 │ 1121 │ 431625 │ DEFAULT  │ UFN │ X  │ 4434 │ ●---  │ ------ │ No bonus applied.          │
+│10│ 5426 │ 126453 │ DEFAULT  │ UFN │ X  │ 5423 │ ●○○-  │ 1-64-- │ No bonus applied.          │
+│11│ 5645 │ 516342 │ DEFAULT  │ UFN │ X  │ 4234 │ ○○--  │ --6--2 │ No bonus applied.          │
+│12│ 5162 │ 513642 │ DEFAULT  │ UFN │ X  │ 4521 │ ○○○-  │ -----2 │ No bonus applied.          │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+You have run out of guesses. Better luck next time!

@@ -1,0 +1,182 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Mike     │ NHE │
+│ India    │ UHC │
+│ Umber    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 India 1
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ India    │ UHC │ 1  │ 1122 │ ●---  │ XXXXXX │ 1 appears 0 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Mike     │ NHE │
+│ Umber    │ OHE │
+│ Laurel   │ NFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3456 123456 Umber
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ India    │ UHC │ 1  │ 1122 │ ●---  │ XXXXXX │ 1 appears 0 times. │
+│2 │ 3456 │ 123456 │ Umber    │ OHE │ X  │ 3456 │ -○-○  │ XXXXXX │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Mike     │ NHE │
+│ Laurel   │ NFE │
+│ Foxtrot  │ UHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4624 123456 Foxtrot 4
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ India    │ UHC │ 1  │ 1122 │ ●---  │ XXXXXX │ 1 appears 0 times. │
+│2 │ 3456 │ 123456 │ Umber    │ OHE │ X  │ 3456 │ -○-○  │ XXXXXX │ Added extra guess. │
+│3 │ 4624 │ 123456 │ Foxtrot  │ UHC │ 4  │ 4624 │ ●●○○  │ XXXXXX │ 4 appears 2 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Mike     │ NHE │
+│ Laurel   │ NFE │
+│ Cedar    │ OHR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4642 123456 Laurel
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ India    │ UHC │ 1  │ 1122 │ ●---  │ XXXXXX │ 1 appears 0 times. │
+│2 │ 3456 │ 123456 │ Umber    │ OHE │ X  │ 3456 │ -○-○  │ XXXXXX │ Added extra guess. │
+│3 │ 4624 │ 123456 │ Foxtrot  │ UHC │ 4  │ 4624 │ ●●○○  │ XXXXXX │ 4 appears 2 times. │
+│4 │ 4642 │ 123456 │ Laurel   │ NFE │ X  │ 4642 │ XXXX  │ ------ │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Mike     │ NHE │
+│ Cedar    │ OHR │
+│ Yankee   │ NFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+3531 214365 Yankee
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ India    │ UHC │ 1  │ 1122 │ ●---  │ XXXXXX │ 1 appears 0 times. │
+│2 │ 3456 │ 123456 │ Umber    │ OHE │ X  │ 3456 │ -○-○  │ XXXXXX │ Added extra guess. │
+│3 │ 4624 │ 123456 │ Foxtrot  │ UHC │ 4  │ 4624 │ ●●○○  │ XXXXXX │ 4 appears 2 times. │
+│4 │ 4642 │ 123456 │ Laurel   │ NFE │ X  │ 4642 │ XXXX  │ ------ │ Added extra guess. │
+│5 │ 3531 │ 214365 │ Yankee   │ NFN │ X  │ 4642 │ XXXX  │ -1-3-- │ No bonus applied.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Mike     │ NHE │
+│ Cedar    │ OHR │
+│ Alpha    │ NFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+6365 516324 Alpha
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ India    │ UHC │ 1  │ 1122 │ ●---  │ XXXXXX │ 1 appears 0 times. │
+│2 │ 3456 │ 123456 │ Umber    │ OHE │ X  │ 3456 │ -○-○  │ XXXXXX │ Added extra guess. │
+│3 │ 4624 │ 123456 │ Foxtrot  │ UHC │ 4  │ 4624 │ ●●○○  │ XXXXXX │ 4 appears 2 times. │
+│4 │ 4642 │ 123456 │ Laurel   │ NFE │ X  │ 4642 │ XXXX  │ ------ │ Added extra guess. │
+│5 │ 3531 │ 214365 │ Yankee   │ NFN │ X  │ 4642 │ XXXX  │ -1-3-- │ No bonus applied.  │
+│6 │ 6365 │ 516324 │ Alpha    │ NFT │ X  │ 4642 │ XXXX  │ -1-3-- │ Tossed all cards.  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Birch    │ OFR │
+│ India    │ UHC │
+│ Umber    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5156 615342 Umber
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ India    │ UHC │ 1  │ 1122 │ ●---  │ XXXXXX │ 1 appears 0 times. │
+│2 │ 3456 │ 123456 │ Umber    │ OHE │ X  │ 3456 │ -○-○  │ XXXXXX │ Added extra guess. │
+│3 │ 4624 │ 123456 │ Foxtrot  │ UHC │ 4  │ 4624 │ ●●○○  │ XXXXXX │ 4 appears 2 times. │
+│4 │ 4642 │ 123456 │ Laurel   │ NFE │ X  │ 4642 │ XXXX  │ ------ │ Added extra guess. │
+│5 │ 3531 │ 214365 │ Yankee   │ NFN │ X  │ 4642 │ XXXX  │ -1-3-- │ No bonus applied.  │
+│6 │ 6365 │ 516324 │ Alpha    │ NFT │ X  │ 4642 │ XXXX  │ -1-3-- │ Tossed all cards.  │
+│7 │ 5156 │ 615342 │ Umber    │ OHE │ X  │ 4642 │ ●●●●  │ XXXXXX │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+Congratulations! You solved the cipherlock.

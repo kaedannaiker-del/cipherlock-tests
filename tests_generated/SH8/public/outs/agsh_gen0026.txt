@@ -1,0 +1,146 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+Enter agent name and effects for agent 18:
+Enter agent name and effects for agent 19:
+Enter agent name and effects for agent 20:
+Enter agent name and effects for agent 21:
+Enter agent name and effects for agent 22:
+Enter agent name and effects for agent 23:
+Enter agent name and effects for agent 24:
+Enter agent name and effects for agent 25:
+Enter agent name and effects for agent 26:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ India    │ OFC │
+│ Birch    │ NHP │
+│ Elm      │ UHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 India 1
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ India    │ OFC │ 1  │ 1122 │ ----  │ ------ │ 1 appears 0 times. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Birch    │ NHP │
+│ Elm      │ UHM │
+│ Hazel    │ NFE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4436 214365 Elm 1
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ India    │ OFC │ 1  │ 1122 │ ----  │ ------ │ 1 appears 0 times. │
+│2 │ 4436 │ 214365 │ Elm      │ UHM │ 1  │ 3345 │ ●●--  │ XXXXXX │ 1 maps to 6.       │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Birch    │ NHP │
+│ Hazel    │ NFE │
+│ Victor   │ OFR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5611 612345 Victor 6
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 1122 │ 123456 │ India    │ OFC │ 1  │ 1122 │ ----  │ ------ │ 1 appears 0 times.   │
+│2 │ 4436 │ 214365 │ Elm      │ UHM │ 1  │ 3345 │ ●●--  │ XXXXXX │ 1 maps to 6.         │
+│3 │ 5611 │ 612345 │ Victor   │ OFR │ 6  │ 4566 │ ---●  │ 6-2--- │ Replay: 6 maps to 4. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Birch    │ NHP │
+│ Hazel    │ NFE │
+│ Sierra   │ NHN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2221 632514 Hazel
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 1122 │ 123456 │ India    │ OFC │ 1  │ 1122 │ ----  │ ------ │ 1 appears 0 times.   │
+│2 │ 4436 │ 214365 │ Elm      │ UHM │ 1  │ 3345 │ ●●--  │ XXXXXX │ 1 maps to 6.         │
+│3 │ 5611 │ 612345 │ Victor   │ OFR │ 6  │ 4566 │ ---●  │ 6-2--- │ Replay: 6 maps to 4. │
+│4 │ 2221 │ 632514 │ Hazel    │ NFE │ X  │ 3336 │ XXXX  │ 6-2--4 │ Added extra guess.   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Birch    │ NHP │
+│ Sierra   │ NHN │
+│ Maple    │ UFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5551 652134 Maple
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 1122 │ 123456 │ India    │ OFC │ 1  │ 1122 │ ----  │ ------ │ 1 appears 0 times.   │
+│2 │ 4436 │ 214365 │ Elm      │ UHM │ 1  │ 3345 │ ●●--  │ XXXXXX │ 1 maps to 6.         │
+│3 │ 5611 │ 612345 │ Victor   │ OFR │ 6  │ 4566 │ ---●  │ 6-2--- │ Replay: 6 maps to 4. │
+│4 │ 2221 │ 632514 │ Hazel    │ NFE │ X  │ 3336 │ XXXX  │ 6-2--4 │ Added extra guess.   │
+│5 │ 5551 │ 652134 │ Maple    │ UFT │ X  │ 3336 │ ●●●●  │ 652134 │ Tossed all cards.    │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+Congratulations! You solved the cipherlock.

@@ -1,0 +1,190 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+Enter agent name and effects for agent 14:
+Enter agent name and effects for agent 15:
+Enter agent name and effects for agent 16:
+Enter agent name and effects for agent 17:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Birch    │ UFT │
+│ Rowan    │ NFE │
+│ Vetch    │ UFR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1122 123456 Birch
+┌────────────────────────────────────────┬───────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                  │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬───────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus             │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼───────────────────┤
+│1 │ 1122 │ 123456 │ Birch    │ UFT │ X  │ 1122 │ ----  │ ------ │ Tossed all cards. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴───────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Juliett  │ NFR │
+│ Elm      │ UHP │
+│ Basil    │ OHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4365 214365 Basil
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────┤
+│1 │ 1122 │ 123456 │ Birch    │ UFT │ X  │ 1122 │ ----  │ ------ │ Tossed all cards.  │
+│2 │ 4365 │ 214365 │ Basil    │ OHE │ X  │ 3456 │ ●●-○  │ XXXXXX │ Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Juliett  │ NFR │
+│ Elm      │ UHP │
+│ Sorrel   │ NHR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+4354 214365 Juliett
+┌────────────────────────────────────────┬────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                           │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                      │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────┤
+│1 │ 1122 │ 123456 │ Birch    │ UFT │ X  │ 1122 │ ----  │ ------ │ Tossed all cards.          │
+│2 │ 4365 │ 214365 │ Basil    │ OHE │ X  │ 3456 │ ●●-○  │ XXXXXX │ Added extra guess.         │
+│3 │ 4354 │ 214365 │ Juliett  │ NFR │ X  │ 3463 │ XXXX  │ ------ │ Replay: Added extra guess. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Elm      │ UHP │
+│ Sorrel   │ NHR │
+│ Aspen    │ NHR │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1241 345612 Elm 3
+┌────────────────────────────────────────┬────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Birch    │ UFT │ X  │ 1122 │ ----  │ ------ │ Tossed all cards.                  │
+│2 │ 4365 │ 214365 │ Basil    │ OHE │ X  │ 3456 │ ●●-○  │ XXXXXX │ Added extra guess.                 │
+│3 │ 4354 │ 214365 │ Juliett  │ NFR │ X  │ 3463 │ ●●●-  │ ------ │ Replay: Added extra guess.         │
+│4 │ 1241 │ 345612 │ Elm      │ UHP │ 3  │ 3463 │ ●●●-  │ XXXXXX │ Crack on round 3 is now unordered. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sorrel   │ NHR │
+│ Aspen    │ NHR │
+│ Foxtrot  │ OFM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+1242 345612 Foxtrot 1
+┌────────────────────────────────────────┬────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Birch    │ UFT │ X  │ 1122 │ ----  │ ------ │ Tossed all cards.                  │
+│2 │ 4365 │ 214365 │ Basil    │ OHE │ X  │ 3456 │ ●●-○  │ XXXXXX │ Added extra guess.                 │
+│3 │ 4354 │ 214365 │ Juliett  │ NFR │ X  │ 3463 │ ●●●-  │ ------ │ Replay: Added extra guess.         │
+│4 │ 1241 │ 345612 │ Elm      │ UHP │ 3  │ 3463 │ ●●●-  │ XXXXXX │ Crack on round 3 is now unordered. │
+│5 │ 1242 │ 345612 │ Foxtrot  │ OFM │ 1  │ 3464 │ ●●●●  │ ------ │ 1 maps to 5.                       │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sorrel   │ NHR │
+│ Aspen    │ NHR │
+│ Clover   │ UFN │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+2636 536124 Clover
+┌────────────────────────────────────────┬────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Birch    │ UFT │ X  │ 1122 │ ----  │ ------ │ Tossed all cards.                  │
+│2 │ 4365 │ 214365 │ Basil    │ OHE │ X  │ 3456 │ ●●-○  │ XXXXXX │ Added extra guess.                 │
+│3 │ 4354 │ 214365 │ Juliett  │ NFR │ X  │ 3463 │ ●●●-  │ ------ │ Replay: Added extra guess.         │
+│4 │ 1241 │ 345612 │ Elm      │ UHP │ 3  │ 3463 │ ●●●-  │ XXXXXX │ Crack on round 3 is now unordered. │
+│5 │ 1242 │ 345612 │ Foxtrot  │ OFM │ 1  │ 3464 │ ●●●●  │ ------ │ 1 maps to 5.                       │
+│6 │ 2636 │ 536124 │ Clover   │ UFN │ X  │ 3464 │ ●●●●  │ 5----4 │ No bonus applied.                  │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Sorrel   │ NHR │
+│ Aspen    │ NHR │
+│ Echo     │ NHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+5626 561234 Echo
+┌────────────────────────────────────────┬────────────────────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                                   │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬────────────────────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                              │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼────────────────────────────────────┤
+│1 │ 1122 │ 123456 │ Birch    │ UFT │ X  │ 1122 │ ----  │ ------ │ Tossed all cards.                  │
+│2 │ 4365 │ 214365 │ Basil    │ OHE │ X  │ 3456 │ ●●-○  │ XXXXXX │ Added extra guess.                 │
+│3 │ 4354 │ 214365 │ Juliett  │ NFR │ X  │ 3463 │ ●●●-  │ ------ │ Replay: Added extra guess.         │
+│4 │ 1241 │ 345612 │ Elm      │ UHP │ 3  │ 3463 │ ●●●-  │ XXXXXX │ Crack on round 3 is now unordered. │
+│5 │ 1242 │ 345612 │ Foxtrot  │ OFM │ 1  │ 3464 │ ●●●●  │ ------ │ 1 maps to 5.                       │
+│6 │ 2636 │ 536124 │ Clover   │ UFN │ X  │ 3464 │ ●●●●  │ 5----4 │ No bonus applied.                  │
+│7 │ 5626 │ 561234 │ Echo     │ NHE │ X  │ 3464 │ XXXX  │ XXXXXX │ Added extra guess.                 │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴────────────────────────────────────┘
+Congratulations! You solved the cipherlock.

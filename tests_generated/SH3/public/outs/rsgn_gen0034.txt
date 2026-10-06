@@ -1,0 +1,10 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+Enter a guess-passcode and guess-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+The Hacker resigned.

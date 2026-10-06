@@ -1,0 +1,5 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+You must select a minimum of 8 and a maximum of 28 agent cards.

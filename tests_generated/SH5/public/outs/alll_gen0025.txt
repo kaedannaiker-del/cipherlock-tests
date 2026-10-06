@@ -1,0 +1,263 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+Enter agent name and effects for agent 9:
+Enter agent name and effects for agent 10:
+Enter agent name and effects for agent 11:
+Enter agent name and effects for agent 12:
+Enter agent name and effects for agent 13:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Tango    │ NHM │
+│ Elm      │ OFR │
+│ Alpha    │ OHC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────┐
+│ Guess                                  │ Feedback                             │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus        │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────┤
+│1 │ 3241 │ 521364 │ Tango    │ NHM │ 1  │ 1235 │ XXXX  │ XXXXXX │ 1 maps to 2. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Elm      │ OFR │
+│ Alpha    │ OHC │
+│ Cedar    │ OHM │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 3241 │ 521364 │ Tango    │ NHM │ 1  │ 1235 │ XXXX  │ XXXXXX │ 1 maps to 2.         │
+│2 │ 3213 │ 416523 │ Elm      │ OFR │ 1  │ 6146 │ ○○--  │ ------ │ Replay: 1 maps to 2. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Alpha    │ OHC │
+│ Cedar    │ OHM │
+│ Willow   │ UHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 3241 │ 521364 │ Tango    │ NHM │ 1  │ 1235 │ XXXX  │ XXXXXX │ 1 maps to 2.         │
+│2 │ 3213 │ 416523 │ Elm      │ OFR │ 1  │ 6146 │ ○○--  │ ------ │ Replay: 1 maps to 2. │
+│3 │ 3426 │ 456132 │ Alpha    │ OHC │ 3  │ 6152 │ ○○-○  │ XXXXXX │ 3 appears 1 times.   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Cedar    │ OHM │
+│ Willow   │ UHP │
+│ Zulu     │ NHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 3241 │ 521364 │ Tango    │ NHM │ 1  │ 1235 │ XXXX  │ XXXXXX │ 1 maps to 2.         │
+│2 │ 3213 │ 416523 │ Elm      │ OFR │ 1  │ 6146 │ ○○--  │ ------ │ Replay: 1 maps to 2. │
+│3 │ 3426 │ 456132 │ Alpha    │ OHC │ 3  │ 6152 │ ○○-○  │ XXXXXX │ 3 appears 1 times.   │
+│4 │ 6263 │ 123546 │ DEFAULT  │ UFN │ X  │ 6263 │ ●○○-  │ ------ │ No bonus applied.    │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Cedar    │ OHM │
+│ Willow   │ UHP │
+│ Zulu     │ NHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 3241 │ 521364 │ Tango    │ NHM │ 1  │ 1235 │ XXXX  │ XXXXXX │ 1 maps to 2.         │
+│2 │ 3213 │ 416523 │ Elm      │ OFR │ 1  │ 6146 │ ○○--  │ ------ │ Replay: 1 maps to 2. │
+│3 │ 3426 │ 456132 │ Alpha    │ OHC │ 3  │ 6152 │ ○○-○  │ XXXXXX │ 3 appears 1 times.   │
+│4 │ 6263 │ 123546 │ DEFAULT  │ UFN │ X  │ 6263 │ ●○○-  │ ------ │ No bonus applied.    │
+│5 │ 2256 │ 213645 │ DEFAULT  │ UFN │ X  │ 1145 │ ●---  │ 2----5 │ No bonus applied.    │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Cedar    │ OHM │
+│ Willow   │ UHP │
+│ Zulu     │ NHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 3241 │ 521364 │ Tango    │ NHM │ 1  │ 1235 │ XXXX  │ XXXXXX │ 1 maps to 2.         │
+│2 │ 3213 │ 416523 │ Elm      │ OFR │ 1  │ 6146 │ ○○--  │ ------ │ Replay: 1 maps to 2. │
+│3 │ 3426 │ 456132 │ Alpha    │ OHC │ 3  │ 6152 │ ○○-○  │ XXXXXX │ 3 appears 1 times.   │
+│4 │ 6263 │ 123546 │ DEFAULT  │ UFN │ X  │ 6263 │ ●○○-  │ ------ │ No bonus applied.    │
+│5 │ 2256 │ 213645 │ DEFAULT  │ UFN │ X  │ 1145 │ ●---  │ 2----5 │ No bonus applied.    │
+│6 │ 3224 │ 415236 │ DEFAULT  │ UFN │ X  │ 5112 │ ○○--  │ ------ │ No bonus applied.    │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Cedar    │ OHM │
+│ Willow   │ UHP │
+│ Zulu     │ NHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 3241 │ 521364 │ Tango    │ NHM │ 1  │ 1235 │ XXXX  │ XXXXXX │ 1 maps to 2.         │
+│2 │ 3213 │ 416523 │ Elm      │ OFR │ 1  │ 6146 │ ○○--  │ ------ │ Replay: 1 maps to 2. │
+│3 │ 3426 │ 456132 │ Alpha    │ OHC │ 3  │ 6152 │ ○○-○  │ XXXXXX │ 3 appears 1 times.   │
+│4 │ 6263 │ 123546 │ DEFAULT  │ UFN │ X  │ 6263 │ ●○○-  │ ------ │ No bonus applied.    │
+│5 │ 2256 │ 213645 │ DEFAULT  │ UFN │ X  │ 1145 │ ●---  │ 2----5 │ No bonus applied.    │
+│6 │ 3224 │ 415236 │ DEFAULT  │ UFN │ X  │ 5112 │ ○○--  │ ------ │ No bonus applied.    │
+│7 │ 3555 │ 435162 │ DEFAULT  │ UFN │ X  │ 5666 │ ●---  │ -3-16- │ No bonus applied.    │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (3 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Cedar    │ OHM │
+│ Willow   │ UHP │
+│ Zulu     │ NHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 3241 │ 521364 │ Tango    │ NHM │ 1  │ 1235 │ XXXX  │ XXXXXX │ 1 maps to 2.         │
+│2 │ 3213 │ 416523 │ Elm      │ OFR │ 1  │ 6146 │ ○○--  │ ------ │ Replay: 1 maps to 2. │
+│3 │ 3426 │ 456132 │ Alpha    │ OHC │ 3  │ 6152 │ ○○-○  │ XXXXXX │ 3 appears 1 times.   │
+│4 │ 6263 │ 123546 │ DEFAULT  │ UFN │ X  │ 6263 │ ●○○-  │ ------ │ No bonus applied.    │
+│5 │ 2256 │ 213645 │ DEFAULT  │ UFN │ X  │ 1145 │ ●---  │ 2----5 │ No bonus applied.    │
+│6 │ 3224 │ 415236 │ DEFAULT  │ UFN │ X  │ 5112 │ ○○--  │ ------ │ No bonus applied.    │
+│7 │ 3555 │ 435162 │ DEFAULT  │ UFN │ X  │ 5666 │ ●---  │ -3-16- │ No bonus applied.    │
+│8 │ 3242 │ 265413 │ DEFAULT  │ UFN │ X  │ 5646 │ ●---  │ 2----- │ No bonus applied.    │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (2 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Cedar    │ OHM │
+│ Willow   │ UHP │
+│ Zulu     │ NHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 3241 │ 521364 │ Tango    │ NHM │ 1  │ 1235 │ XXXX  │ XXXXXX │ 1 maps to 2.         │
+│2 │ 3213 │ 416523 │ Elm      │ OFR │ 1  │ 6146 │ ○○--  │ ------ │ Replay: 1 maps to 2. │
+│3 │ 3426 │ 456132 │ Alpha    │ OHC │ 3  │ 6152 │ ○○-○  │ XXXXXX │ 3 appears 1 times.   │
+│4 │ 6263 │ 123546 │ DEFAULT  │ UFN │ X  │ 6263 │ ●○○-  │ ------ │ No bonus applied.    │
+│5 │ 2256 │ 213645 │ DEFAULT  │ UFN │ X  │ 1145 │ ●---  │ 2----5 │ No bonus applied.    │
+│6 │ 3224 │ 415236 │ DEFAULT  │ UFN │ X  │ 5112 │ ○○--  │ ------ │ No bonus applied.    │
+│7 │ 3555 │ 435162 │ DEFAULT  │ UFN │ X  │ 5666 │ ●---  │ -3-16- │ No bonus applied.    │
+│8 │ 3242 │ 265413 │ DEFAULT  │ UFN │ X  │ 5646 │ ●---  │ 2----- │ No bonus applied.    │
+│9 │ 2544 │ 653241 │ DEFAULT  │ UFN │ X  │ 5422 │ ●---  │ ------ │ No bonus applied.    │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Cedar    │ OHM │
+│ Willow   │ UHP │
+│ Zulu     │ NHH │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 3241 │ 521364 │ Tango    │ NHM │ 1  │ 1235 │ XXXX  │ XXXXXX │ 1 maps to 2.         │
+│2 │ 3213 │ 416523 │ Elm      │ OFR │ 1  │ 6146 │ ○○--  │ ------ │ Replay: 1 maps to 2. │
+│3 │ 3426 │ 456132 │ Alpha    │ OHC │ 3  │ 6152 │ ○○-○  │ XXXXXX │ 3 appears 1 times.   │
+│4 │ 6263 │ 123546 │ DEFAULT  │ UFN │ X  │ 6263 │ ●○○-  │ ------ │ No bonus applied.    │
+│5 │ 2256 │ 213645 │ DEFAULT  │ UFN │ X  │ 1145 │ ●---  │ 2----5 │ No bonus applied.    │
+│6 │ 3224 │ 415236 │ DEFAULT  │ UFN │ X  │ 5112 │ ○○--  │ ------ │ No bonus applied.    │
+│7 │ 3555 │ 435162 │ DEFAULT  │ UFN │ X  │ 5666 │ ●---  │ -3-16- │ No bonus applied.    │
+│8 │ 3242 │ 265413 │ DEFAULT  │ UFN │ X  │ 5646 │ ●---  │ 2----- │ No bonus applied.    │
+│9 │ 2544 │ 653241 │ DEFAULT  │ UFN │ X  │ 5422 │ ●---  │ ------ │ No bonus applied.    │
+│10│ 1113 │ 346521 │ DEFAULT  │ UFN │ X  │ 3336 │ ○○--  │ ------ │ No bonus applied.    │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+You have run out of guesses. Better luck next time!

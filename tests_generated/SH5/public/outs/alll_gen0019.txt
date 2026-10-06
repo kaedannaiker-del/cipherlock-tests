@@ -1,0 +1,258 @@
+Enter the true-passcode and true-cipher:
+○○○○ 123456
+↓↓↓↓ ↓↓↓↓↓↓
+How many agent cards will you add?
+Enter agent name and effects for agent 1:
+Enter agent name and effects for agent 2:
+Enter agent name and effects for agent 3:
+Enter agent name and effects for agent 4:
+Enter agent name and effects for agent 5:
+Enter agent name and effects for agent 6:
+Enter agent name and effects for agent 7:
+Enter agent name and effects for agent 8:
+┌──────────────────────────────────────────┐
+│           Guess 1 (10 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Mike     │ NHM │
+│ Dahlia   │ NFR │
+│ Oscar    │ NFC │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────┐
+│ Guess                                  │ Feedback                             │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus        │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────┤
+│1 │ 3364 │ 532164 │ Mike     │ NHM │ 1  │ 2241 │ XXXX  │ XXXXXX │ 1 maps to 5. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 2 (9 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Dahlia   │ NFR │
+│ Oscar    │ NFC │
+│ Hotel    │ NHE │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 3364 │ 532164 │ Mike     │ NHM │ 1  │ 2241 │ XXXX  │ XXXXXX │ 1 maps to 5.         │
+│2 │ 5431 │ 431652 │ Dahlia   │ NFR │ 1  │ 5614 │ XXXX  │ -316-2 │ Replay: 1 maps to 5. │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 3 (8 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Oscar    │ NFC │
+│ Hotel    │ NHE │
+│ Bravo    │ OFT │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 3364 │ 532164 │ Mike     │ NHM │ 1  │ 2241 │ XXXX  │ XXXXXX │ 1 maps to 5.         │
+│2 │ 5431 │ 431652 │ Dahlia   │ NFR │ 1  │ 5614 │ XXXX  │ -316-2 │ Replay: 1 maps to 5. │
+│3 │ 2151 │ 645123 │ Oscar    │ NFC │ 3  │ 4626 │ XXXX  │ ------ │ 3 appears 0 times.   │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 4 (7 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ NHE │
+│ Bravo    │ OFT │
+│ Aspen    │ NHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 3364 │ 532164 │ Mike     │ NHM │ 1  │ 2241 │ XXXX  │ XXXXXX │ 1 maps to 5.         │
+│2 │ 5431 │ 431652 │ Dahlia   │ NFR │ 1  │ 5614 │ XXXX  │ -316-2 │ Replay: 1 maps to 5. │
+│3 │ 2151 │ 645123 │ Oscar    │ NFC │ 3  │ 4626 │ XXXX  │ ------ │ 3 appears 0 times.   │
+│4 │ 4133 │ 134526 │ DEFAULT  │ UFN │ X  │ 5144 │ ----  │ -3---- │ No bonus applied.    │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 5 (6 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ NHE │
+│ Bravo    │ OFT │
+│ Aspen    │ NHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 3364 │ 532164 │ Mike     │ NHM │ 1  │ 2241 │ XXXX  │ XXXXXX │ 1 maps to 5.         │
+│2 │ 5431 │ 431652 │ Dahlia   │ NFR │ 1  │ 5614 │ XXXX  │ -316-2 │ Replay: 1 maps to 5. │
+│3 │ 2151 │ 645123 │ Oscar    │ NFC │ 3  │ 4626 │ XXXX  │ ------ │ 3 appears 0 times.   │
+│4 │ 4133 │ 134526 │ DEFAULT  │ UFN │ X  │ 5144 │ ----  │ -3---- │ No bonus applied.    │
+│5 │ 4233 │ 263514 │ DEFAULT  │ UFN │ X  │ 5633 │ ○---  │ ------ │ No bonus applied.    │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 6 (5 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ NHE │
+│ Bravo    │ OFT │
+│ Aspen    │ NHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 3364 │ 532164 │ Mike     │ NHM │ 1  │ 2241 │ XXXX  │ XXXXXX │ 1 maps to 5.         │
+│2 │ 5431 │ 431652 │ Dahlia   │ NFR │ 1  │ 5614 │ XXXX  │ -316-2 │ Replay: 1 maps to 5. │
+│3 │ 2151 │ 645123 │ Oscar    │ NFC │ 3  │ 4626 │ XXXX  │ ------ │ 3 appears 0 times.   │
+│4 │ 4133 │ 134526 │ DEFAULT  │ UFN │ X  │ 5144 │ ----  │ -3---- │ No bonus applied.    │
+│5 │ 4233 │ 263514 │ DEFAULT  │ UFN │ X  │ 5633 │ ○---  │ ------ │ No bonus applied.    │
+│6 │ 2534 │ 514236 │ DEFAULT  │ UFN │ X  │ 1342 │ ○---  │ 5----- │ No bonus applied.    │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 7 (4 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ NHE │
+│ Bravo    │ OFT │
+│ Aspen    │ NHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 3364 │ 532164 │ Mike     │ NHM │ 1  │ 2241 │ XXXX  │ XXXXXX │ 1 maps to 5.         │
+│2 │ 5431 │ 431652 │ Dahlia   │ NFR │ 1  │ 5614 │ XXXX  │ -316-2 │ Replay: 1 maps to 5. │
+│3 │ 2151 │ 645123 │ Oscar    │ NFC │ 3  │ 4626 │ XXXX  │ ------ │ 3 appears 0 times.   │
+│4 │ 4133 │ 134526 │ DEFAULT  │ UFN │ X  │ 5144 │ ----  │ -3---- │ No bonus applied.    │
+│5 │ 4233 │ 263514 │ DEFAULT  │ UFN │ X  │ 5633 │ ○---  │ ------ │ No bonus applied.    │
+│6 │ 2534 │ 514236 │ DEFAULT  │ UFN │ X  │ 1342 │ ○---  │ 5----- │ No bonus applied.    │
+│7 │ 5345 │ 324561 │ DEFAULT  │ UFN │ X  │ 6456 │ ●---  │ ------ │ No bonus applied.    │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 8 (3 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ NHE │
+│ Bravo    │ OFT │
+│ Aspen    │ NHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 3364 │ 532164 │ Mike     │ NHM │ 1  │ 2241 │ XXXX  │ XXXXXX │ 1 maps to 5.         │
+│2 │ 5431 │ 431652 │ Dahlia   │ NFR │ 1  │ 5614 │ XXXX  │ -316-2 │ Replay: 1 maps to 5. │
+│3 │ 2151 │ 645123 │ Oscar    │ NFC │ 3  │ 4626 │ XXXX  │ ------ │ 3 appears 0 times.   │
+│4 │ 4133 │ 134526 │ DEFAULT  │ UFN │ X  │ 5144 │ ----  │ -3---- │ No bonus applied.    │
+│5 │ 4233 │ 263514 │ DEFAULT  │ UFN │ X  │ 5633 │ ○---  │ ------ │ No bonus applied.    │
+│6 │ 2534 │ 514236 │ DEFAULT  │ UFN │ X  │ 1342 │ ○---  │ 5----- │ No bonus applied.    │
+│7 │ 5345 │ 324561 │ DEFAULT  │ UFN │ X  │ 6456 │ ●---  │ ------ │ No bonus applied.    │
+│8 │ 6235 │ 264135 │ DEFAULT  │ UFN │ X  │ 5643 │ ○---  │ ------ │ No bonus applied.    │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 9 (2 remaining)          │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ NHE │
+│ Bravo    │ OFT │
+│ Aspen    │ NHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 3364 │ 532164 │ Mike     │ NHM │ 1  │ 2241 │ XXXX  │ XXXXXX │ 1 maps to 5.         │
+│2 │ 5431 │ 431652 │ Dahlia   │ NFR │ 1  │ 5614 │ XXXX  │ -316-2 │ Replay: 1 maps to 5. │
+│3 │ 2151 │ 645123 │ Oscar    │ NFC │ 3  │ 4626 │ XXXX  │ ------ │ 3 appears 0 times.   │
+│4 │ 4133 │ 134526 │ DEFAULT  │ UFN │ X  │ 5144 │ ----  │ -3---- │ No bonus applied.    │
+│5 │ 4233 │ 263514 │ DEFAULT  │ UFN │ X  │ 5633 │ ○---  │ ------ │ No bonus applied.    │
+│6 │ 2534 │ 514236 │ DEFAULT  │ UFN │ X  │ 1342 │ ○---  │ 5----- │ No bonus applied.    │
+│7 │ 5345 │ 324561 │ DEFAULT  │ UFN │ X  │ 6456 │ ●---  │ ------ │ No bonus applied.    │
+│8 │ 6235 │ 264135 │ DEFAULT  │ UFN │ X  │ 5643 │ ○---  │ ------ │ No bonus applied.    │
+│9 │ 4456 │ 463215 │ DEFAULT  │ UFN │ X  │ 2215 │ ●●--  │ ------ │ No bonus applied.    │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+┌──────────────────────────────────────────┐
+│           Guess 10 (1 remaining)         │
+└──────────────────────────────────────────┘
+┌────────────────┐
+│  Your Agents   │
+├──────────┬─────┤
+│ Hotel    │ NHE │
+│ Bravo    │ OFT │
+│ Aspen    │ NHP │
+└──────────┴─────┘
+Enter a guess-passcode and guess-cipher, and play an agent card (optional). Also enter the agent digit if required.
+○○○○ 123456 Agent and digit
+↓↓↓↓ ↓↓↓↓↓↓ ↓
+┌────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ Guess                                  │ Feedback                                     │
+├──┬──────┬────────┬──────────┬─────┬────┼──────┬───────┬────────┬──────────────────────┤
+│##│ Code │ Cipher │ Agent    │ CRB │ D  │ Lock │ Crack │ Reveal │ Bonus                │
+├──┼──────┼────────┼──────────┼─────┼────┼──────┼───────┼────────┼──────────────────────┤
+│1 │ 3364 │ 532164 │ Mike     │ NHM │ 1  │ 2241 │ XXXX  │ XXXXXX │ 1 maps to 5.         │
+│2 │ 5431 │ 431652 │ Dahlia   │ NFR │ 1  │ 5614 │ XXXX  │ -316-2 │ Replay: 1 maps to 5. │
+│3 │ 2151 │ 645123 │ Oscar    │ NFC │ 3  │ 4626 │ XXXX  │ ------ │ 3 appears 0 times.   │
+│4 │ 4133 │ 134526 │ DEFAULT  │ UFN │ X  │ 5144 │ ----  │ -3---- │ No bonus applied.    │
+│5 │ 4233 │ 263514 │ DEFAULT  │ UFN │ X  │ 5633 │ ○---  │ ------ │ No bonus applied.    │
+│6 │ 2534 │ 514236 │ DEFAULT  │ UFN │ X  │ 1342 │ ○---  │ 5----- │ No bonus applied.    │
+│7 │ 5345 │ 324561 │ DEFAULT  │ UFN │ X  │ 6456 │ ●---  │ ------ │ No bonus applied.    │
+│8 │ 6235 │ 264135 │ DEFAULT  │ UFN │ X  │ 5643 │ ○---  │ ------ │ No bonus applied.    │
+│9 │ 4456 │ 463215 │ DEFAULT  │ UFN │ X  │ 2215 │ ●●--  │ ------ │ No bonus applied.    │
+│10│ 6331 │ 243651 │ DEFAULT  │ UFN │ X  │ 1332 │ ○---  │ ---6-- │ No bonus applied.    │
+└──┴──────┴────────┴──────────┴─────┴────┴──────┴───────┴────────┴──────────────────────┘
+You have run out of guesses. Better luck next time!
